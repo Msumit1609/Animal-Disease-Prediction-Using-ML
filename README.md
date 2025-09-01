@@ -57,7 +57,7 @@ streamlit run app.py
 ---
 
 **Usage**
-Step 1: Login or register to access the system
-Step 2: Input animal health details such as symptoms, age, and other parameters
-Step 3: Click on Predict to get the disease prediction instantly
-Step 4: Use results for preventive care or further analysis
+- Login or register to access the system
+- Input animal health details such as symptoms, age, and other parameters
+- Click on Predict to get the disease prediction instantly
+- Use results for preventive care or further analysis
