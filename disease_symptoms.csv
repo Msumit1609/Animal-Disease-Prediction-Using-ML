@@ -1,0 +1,3001 @@
+Symptom1,Symptom2,Symptom3,Symptom4,Symptom5,Disease
+Swelling,Skin Rash,Sweating,Cough,Fever,Bronchitis
+Sweating,Body Pain,High Fever,Chest Pain,Abdominal Pain,Dengue
+Chills,Diarrhea,Fever,Muscle Weakness,Loss of Appetite,Food Poisoning
+Loss of Appetite,Vomiting,Body Pain,Skin Rash,Fever,Allergy
+Headache,Runny Nose,High Fever,Skin Rash,Dizziness,Bronchitis
+Dizziness,High Fever,Joint Pain,Diarrhea,Sweating,Allergy
+Skin Rash,Cough,Abdominal Pain,Shortness of Breath,Sore Throat,Chikungunya
+Muscle Weakness,Loss of Appetite,Joint Pain,Vomiting,Fever,Pneumonia
+Nausea,Loss of Appetite,Muscle Weakness,Chills,Cough,Food Poisoning
+Chest Pain,Swelling,Abdominal Pain,Fever,Joint Pain,Allergy
+Nausea,Diarrhea,Muscle Weakness,Abdominal Pain,Joint Pain,Bronchitis
+Body Pain,Swelling,Runny Nose,Nausea,Sneezing,Cold
+Headache,Fatigue,Sore Throat,Sweating,Muscle Weakness,Asthma
+Fever,Body Pain,Vomiting,Abdominal Pain,Joint Pain,Dengue
+Vomiting,Headache,Diarrhea,High Fever,Cough,Bronchitis
+Cough,Body Pain,Fatigue,Headache,Sore Throat,COVID-19
+Runny Nose,Fatigue,Sneezing,Fever,Body Pain,Dengue
+Shortness of Breath,Nausea,Fatigue,Body Pain,Diarrhea,Food Poisoning
+Joint Pain,Swelling,Fatigue,Sweating,Muscle Weakness,Cold
+Dizziness,Skin Rash,Abdominal Pain,Runny Nose,Fever,Malaria
+High Fever,Runny Nose,Fever,Headache,Skin Rash,COVID-19
+Loss of Appetite,Muscle Weakness,Dizziness,Shortness of Breath,Fatigue,Flu
+Nausea,Muscle Weakness,Sore Throat,Sweating,Shortness of Breath,Asthma
+Loss of Appetite,Muscle Weakness,High Fever,Chills,Vomiting,Allergy
+Vomiting,Fatigue,Skin Rash,Abdominal Pain,Cough,Tuberculosis
+Body Pain,Nausea,Joint Pain,Diarrhea,Fever,Bronchitis
+Muscle Weakness,Sore Throat,Joint Pain,Fatigue,Vomiting,Asthma
+Diarrhea,Joint Pain,Dizziness,Fatigue,Abdominal Pain,Asthma
+Body Pain,Sore Throat,Joint Pain,Swelling,Loss of Appetite,COVID-19
+Joint Pain,Body Pain,Chest Pain,Nausea,Skin Rash,Cold
+Abdominal Pain,Loss of Appetite,Runny Nose,Headache,Cough,Bronchitis
+Sweating,Skin Rash,High Fever,Chest Pain,Chills,Dengue
+Sore Throat,High Fever,Runny Nose,Diarrhea,Swelling,Cold
+Vomiting,Nausea,Headache,Chest Pain,Muscle Weakness,Allergy
+Chest Pain,Fatigue,Dizziness,Body Pain,Muscle Weakness,Asthma
+Diarrhea,Joint Pain,Body Pain,Swelling,Sweating,Bronchitis
+Abdominal Pain,Skin Rash,Loss of Appetite,Fever,Chest Pain,Typhoid
+Sore Throat,Swelling,Chest Pain,Joint Pain,Body Pain,Dengue
+Body Pain,Dizziness,Nausea,Loss of Appetite,Chills,Malaria
+Fatigue,Nausea,Chest Pain,Skin Rash,Loss of Appetite,Cold
+Vomiting,Body Pain,Loss of Appetite,Cough,Nausea,Flu
+Fever,Sore Throat,Sweating,Body Pain,Sneezing,Pneumonia
+Dizziness,Fatigue,Headache,Cough,Shortness of Breath,Asthma
+Chest Pain,Nausea,Cough,Abdominal Pain,Runny Nose,Tuberculosis
+Skin Rash,Chills,Sweating,Fever,Headache,Malaria
+Headache,Fatigue,Runny Nose,Vomiting,Joint Pain,Asthma
+Vomiting,Abdominal Pain,Skin Rash,Body Pain,Sore Throat,COVID-19
+Nausea,Fatigue,Body Pain,Swelling,Sore Throat,Dengue
+Shortness of Breath,Abdominal Pain,Headache,Runny Nose,Chest Pain,Chikungunya
+Swelling,Diarrhea,Sore Throat,Fatigue,Headache,Chikungunya
+Joint Pain,Sweating,Sore Throat,Cough,Fever,Allergy
+Chills,Nausea,Body Pain,Chest Pain,Swelling,Dengue
+Abdominal Pain,Body Pain,Loss of Appetite,Sweating,Runny Nose,Cold
+Muscle Weakness,Joint Pain,Fever,Abdominal Pain,Cough,Cold
+Runny Nose,Loss of Appetite,Chills,Diarrhea,Fever,Asthma
+Sweating,High Fever,Runny Nose,Skin Rash,Body Pain,Chikungunya
+Muscle Weakness,Dizziness,Nausea,Shortness of Breath,Body Pain,Dengue
+Cough,Chest Pain,Nausea,Vomiting,Shortness of Breath,Asthma
+Muscle Weakness,Body Pain,Dizziness,Sneezing,Diarrhea,Bronchitis
+Diarrhea,Sweating,Joint Pain,High Fever,Headache,Pneumonia
+Vomiting,Loss of Appetite,Dizziness,Sneezing,Joint Pain,Malaria
+Joint Pain,Dizziness,Sneezing,Headache,Fatigue,COVID-19
+Loss of Appetite,Runny Nose,Abdominal Pain,Sneezing,Swelling,Dengue
+Sore Throat,Body Pain,High Fever,Sneezing,Loss of Appetite,Pneumonia
+Dizziness,Skin Rash,Swelling,Runny Nose,Fever,Chikungunya
+Fever,Headache,Chills,Dizziness,Abdominal Pain,Flu
+Vomiting,Sweating,Joint Pain,Fatigue,Fever,Pneumonia
+Shortness of Breath,Diarrhea,Runny Nose,Chills,Muscle Weakness,Asthma
+Skin Rash,Body Pain,Loss of Appetite,Headache,Fever,COVID-19
+Runny Nose,Diarrhea,Dizziness,Abdominal Pain,Joint Pain,COVID-19
+Joint Pain,Abdominal Pain,Dizziness,Vomiting,Sneezing,Allergy
+Chills,Shortness of Breath,Sweating,Loss of Appetite,Headache,COVID-19
+Body Pain,Skin Rash,Sweating,Diarrhea,Muscle Weakness,Cold
+Muscle Weakness,Shortness of Breath,Diarrhea,Dizziness,Headache,Asthma
+Cough,Nausea,Joint Pain,Chills,Skin Rash,Food Poisoning
+Body Pain,Nausea,Abdominal Pain,Joint Pain,Chest Pain,Flu
+Fatigue,Sore Throat,High Fever,Runny Nose,Nausea,Chikungunya
+Swelling,Sneezing,Cough,Skin Rash,Body Pain,Bronchitis
+Chills,Sweating,Body Pain,Joint Pain,Abdominal Pain,Pneumonia
+Body Pain,Chest Pain,Cough,Abdominal Pain,Fever,Pneumonia
+Shortness of Breath,Cough,Body Pain,Fever,Nausea,Dengue
+Skin Rash,Diarrhea,Chills,Muscle Weakness,Nausea,Food Poisoning
+Joint Pain,Dizziness,Chest Pain,Skin Rash,Nausea,COVID-19
+Joint Pain,Abdominal Pain,Fatigue,Chills,Skin Rash,Dengue
+Headache,Body Pain,Joint Pain,Loss of Appetite,Dizziness,Bronchitis
+Runny Nose,Dizziness,High Fever,Body Pain,Fatigue,Chikungunya
+Nausea,Fatigue,Runny Nose,Muscle Weakness,Sore Throat,Tuberculosis
+Cough,Loss of Appetite,Shortness of Breath,Chest Pain,Fatigue,Chikungunya
+Fatigue,Chills,Swelling,Dizziness,Chest Pain,Typhoid
+Fatigue,Swelling,Dizziness,Sneezing,Chills,Pneumonia
+Abdominal Pain,Chills,Muscle Weakness,Joint Pain,Fatigue,Bronchitis
+Fatigue,Body Pain,Cough,Joint Pain,Chest Pain,COVID-19
+Runny Nose,Sweating,Chest Pain,Sore Throat,Joint Pain,Flu
+Dizziness,Chest Pain,Nausea,Runny Nose,Fever,Pneumonia
+Chills,Cough,Sore Throat,High Fever,Shortness of Breath,Tuberculosis
+Chills,Diarrhea,Headache,Sneezing,Sore Throat,Dengue
+Dizziness,Vomiting,Chest Pain,Body Pain,Fatigue,Cold
+Vomiting,Swelling,Abdominal Pain,Sneezing,Skin Rash,Flu
+Sweating,Joint Pain,Cough,Nausea,Fever,Dengue
+Headache,Diarrhea,Fever,Dizziness,Vomiting,Typhoid
+Body Pain,Diarrhea,Abdominal Pain,Runny Nose,Skin Rash,Bronchitis
+Skin Rash,Shortness of Breath,Vomiting,Chills,Cough,Malaria
+Headache,Swelling,Sneezing,Muscle Weakness,Sore Throat,Flu
+Fever,Chills,Sweating,Nausea,Chest Pain,Allergy
+Fatigue,Runny Nose,Cough,Sore Throat,Sneezing,Chikungunya
+Fatigue,Shortness of Breath,Joint Pain,Sneezing,Vomiting,Pneumonia
+Body Pain,Chest Pain,High Fever,Loss of Appetite,Chills,Asthma
+Joint Pain,Sore Throat,Body Pain,Abdominal Pain,Skin Rash,Dengue
+Sweating,Diarrhea,Sore Throat,Dizziness,Loss of Appetite,Dengue
+Cough,Abdominal Pain,Dizziness,Sweating,Diarrhea,Flu
+Sore Throat,Muscle Weakness,Nausea,Headache,Fever,Food Poisoning
+Chest Pain,Sweating,Dizziness,Vomiting,Diarrhea,Allergy
+Fever,Loss of Appetite,Cough,Swelling,Chest Pain,Flu
+High Fever,Abdominal Pain,Diarrhea,Sore Throat,Shortness of Breath,Asthma
+Swelling,Diarrhea,Nausea,Cough,Sweating,Typhoid
+Nausea,Runny Nose,Shortness of Breath,Headache,Vomiting,Pneumonia
+Sore Throat,Cough,Skin Rash,Fever,Muscle Weakness,Allergy
+Joint Pain,Abdominal Pain,Muscle Weakness,High Fever,Sneezing,Chikungunya
+Loss of Appetite,Swelling,Sneezing,Body Pain,Shortness of Breath,Pneumonia
+Fatigue,Loss of Appetite,Skin Rash,Sore Throat,Vomiting,Malaria
+High Fever,Diarrhea,Skin Rash,Chills,Muscle Weakness,Asthma
+Fatigue,Sore Throat,High Fever,Muscle Weakness,Joint Pain,Bronchitis
+Sweating,Sneezing,Sore Throat,Joint Pain,Cough,Chikungunya
+Swelling,Shortness of Breath,Vomiting,Sore Throat,Joint Pain,Pneumonia
+High Fever,Runny Nose,Cough,Muscle Weakness,Sneezing,Typhoid
+Joint Pain,Skin Rash,Fatigue,Sore Throat,Chills,Asthma
+Skin Rash,Muscle Weakness,Nausea,Abdominal Pain,Runny Nose,Dengue
+Runny Nose,Dizziness,Muscle Weakness,Fever,Nausea,Cold
+Shortness of Breath,Swelling,Fatigue,Chills,Fever,Cold
+Fatigue,Sneezing,Skin Rash,Muscle Weakness,Dizziness,Malaria
+Chest Pain,Sore Throat,Diarrhea,Abdominal Pain,Fatigue,Food Poisoning
+Fever,Chills,Fatigue,Loss of Appetite,Swelling,Chikungunya
+Chills,Diarrhea,Cough,Abdominal Pain,Joint Pain,Tuberculosis
+Shortness of Breath,High Fever,Joint Pain,Chest Pain,Abdominal Pain,Asthma
+Muscle Weakness,Joint Pain,Runny Nose,Chills,Fever,Malaria
+Body Pain,Vomiting,Muscle Weakness,Sweating,Diarrhea,Dengue
+Swelling,Body Pain,Shortness of Breath,Diarrhea,Sneezing,Flu
+Headache,Chest Pain,Chills,Fatigue,Runny Nose,Flu
+Sore Throat,Headache,Swelling,Fever,Joint Pain,Asthma
+Nausea,Abdominal Pain,Body Pain,Sneezing,Muscle Weakness,Chikungunya
+High Fever,Vomiting,Muscle Weakness,Cough,Nausea,Food Poisoning
+Shortness of Breath,Skin Rash,Dizziness,Runny Nose,High Fever,COVID-19
+Body Pain,Nausea,Runny Nose,Fever,Chest Pain,Flu
+Fatigue,Nausea,Muscle Weakness,Cough,Joint Pain,Cold
+Sneezing,Diarrhea,Loss of Appetite,Headache,Nausea,Bronchitis
+Shortness of Breath,Swelling,Chest Pain,Nausea,Abdominal Pain,Cold
+Joint Pain,Fatigue,Cough,Dizziness,Body Pain,Allergy
+Sneezing,Diarrhea,Fever,Sore Throat,Vomiting,Flu
+Dizziness,Sweating,Headache,Sneezing,Muscle Weakness,COVID-19
+Diarrhea,Fatigue,Abdominal Pain,Muscle Weakness,Runny Nose,Flu
+High Fever,Headache,Sneezing,Sore Throat,Shortness of Breath,Dengue
+Chills,Joint Pain,Chest Pain,Abdominal Pain,Loss of Appetite,Bronchitis
+Abdominal Pain,Shortness of Breath,High Fever,Cough,Diarrhea,Tuberculosis
+Body Pain,Nausea,Fever,Sweating,Headache,Chikungunya
+Sweating,Swelling,Abdominal Pain,Fever,Loss of Appetite,Malaria
+Skin Rash,Joint Pain,Chest Pain,Chills,Sneezing,Allergy
+Abdominal Pain,Fever,Joint Pain,Sore Throat,Dizziness,Pneumonia
+Joint Pain,Diarrhea,Body Pain,Fever,Cough,Typhoid
+Shortness of Breath,Skin Rash,Sore Throat,Swelling,Chest Pain,Chikungunya
+Sore Throat,High Fever,Sneezing,Abdominal Pain,Runny Nose,Bronchitis
+Fever,Skin Rash,Body Pain,Runny Nose,Sneezing,Tuberculosis
+Headache,Cough,Fever,Sore Throat,Shortness of Breath,Allergy
+Nausea,Joint Pain,Cough,Vomiting,Sore Throat,COVID-19
+Sore Throat,Sweating,High Fever,Swelling,Runny Nose,Asthma
+Skin Rash,Shortness of Breath,Abdominal Pain,Sweating,Chills,Bronchitis
+Body Pain,Sore Throat,Sneezing,Vomiting,Sweating,Tuberculosis
+Loss of Appetite,Fatigue,Shortness of Breath,Cough,Headache,Flu
+Diarrhea,Loss of Appetite,Skin Rash,Chills,Fever,Bronchitis
+Shortness of Breath,Joint Pain,Chest Pain,Skin Rash,Diarrhea,Cold
+Fatigue,Sore Throat,Abdominal Pain,Sweating,Swelling,Pneumonia
+Body Pain,Sore Throat,High Fever,Sweating,Loss of Appetite,Food Poisoning
+Chest Pain,Nausea,Headache,Dizziness,Fever,Typhoid
+Muscle Weakness,Chills,Body Pain,Shortness of Breath,Joint Pain,Allergy
+Chest Pain,Loss of Appetite,High Fever,Shortness of Breath,Fatigue,Cold
+Sneezing,Chills,Cough,Muscle Weakness,Headache,Allergy
+Sore Throat,Nausea,Dizziness,High Fever,Abdominal Pain,Cold
+Shortness of Breath,Dizziness,Cough,Chills,Headache,COVID-19
+Chills,Headache,Sneezing,Cough,Nausea,Allergy
+Swelling,Chest Pain,Sweating,Shortness of Breath,Joint Pain,Tuberculosis
+Sneezing,Chills,Runny Nose,Muscle Weakness,Headache,Asthma
+Body Pain,Headache,Swelling,Skin Rash,Fever,Flu
+Loss of Appetite,Shortness of Breath,Runny Nose,Dizziness,Diarrhea,Asthma
+High Fever,Cough,Loss of Appetite,Muscle Weakness,Runny Nose,Asthma
+Sore Throat,Loss of Appetite,Shortness of Breath,Runny Nose,Joint Pain,Flu
+Runny Nose,Nausea,Joint Pain,Headache,Chest Pain,Typhoid
+Sweating,Vomiting,Loss of Appetite,Runny Nose,Diarrhea,Flu
+Sweating,Dizziness,Body Pain,Sneezing,Runny Nose,Malaria
+Runny Nose,Fever,Muscle Weakness,Swelling,Vomiting,COVID-19
+Swelling,Muscle Weakness,High Fever,Sneezing,Chills,Chikungunya
+Swelling,Joint Pain,Abdominal Pain,Shortness of Breath,Nausea,Cold
+Vomiting,Swelling,Sneezing,Shortness of Breath,Nausea,Tuberculosis
+Abdominal Pain,Body Pain,Loss of Appetite,Swelling,Shortness of Breath,Flu
+High Fever,Muscle Weakness,Headache,Dizziness,Nausea,Asthma
+Sneezing,Chills,High Fever,Cough,Vomiting,Chikungunya
+Chest Pain,Headache,Muscle Weakness,Fatigue,Loss of Appetite,Tuberculosis
+Sneezing,Fatigue,Nausea,Headache,Muscle Weakness,Malaria
+Abdominal Pain,Body Pain,Swelling,Headache,Vomiting,COVID-19
+Shortness of Breath,Vomiting,Chills,Skin Rash,Joint Pain,Bronchitis
+Sweating,Vomiting,Sore Throat,High Fever,Joint Pain,Bronchitis
+Chest Pain,Muscle Weakness,Chills,Skin Rash,Cough,Typhoid
+Abdominal Pain,Runny Nose,Dizziness,Shortness of Breath,Cough,Dengue
+Abdominal Pain,Nausea,Joint Pain,Vomiting,Skin Rash,Bronchitis
+Chest Pain,Headache,Sweating,Fatigue,High Fever,Pneumonia
+High Fever,Abdominal Pain,Loss of Appetite,Chest Pain,Sore Throat,Typhoid
+High Fever,Sore Throat,Joint Pain,Shortness of Breath,Abdominal Pain,Food Poisoning
+Dizziness,Skin Rash,Chest Pain,High Fever,Cough,Dengue
+Abdominal Pain,Sweating,Dizziness,Nausea,Loss of Appetite,Bronchitis
+Dizziness,Shortness of Breath,Chest Pain,Abdominal Pain,Fever,Food Poisoning
+Nausea,Abdominal Pain,Diarrhea,Dizziness,Swelling,Chikungunya
+Chills,Dizziness,Sneezing,Fever,Diarrhea,Cold
+Runny Nose,High Fever,Sweating,Abdominal Pain,Shortness of Breath,Asthma
+Chills,Body Pain,High Fever,Abdominal Pain,Sore Throat,Malaria
+Body Pain,Headache,Vomiting,Skin Rash,Abdominal Pain,Asthma
+Fever,Skin Rash,Chills,Chest Pain,Joint Pain,Pneumonia
+Cough,Fever,Swelling,Runny Nose,Diarrhea,Chikungunya
+Chills,Vomiting,Diarrhea,Loss of Appetite,Headache,Food Poisoning
+Nausea,Sore Throat,Body Pain,Vomiting,Chills,Chikungunya
+Skin Rash,Chest Pain,Shortness of Breath,Joint Pain,Loss of Appetite,Dengue
+Sneezing,Fatigue,Abdominal Pain,Swelling,Nausea,Food Poisoning
+Fatigue,Chills,Fever,Headache,Cough,Pneumonia
+Diarrhea,Sneezing,Skin Rash,Abdominal Pain,Loss of Appetite,Cold
+Chest Pain,Dizziness,Diarrhea,Swelling,Headache,Bronchitis
+Runny Nose,Shortness of Breath,Cough,Sore Throat,Sweating,Cold
+Fever,Body Pain,Headache,Nausea,Joint Pain,Bronchitis
+Sneezing,Muscle Weakness,Runny Nose,Abdominal Pain,Joint Pain,Allergy
+Swelling,Body Pain,Dizziness,Skin Rash,Nausea,Allergy
+Chills,Headache,Abdominal Pain,Diarrhea,Muscle Weakness,Food Poisoning
+Body Pain,Fever,Vomiting,Joint Pain,Muscle Weakness,Chikungunya
+Abdominal Pain,Muscle Weakness,Sore Throat,Swelling,Fever,Chikungunya
+Abdominal Pain,Nausea,High Fever,Runny Nose,Body Pain,Pneumonia
+High Fever,Loss of Appetite,Sweating,Sneezing,Chills,Pneumonia
+Runny Nose,Body Pain,Shortness of Breath,Sore Throat,Chest Pain,Pneumonia
+Cough,Vomiting,Swelling,Chills,Muscle Weakness,COVID-19
+High Fever,Chills,Headache,Skin Rash,Fatigue,Chikungunya
+Fever,Swelling,Sneezing,Body Pain,Sore Throat,Chikungunya
+Joint Pain,Cough,Vomiting,Fever,Sneezing,Typhoid
+Nausea,Body Pain,Loss of Appetite,Swelling,Abdominal Pain,Flu
+High Fever,Fever,Vomiting,Sneezing,Loss of Appetite,Food Poisoning
+Fatigue,Shortness of Breath,Diarrhea,Nausea,Dizziness,Asthma
+Body Pain,Vomiting,Fatigue,Muscle Weakness,Nausea,Dengue
+Abdominal Pain,Fatigue,Chest Pain,Diarrhea,Headache,Flu
+Shortness of Breath,Dizziness,Chills,Sneezing,Joint Pain,Malaria
+Swelling,Chest Pain,Body Pain,Nausea,Joint Pain,Asthma
+Chills,Runny Nose,Diarrhea,Loss of Appetite,Fever,Cold
+Body Pain,Joint Pain,Diarrhea,Sneezing,Dizziness,Malaria
+Sore Throat,Shortness of Breath,Loss of Appetite,Dizziness,Cough,Chikungunya
+Nausea,Cough,Swelling,Headache,Diarrhea,Typhoid
+Diarrhea,Runny Nose,Body Pain,Sweating,Shortness of Breath,Malaria
+Headache,Chest Pain,Shortness of Breath,Sore Throat,Swelling,Malaria
+Sneezing,High Fever,Skin Rash,Body Pain,Cough,Food Poisoning
+Nausea,High Fever,Sweating,Diarrhea,Dizziness,Cold
+High Fever,Joint Pain,Swelling,Sneezing,Cough,Dengue
+High Fever,Loss of Appetite,Runny Nose,Body Pain,Shortness of Breath,Dengue
+Chills,Abdominal Pain,Sore Throat,Loss of Appetite,Muscle Weakness,Pneumonia
+Headache,Loss of Appetite,Swelling,Chest Pain,Joint Pain,Allergy
+Abdominal Pain,Swelling,Fever,Chest Pain,Runny Nose,Cold
+Chills,Chest Pain,Skin Rash,Loss of Appetite,Dizziness,Flu
+High Fever,Fever,Nausea,Sneezing,Cough,COVID-19
+Loss of Appetite,High Fever,Sweating,Muscle Weakness,Shortness of Breath,Chikungunya
+High Fever,Skin Rash,Shortness of Breath,Runny Nose,Muscle Weakness,Tuberculosis
+Nausea,Cough,Chest Pain,Skin Rash,Loss of Appetite,Asthma
+Sweating,Dizziness,Joint Pain,Runny Nose,Cough,COVID-19
+Muscle Weakness,Sweating,Cough,Loss of Appetite,Shortness of Breath,Typhoid
+Nausea,Sore Throat,Runny Nose,Sweating,High Fever,Cold
+Dizziness,High Fever,Skin Rash,Headache,Cough,Pneumonia
+Diarrhea,Skin Rash,Loss of Appetite,Dizziness,Nausea,Malaria
+Skin Rash,Sweating,Chills,Chest Pain,Vomiting,Pneumonia
+Shortness of Breath,Chills,High Fever,Fever,Skin Rash,Dengue
+Fever,Joint Pain,Cough,Shortness of Breath,Swelling,Pneumonia
+Skin Rash,Cough,Dizziness,Nausea,Loss of Appetite,Malaria
+Body Pain,Chest Pain,Joint Pain,Skin Rash,Muscle Weakness,COVID-19
+Vomiting,Chest Pain,Headache,Dizziness,Shortness of Breath,Asthma
+High Fever,Shortness of Breath,Nausea,Dizziness,Joint Pain,Pneumonia
+Runny Nose,Chills,Diarrhea,Sore Throat,Muscle Weakness,COVID-19
+Chills,High Fever,Chest Pain,Nausea,Loss of Appetite,Chikungunya
+Cough,Chills,Runny Nose,Sneezing,Swelling,Dengue
+High Fever,Cough,Shortness of Breath,Runny Nose,Loss of Appetite,COVID-19
+Headache,Skin Rash,Swelling,Joint Pain,Chest Pain,Bronchitis
+Joint Pain,Runny Nose,Headache,Chills,Nausea,Chikungunya
+Joint Pain,Sweating,Loss of Appetite,Chills,Sore Throat,Typhoid
+High Fever,Skin Rash,Runny Nose,Dizziness,Shortness of Breath,Asthma
+Sneezing,Joint Pain,Cough,Fatigue,Sweating,Food Poisoning
+Shortness of Breath,Skin Rash,Fever,Sneezing,Body Pain,Cold
+Diarrhea,Skin Rash,High Fever,Fatigue,Chest Pain,Chikungunya
+Dizziness,Shortness of Breath,Abdominal Pain,Diarrhea,Runny Nose,Tuberculosis
+Headache,Runny Nose,Loss of Appetite,Diarrhea,Fever,Tuberculosis
+Sneezing,Diarrhea,Vomiting,Abdominal Pain,Chills,Chikungunya
+Dizziness,Joint Pain,Chills,Shortness of Breath,Sweating,Food Poisoning
+Sneezing,Headache,Dizziness,Sweating,Fever,Typhoid
+Sneezing,Joint Pain,Fever,Sore Throat,Headache,Typhoid
+Body Pain,Sneezing,Chest Pain,Fever,Sweating,Bronchitis
+Diarrhea,Runny Nose,Headache,Swelling,Fatigue,Bronchitis
+Sore Throat,Skin Rash,Fever,Vomiting,Sweating,Asthma
+Runny Nose,High Fever,Fever,Abdominal Pain,Dizziness,COVID-19
+Chills,Runny Nose,Chest Pain,Skin Rash,Abdominal Pain,Chikungunya
+Chest Pain,Sweating,Fever,Abdominal Pain,Skin Rash,Allergy
+Swelling,Diarrhea,Abdominal Pain,Sweating,Fatigue,Typhoid
+Loss of Appetite,Abdominal Pain,Joint Pain,Fatigue,Shortness of Breath,Malaria
+Vomiting,Fatigue,Headache,Sneezing,Body Pain,Pneumonia
+Headache,Fatigue,Chest Pain,Swelling,Runny Nose,Allergy
+Vomiting,High Fever,Fever,Skin Rash,Cough,Asthma
+Chest Pain,Headache,Nausea,Sweating,Diarrhea,COVID-19
+High Fever,Diarrhea,Nausea,Headache,Vomiting,Asthma
+Chest Pain,High Fever,Cough,Abdominal Pain,Swelling,Food Poisoning
+Sweating,Body Pain,Swelling,Dizziness,Fever,Tuberculosis
+Swelling,Sweating,Shortness of Breath,Cough,High Fever,Asthma
+Nausea,Cough,Abdominal Pain,Sore Throat,Headache,Pneumonia
+Runny Nose,Muscle Weakness,Skin Rash,Nausea,Abdominal Pain,Chikungunya
+Abdominal Pain,Sneezing,Shortness of Breath,Joint Pain,Chills,Malaria
+Abdominal Pain,Shortness of Breath,Chest Pain,Runny Nose,Nausea,Cold
+Chest Pain,Fever,Nausea,Runny Nose,Abdominal Pain,Asthma
+Cough,Sneezing,Fever,Chills,High Fever,Malaria
+Sneezing,Abdominal Pain,Sore Throat,Swelling,Nausea,Chikungunya
+Dizziness,Cough,Nausea,Runny Nose,Diarrhea,Tuberculosis
+Dizziness,Sore Throat,Cough,Sweating,Headache,Food Poisoning
+High Fever,Fever,Joint Pain,Headache,Diarrhea,Tuberculosis
+Abdominal Pain,Nausea,Body Pain,Headache,Sneezing,Tuberculosis
+Vomiting,Joint Pain,Dizziness,Sneezing,Loss of Appetite,Allergy
+Nausea,Joint Pain,Chills,Dizziness,Cough,Flu
+Shortness of Breath,Diarrhea,Fever,Sweating,Cough,Bronchitis
+Fatigue,Swelling,Nausea,Abdominal Pain,Joint Pain,Bronchitis
+Loss of Appetite,Swelling,Chest Pain,Sneezing,Abdominal Pain,Malaria
+Vomiting,Loss of Appetite,Fatigue,Dizziness,Swelling,Tuberculosis
+Dizziness,Joint Pain,Sweating,Sneezing,Shortness of Breath,Tuberculosis
+Joint Pain,Dizziness,Fever,Body Pain,Cough,Asthma
+Headache,High Fever,Dizziness,Cough,Joint Pain,Flu
+Body Pain,Chills,High Fever,Fever,Sweating,Dengue
+Swelling,Abdominal Pain,Loss of Appetite,Chills,Runny Nose,Chikungunya
+Sneezing,Sore Throat,Dizziness,Muscle Weakness,Diarrhea,Pneumonia
+Chills,Cough,Vomiting,High Fever,Shortness of Breath,Dengue
+Chills,Headache,Diarrhea,Joint Pain,Skin Rash,Flu
+Sweating,Vomiting,Abdominal Pain,Sore Throat,Fatigue,Pneumonia
+Chest Pain,Swelling,Runny Nose,Fever,Loss of Appetite,Cold
+Loss of Appetite,Sweating,Fatigue,Chills,Headache,Dengue
+Swelling,Muscle Weakness,Sore Throat,Chest Pain,Fever,COVID-19
+Chills,Sore Throat,Cough,Nausea,Vomiting,Tuberculosis
+Nausea,Chest Pain,Diarrhea,Abdominal Pain,Swelling,Flu
+Fever,Cough,Body Pain,Joint Pain,Shortness of Breath,Bronchitis
+Fatigue,Dizziness,Cough,Body Pain,Diarrhea,Pneumonia
+Fever,Sneezing,Sweating,Swelling,Diarrhea,Dengue
+Fatigue,Joint Pain,Skin Rash,Runny Nose,Dizziness,Asthma
+Swelling,Nausea,Vomiting,High Fever,Sneezing,Chikungunya
+Headache,Body Pain,Swelling,Fever,Cough,Malaria
+Body Pain,Diarrhea,Runny Nose,Abdominal Pain,Fatigue,Pneumonia
+Muscle Weakness,High Fever,Sore Throat,Loss of Appetite,Chest Pain,Cold
+Shortness of Breath,High Fever,Chest Pain,Chills,Dizziness,Pneumonia
+Diarrhea,Body Pain,Runny Nose,Chills,Vomiting,Flu
+Fever,Sore Throat,Shortness of Breath,Runny Nose,Nausea,Typhoid
+Muscle Weakness,High Fever,Shortness of Breath,Dizziness,Abdominal Pain,Malaria
+Abdominal Pain,Runny Nose,Chills,Chest Pain,Sweating,Malaria
+Runny Nose,Headache,Cough,Sneezing,High Fever,Tuberculosis
+Dizziness,Nausea,Chills,Loss of Appetite,Abdominal Pain,Chikungunya
+Skin Rash,Joint Pain,Sweating,Body Pain,Muscle Weakness,Typhoid
+Joint Pain,Muscle Weakness,Sweating,Sore Throat,Diarrhea,Allergy
+Fever,Chills,Joint Pain,Abdominal Pain,Sweating,Chikungunya
+Runny Nose,Body Pain,Swelling,Muscle Weakness,Headache,Typhoid
+Nausea,Vomiting,Muscle Weakness,Runny Nose,Skin Rash,Allergy
+Sweating,Sore Throat,Sneezing,Muscle Weakness,Swelling,Dengue
+Fever,Sore Throat,Runny Nose,Sweating,Joint Pain,Flu
+Shortness of Breath,Dizziness,Chest Pain,Headache,Abdominal Pain,Dengue
+Dizziness,Swelling,Sweating,Vomiting,Shortness of Breath,COVID-19
+Fatigue,High Fever,Loss of Appetite,Swelling,Nausea,Flu
+Sneezing,High Fever,Fatigue,Joint Pain,Headache,Asthma
+Joint Pain,Chills,Fever,Body Pain,Chest Pain,COVID-19
+Skin Rash,Chest Pain,Dizziness,Shortness of Breath,Loss of Appetite,Food Poisoning
+Sore Throat,Dizziness,Body Pain,Abdominal Pain,Runny Nose,COVID-19
+Skin Rash,Swelling,Headache,Diarrhea,Runny Nose,Allergy
+Shortness of Breath,Sweating,Fatigue,Body Pain,Abdominal Pain,Bronchitis
+Diarrhea,Dizziness,Abdominal Pain,Fever,Loss of Appetite,Pneumonia
+Diarrhea,Skin Rash,Abdominal Pain,Sneezing,Fatigue,Typhoid
+Chest Pain,Chills,Sneezing,Nausea,Diarrhea,Bronchitis
+Joint Pain,Headache,Abdominal Pain,Vomiting,Cough,Typhoid
+Diarrhea,Dizziness,Nausea,Muscle Weakness,Chest Pain,Bronchitis
+Headache,Sore Throat,Shortness of Breath,Skin Rash,Dizziness,Malaria
+Muscle Weakness,Dizziness,Runny Nose,Body Pain,Sneezing,Food Poisoning
+Joint Pain,Dizziness,Cough,Muscle Weakness,Sneezing,Allergy
+Chills,Fever,Sore Throat,Dizziness,Diarrhea,Chikungunya
+Chest Pain,Loss of Appetite,Shortness of Breath,Runny Nose,Diarrhea,Food Poisoning
+Loss of Appetite,Skin Rash,Headache,Muscle Weakness,Abdominal Pain,Allergy
+Chest Pain,Fatigue,Vomiting,Abdominal Pain,Nausea,Dengue
+Runny Nose,Chills,Diarrhea,Shortness of Breath,Sneezing,Flu
+Skin Rash,Sore Throat,Joint Pain,Muscle Weakness,Shortness of Breath,Flu
+Diarrhea,Skin Rash,Fever,Chills,Sore Throat,Typhoid
+Abdominal Pain,Dizziness,Chest Pain,Shortness of Breath,Muscle Weakness,Tuberculosis
+Abdominal Pain,Chest Pain,High Fever,Sore Throat,Muscle Weakness,Food Poisoning
+Sneezing,Chills,Swelling,Fatigue,Runny Nose,Asthma
+Skin Rash,Sore Throat,Joint Pain,Vomiting,Shortness of Breath,Flu
+Nausea,Sweating,Cough,Chest Pain,Fever,Flu
+High Fever,Sneezing,Sore Throat,Chest Pain,Shortness of Breath,Asthma
+Muscle Weakness,High Fever,Swelling,Sore Throat,Chills,COVID-19
+Joint Pain,Abdominal Pain,Skin Rash,Loss of Appetite,Chest Pain,Cold
+Chest Pain,Chills,Abdominal Pain,Body Pain,Runny Nose,Cold
+Sore Throat,Swelling,Joint Pain,Muscle Weakness,Skin Rash,Cold
+Sore Throat,Runny Nose,Skin Rash,Loss of Appetite,Fever,Bronchitis
+Chills,Diarrhea,Skin Rash,Nausea,Body Pain,Tuberculosis
+Headache,Joint Pain,High Fever,Vomiting,Abdominal Pain,Malaria
+Joint Pain,Sweating,Sneezing,Sore Throat,Skin Rash,Pneumonia
+Swelling,Cough,Sweating,Body Pain,Chills,Malaria
+Skin Rash,Fever,Vomiting,Body Pain,Fatigue,Flu
+Skin Rash,Swelling,Diarrhea,Fatigue,Abdominal Pain,Malaria
+Shortness of Breath,Fever,Body Pain,Diarrhea,Chills,Tuberculosis
+Vomiting,Fever,Dizziness,High Fever,Abdominal Pain,Bronchitis
+Loss of Appetite,Muscle Weakness,Sweating,Shortness of Breath,Skin Rash,Bronchitis
+Dizziness,Cough,Runny Nose,High Fever,Body Pain,Allergy
+Nausea,Fatigue,Loss of Appetite,Sore Throat,Headache,Chikungunya
+Runny Nose,Shortness of Breath,High Fever,Diarrhea,Loss of Appetite,Allergy
+Runny Nose,Dizziness,High Fever,Shortness of Breath,Cough,Cold
+Muscle Weakness,Sore Throat,Abdominal Pain,Joint Pain,Diarrhea,Pneumonia
+Joint Pain,Skin Rash,Fever,Vomiting,Chills,Tuberculosis
+Vomiting,Runny Nose,Headache,Skin Rash,Chest Pain,Asthma
+Nausea,Muscle Weakness,Sneezing,Abdominal Pain,Dizziness,Malaria
+Skin Rash,Nausea,Chest Pain,Sore Throat,Vomiting,Flu
+Chills,Fever,Nausea,Chest Pain,Cough,Chikungunya
+Chills,High Fever,Loss of Appetite,Chest Pain,Skin Rash,Chikungunya
+Dizziness,Abdominal Pain,Nausea,Sore Throat,Diarrhea,Dengue
+Fever,Chills,Sweating,Sore Throat,Headache,Tuberculosis
+Diarrhea,Nausea,Loss of Appetite,Shortness of Breath,Chills,Asthma
+Sneezing,Shortness of Breath,Muscle Weakness,Diarrhea,Body Pain,Allergy
+Headache,Swelling,Joint Pain,Fever,Runny Nose,Food Poisoning
+Abdominal Pain,Cough,Runny Nose,Joint Pain,Vomiting,Tuberculosis
+Skin Rash,High Fever,Fever,Chest Pain,Sneezing,Tuberculosis
+Dizziness,High Fever,Diarrhea,Sneezing,Fever,Malaria
+Headache,Shortness of Breath,Muscle Weakness,Vomiting,Swelling,Flu
+Swelling,Fever,Headache,Nausea,Skin Rash,Chikungunya
+Abdominal Pain,Sweating,Skin Rash,Swelling,Dizziness,Allergy
+Diarrhea,Runny Nose,Fever,High Fever,Headache,Cold
+Vomiting,Shortness of Breath,High Fever,Sore Throat,Runny Nose,Chikungunya
+Body Pain,Muscle Weakness,Chest Pain,Skin Rash,Nausea,Dengue
+Body Pain,Fever,Chills,Loss of Appetite,Abdominal Pain,Chikungunya
+Fatigue,Sore Throat,Swelling,Sweating,Runny Nose,Dengue
+Fever,Chills,Joint Pain,Dizziness,Muscle Weakness,Allergy
+Fatigue,High Fever,Headache,Skin Rash,Sweating,COVID-19
+Swelling,Runny Nose,Diarrhea,Fatigue,Dizziness,Allergy
+Muscle Weakness,Skin Rash,Fatigue,Abdominal Pain,Runny Nose,Tuberculosis
+Fatigue,Swelling,Nausea,Dizziness,Headache,Chikungunya
+Fever,Nausea,Sweating,Chest Pain,Body Pain,Dengue
+Loss of Appetite,Runny Nose,Sweating,Sneezing,Skin Rash,Flu
+High Fever,Fever,Swelling,Muscle Weakness,Chills,Malaria
+Sweating,Cough,Abdominal Pain,Headache,Joint Pain,Allergy
+Abdominal Pain,Dizziness,Headache,Vomiting,Fatigue,Cold
+Fever,Dizziness,Sneezing,Skin Rash,Sore Throat,Chikungunya
+Sweating,Fever,Skin Rash,Swelling,Cough,COVID-19
+Swelling,Runny Nose,Sweating,Diarrhea,Fatigue,Bronchitis
+Loss of Appetite,Sore Throat,Abdominal Pain,Chills,Dizziness,Malaria
+Dizziness,Abdominal Pain,Vomiting,Joint Pain,Cough,Cold
+Fever,Diarrhea,Body Pain,Joint Pain,Sore Throat,Food Poisoning
+Swelling,Sweating,Headache,Dizziness,Muscle Weakness,Food Poisoning
+Dizziness,Loss of Appetite,Joint Pain,Body Pain,Fatigue,Malaria
+Skin Rash,Body Pain,Muscle Weakness,Nausea,Runny Nose,Flu
+Chills,Chest Pain,Joint Pain,Runny Nose,Sneezing,Malaria
+Skin Rash,Abdominal Pain,Cough,Diarrhea,Shortness of Breath,COVID-19
+Sneezing,Sore Throat,Runny Nose,Diarrhea,Muscle Weakness,Allergy
+Joint Pain,Chest Pain,Abdominal Pain,Fatigue,Loss of Appetite,Tuberculosis
+Joint Pain,Shortness of Breath,Fatigue,Headache,Diarrhea,COVID-19
+Diarrhea,High Fever,Chills,Joint Pain,Headache,Food Poisoning
+Nausea,Skin Rash,Sneezing,Cough,Chest Pain,Pneumonia
+Loss of Appetite,Sore Throat,Diarrhea,Swelling,Shortness of Breath,Flu
+Diarrhea,Sore Throat,Sweating,Sneezing,Skin Rash,Typhoid
+Vomiting,Joint Pain,Fatigue,Runny Nose,Shortness of Breath,Typhoid
+Body Pain,Chest Pain,Skin Rash,High Fever,Joint Pain,Food Poisoning
+Shortness of Breath,Skin Rash,Sneezing,Diarrhea,Fatigue,Cold
+Fever,Dizziness,Loss of Appetite,Sore Throat,Skin Rash,Food Poisoning
+Chills,High Fever,Shortness of Breath,Abdominal Pain,Headache,Pneumonia
+Chest Pain,Sneezing,Sweating,Headache,Nausea,Bronchitis
+Vomiting,Sneezing,Nausea,Sore Throat,Fatigue,Malaria
+Vomiting,Shortness of Breath,Body Pain,Runny Nose,High Fever,Typhoid
+Diarrhea,Loss of Appetite,Headache,Nausea,Swelling,Dengue
+Sneezing,Fever,Diarrhea,Muscle Weakness,Fatigue,Malaria
+Joint Pain,Dizziness,Muscle Weakness,Abdominal Pain,Headache,Allergy
+Dizziness,Nausea,Sore Throat,Abdominal Pain,Swelling,Typhoid
+Abdominal Pain,Loss of Appetite,Joint Pain,High Fever,Chest Pain,COVID-19
+Fatigue,Vomiting,Runny Nose,Sore Throat,Chest Pain,COVID-19
+Shortness of Breath,Runny Nose,Fatigue,Vomiting,Loss of Appetite,Allergy
+Runny Nose,Sore Throat,Shortness of Breath,Abdominal Pain,Dizziness,Tuberculosis
+Loss of Appetite,Muscle Weakness,Swelling,Sweating,Nausea,Allergy
+Nausea,Skin Rash,Diarrhea,Joint Pain,Runny Nose,Malaria
+Swelling,Headache,High Fever,Loss of Appetite,Cough,Flu
+Chills,Skin Rash,Dizziness,Loss of Appetite,Diarrhea,COVID-19
+Diarrhea,Muscle Weakness,Chills,Dizziness,Runny Nose,Flu
+Chills,Abdominal Pain,Joint Pain,Skin Rash,Body Pain,Dengue
+High Fever,Sneezing,Fever,Abdominal Pain,Swelling,Pneumonia
+Vomiting,Loss of Appetite,Cough,Joint Pain,Skin Rash,Food Poisoning
+Runny Nose,Dizziness,Vomiting,Shortness of Breath,Chills,Bronchitis
+Diarrhea,High Fever,Dizziness,Abdominal Pain,Nausea,Dengue
+Muscle Weakness,Vomiting,Sneezing,Body Pain,Chest Pain,Flu
+Loss of Appetite,Diarrhea,Nausea,Skin Rash,Sore Throat,Chikungunya
+Sore Throat,High Fever,Nausea,Fever,Sneezing,COVID-19
+Chills,Dizziness,High Fever,Headache,Shortness of Breath,Allergy
+Dizziness,Skin Rash,Joint Pain,High Fever,Nausea,Chikungunya
+Cough,Sneezing,Muscle Weakness,Joint Pain,Runny Nose,COVID-19
+Body Pain,Cough,Sneezing,Muscle Weakness,Loss of Appetite,Pneumonia
+Vomiting,Swelling,Chest Pain,Diarrhea,Skin Rash,Tuberculosis
+Swelling,Chills,Muscle Weakness,High Fever,Skin Rash,Pneumonia
+Fatigue,Sneezing,Body Pain,Loss of Appetite,High Fever,Dengue
+Skin Rash,Fatigue,Nausea,Sweating,Sore Throat,Typhoid
+Diarrhea,Fever,Nausea,Headache,Vomiting,Flu
+Abdominal Pain,Loss of Appetite,High Fever,Fever,Chills,Typhoid
+High Fever,Diarrhea,Nausea,Joint Pain,Chest Pain,Typhoid
+Chills,Shortness of Breath,Body Pain,Diarrhea,Vomiting,Pneumonia
+Vomiting,Sweating,Fatigue,Sneezing,Nausea,Chikungunya
+Dizziness,Fever,Joint Pain,Runny Nose,Nausea,Dengue
+Shortness of Breath,Chills,Abdominal Pain,Joint Pain,Muscle Weakness,Pneumonia
+Swelling,Runny Nose,Fatigue,Chills,Dizziness,COVID-19
+Loss of Appetite,Fatigue,Sneezing,Cough,Skin Rash,Dengue
+Skin Rash,High Fever,Vomiting,Sore Throat,Headache,Allergy
+Loss of Appetite,Runny Nose,Abdominal Pain,High Fever,Fatigue,Flu
+Dizziness,Skin Rash,Loss of Appetite,Nausea,Vomiting,Cold
+High Fever,Swelling,Nausea,Fatigue,Dizziness,Flu
+Abdominal Pain,Chest Pain,Cough,Vomiting,Sore Throat,COVID-19
+Swelling,Muscle Weakness,High Fever,Joint Pain,Runny Nose,Cold
+Abdominal Pain,Sweating,Diarrhea,Dizziness,Fatigue,Bronchitis
+Sore Throat,Sweating,Fatigue,Sneezing,Headache,Tuberculosis
+Shortness of Breath,Cough,Sweating,Sneezing,Nausea,Cold
+Swelling,High Fever,Shortness of Breath,Chest Pain,Fever,Bronchitis
+Sneezing,Fatigue,Headache,Cough,Chills,Flu
+Cough,Diarrhea,Muscle Weakness,Fever,Dizziness,Flu
+Vomiting,Cough,Abdominal Pain,Chest Pain,Diarrhea,Bronchitis
+Joint Pain,Shortness of Breath,Chest Pain,Fatigue,Skin Rash,Bronchitis
+Swelling,Muscle Weakness,Cough,Joint Pain,Vomiting,Asthma
+Joint Pain,Vomiting,Cough,Fatigue,Chills,Tuberculosis
+Loss of Appetite,Chest Pain,Cough,Vomiting,Chills,Typhoid
+Sweating,Chest Pain,High Fever,Sore Throat,Fever,COVID-19
+Sneezing,Skin Rash,Sweating,Chills,Loss of Appetite,Food Poisoning
+High Fever,Shortness of Breath,Sore Throat,Sneezing,Abdominal Pain,Food Poisoning
+Fever,Diarrhea,Abdominal Pain,Skin Rash,Muscle Weakness,Dengue
+Abdominal Pain,Loss of Appetite,Skin Rash,Muscle Weakness,Headache,Asthma
+Chills,High Fever,Runny Nose,Shortness of Breath,Muscle Weakness,Pneumonia
+Shortness of Breath,Cough,Sneezing,Loss of Appetite,Skin Rash,COVID-19
+Chest Pain,Skin Rash,Headache,Loss of Appetite,Swelling,Cold
+Runny Nose,Body Pain,Dizziness,Sweating,Diarrhea,Typhoid
+Abdominal Pain,Diarrhea,Sore Throat,Runny Nose,Body Pain,Chikungunya
+Sore Throat,Fatigue,Fever,Chills,Skin Rash,Food Poisoning
+Shortness of Breath,Body Pain,Skin Rash,Loss of Appetite,Headache,Tuberculosis
+Dizziness,Joint Pain,Muscle Weakness,High Fever,Vomiting,Tuberculosis
+Sweating,Joint Pain,Chest Pain,Dizziness,Fatigue,Chikungunya
+Joint Pain,High Fever,Loss of Appetite,Dizziness,Sneezing,Flu
+Sweating,Abdominal Pain,Cough,Swelling,Dizziness,Dengue
+Shortness of Breath,Chest Pain,Runny Nose,Body Pain,Skin Rash,Allergy
+Abdominal Pain,Chest Pain,Headache,Fever,Shortness of Breath,Food Poisoning
+Chest Pain,Sore Throat,Sneezing,Abdominal Pain,Chills,Food Poisoning
+Fatigue,High Fever,Skin Rash,Sweating,Sneezing,Pneumonia
+Muscle Weakness,Body Pain,Cough,Swelling,Shortness of Breath,Tuberculosis
+Diarrhea,Loss of Appetite,Sweating,Sore Throat,Cough,Flu
+Sore Throat,Fever,Cough,Chills,Chest Pain,Allergy
+Runny Nose,Cough,High Fever,Dizziness,Joint Pain,COVID-19
+Muscle Weakness,Abdominal Pain,Cough,Joint Pain,Runny Nose,Allergy
+Sneezing,Headache,Nausea,Sore Throat,Diarrhea,Typhoid
+Body Pain,Runny Nose,Abdominal Pain,Diarrhea,Headache,Cold
+Chills,Dizziness,Vomiting,Fever,Joint Pain,Dengue
+Runny Nose,Skin Rash,Sneezing,High Fever,Swelling,Allergy
+Abdominal Pain,Joint Pain,Shortness of Breath,Sneezing,Dizziness,Tuberculosis
+Skin Rash,Chills,Loss of Appetite,Dizziness,Cough,Typhoid
+Swelling,Headache,Muscle Weakness,Abdominal Pain,Skin Rash,Malaria
+Dizziness,Sweating,Fatigue,Runny Nose,Muscle Weakness,Tuberculosis
+Fatigue,Chest Pain,Abdominal Pain,Sore Throat,Chills,Dengue
+Vomiting,Fatigue,Abdominal Pain,Diarrhea,Nausea,Pneumonia
+Cough,Loss of Appetite,Runny Nose,Muscle Weakness,Fatigue,Typhoid
+Nausea,Sneezing,Fatigue,Fever,Cough,COVID-19
+Body Pain,Abdominal Pain,Sneezing,Loss of Appetite,Swelling,Dengue
+Diarrhea,Body Pain,Fever,Nausea,Abdominal Pain,Asthma
+Fever,Sore Throat,Abdominal Pain,Shortness of Breath,Dizziness,Typhoid
+Chills,Body Pain,Cough,Sweating,High Fever,Bronchitis
+Shortness of Breath,Vomiting,Sweating,High Fever,Dizziness,Asthma
+Abdominal Pain,Chest Pain,Nausea,Vomiting,Dizziness,COVID-19
+Joint Pain,Runny Nose,Muscle Weakness,Headache,Body Pain,Bronchitis
+Cough,Fatigue,Runny Nose,Body Pain,Sweating,Typhoid
+Chest Pain,Sneezing,Nausea,High Fever,Fatigue,Flu
+Chest Pain,Dizziness,Skin Rash,Diarrhea,Sweating,Flu
+Headache,Sore Throat,Sneezing,Chest Pain,Loss of Appetite,Tuberculosis
+Muscle Weakness,Sneezing,Cough,Sweating,Fatigue,Cold
+Abdominal Pain,Cough,Body Pain,Chills,Sore Throat,Allergy
+Fatigue,Sore Throat,Cough,Skin Rash,Chest Pain,Allergy
+Joint Pain,Sneezing,Diarrhea,Swelling,Muscle Weakness,COVID-19
+High Fever,Chest Pain,Dizziness,Loss of Appetite,Sneezing,Food Poisoning
+Loss of Appetite,Swelling,Chest Pain,Joint Pain,Headache,Typhoid
+Chest Pain,High Fever,Headache,Shortness of Breath,Skin Rash,Malaria
+Shortness of Breath,Fatigue,Cough,Swelling,Joint Pain,Typhoid
+Chest Pain,Swelling,Fever,Shortness of Breath,Runny Nose,Pneumonia
+Body Pain,Chest Pain,Diarrhea,Cough,Sore Throat,Asthma
+Vomiting,Sore Throat,Sneezing,Nausea,Body Pain,Malaria
+Loss of Appetite,Vomiting,Fever,High Fever,Swelling,Malaria
+Cough,Swelling,Vomiting,Fever,Chills,Flu
+Joint Pain,Runny Nose,Diarrhea,Headache,Swelling,Food Poisoning
+Body Pain,Skin Rash,Nausea,Dizziness,Shortness of Breath,COVID-19
+Sore Throat,Sneezing,Swelling,Chills,Sweating,Flu
+Fatigue,Muscle Weakness,High Fever,Runny Nose,Body Pain,Malaria
+Sweating,Fatigue,Fever,Sore Throat,Runny Nose,Food Poisoning
+Headache,High Fever,Dizziness,Chills,Fever,Flu
+Nausea,Dizziness,Joint Pain,Sore Throat,Body Pain,Cold
+Swelling,Joint Pain,Shortness of Breath,Vomiting,Cough,Dengue
+Abdominal Pain,Vomiting,Loss of Appetite,Nausea,Swelling,Typhoid
+Sore Throat,Loss of Appetite,Dizziness,Chills,Swelling,Cold
+Fatigue,Loss of Appetite,Chest Pain,Muscle Weakness,Sneezing,Flu
+Headache,Joint Pain,Shortness of Breath,Vomiting,Muscle Weakness,Flu
+Fever,Muscle Weakness,Skin Rash,Swelling,Nausea,Pneumonia
+Headache,Body Pain,Vomiting,High Fever,Nausea,Bronchitis
+Abdominal Pain,Sore Throat,High Fever,Body Pain,Dizziness,Flu
+Cough,Shortness of Breath,Loss of Appetite,Fever,Sweating,Asthma
+Sore Throat,Chest Pain,Cough,Fatigue,Runny Nose,Flu
+Loss of Appetite,Headache,Swelling,Diarrhea,Sweating,Dengue
+Muscle Weakness,Vomiting,Loss of Appetite,Diarrhea,Sore Throat,Cold
+Fatigue,Muscle Weakness,Nausea,Fever,Sneezing,Chikungunya
+Sore Throat,High Fever,Sneezing,Runny Nose,Cough,COVID-19
+Diarrhea,Vomiting,Chest Pain,High Fever,Shortness of Breath,Malaria
+Sore Throat,High Fever,Nausea,Muscle Weakness,Fever,Typhoid
+Joint Pain,Cough,Shortness of Breath,Chills,Muscle Weakness,Tuberculosis
+Muscle Weakness,Vomiting,Sore Throat,Cough,Sneezing,Chikungunya
+Skin Rash,Sweating,Loss of Appetite,Joint Pain,Fatigue,Dengue
+Headache,Chest Pain,Fatigue,Runny Nose,Abdominal Pain,COVID-19
+Sweating,Chills,Loss of Appetite,Cough,Joint Pain,Pneumonia
+Sweating,Shortness of Breath,High Fever,Joint Pain,Abdominal Pain,Pneumonia
+Muscle Weakness,Fever,Runny Nose,High Fever,Swelling,COVID-19
+Abdominal Pain,Sneezing,Nausea,Chills,High Fever,Bronchitis
+Shortness of Breath,Swelling,Skin Rash,Sore Throat,Vomiting,Flu
+Joint Pain,Sore Throat,Body Pain,Sneezing,Loss of Appetite,Pneumonia
+Fatigue,Vomiting,Swelling,Runny Nose,Loss of Appetite,Dengue
+Shortness of Breath,Cough,Nausea,Skin Rash,Vomiting,Flu
+Sore Throat,Fever,Headache,Abdominal Pain,Cough,Malaria
+Shortness of Breath,Joint Pain,High Fever,Loss of Appetite,Nausea,Malaria
+Joint Pain,Sweating,Loss of Appetite,Swelling,Cough,Flu
+Body Pain,Shortness of Breath,Chills,Loss of Appetite,Diarrhea,Bronchitis
+Swelling,Loss of Appetite,Sneezing,Shortness of Breath,High Fever,Chikungunya
+Sore Throat,Fatigue,Dizziness,Nausea,Cough,Dengue
+Sneezing,Swelling,Chest Pain,High Fever,Sweating,Malaria
+Nausea,Swelling,Chills,Sneezing,Sore Throat,Cold
+Body Pain,Shortness of Breath,Diarrhea,Dizziness,High Fever,Tuberculosis
+Skin Rash,Joint Pain,Shortness of Breath,Diarrhea,Abdominal Pain,Chikungunya
+Skin Rash,High Fever,Sweating,Cough,Loss of Appetite,Typhoid
+Sore Throat,Headache,Sweating,Abdominal Pain,Vomiting,Cold
+Muscle Weakness,High Fever,Sweating,Body Pain,Nausea,Bronchitis
+Muscle Weakness,Sore Throat,Diarrhea,Cough,Chest Pain,Typhoid
+Joint Pain,Chest Pain,Chills,Nausea,Body Pain,COVID-19
+Sweating,Loss of Appetite,Fatigue,Runny Nose,Muscle Weakness,Food Poisoning
+Cough,High Fever,Chills,Chest Pain,Skin Rash,COVID-19
+Headache,Diarrhea,Vomiting,Runny Nose,Shortness of Breath,Chikungunya
+Skin Rash,Diarrhea,Swelling,Sweating,Cough,Malaria
+Skin Rash,Dizziness,Abdominal Pain,Shortness of Breath,Muscle Weakness,Chikungunya
+Body Pain,Skin Rash,Vomiting,Chest Pain,Muscle Weakness,Cold
+Vomiting,Muscle Weakness,Joint Pain,Sore Throat,Abdominal Pain,Malaria
+Body Pain,Fever,Diarrhea,Fatigue,Loss of Appetite,Malaria
+Abdominal Pain,Swelling,Fatigue,Fever,Sneezing,Dengue
+Chills,Swelling,High Fever,Vomiting,Sore Throat,Tuberculosis
+Cough,Body Pain,Chills,Skin Rash,Fever,Dengue
+Muscle Weakness,Runny Nose,Shortness of Breath,Dizziness,Joint Pain,COVID-19
+Fatigue,Fever,High Fever,Cough,Runny Nose,Bronchitis
+Loss of Appetite,Skin Rash,Swelling,Fever,Runny Nose,Food Poisoning
+Muscle Weakness,Swelling,Runny Nose,Loss of Appetite,Headache,Allergy
+Shortness of Breath,Vomiting,Dizziness,Headache,Chills,Asthma
+Dizziness,Runny Nose,Muscle Weakness,Shortness of Breath,Sweating,COVID-19
+Swelling,Chest Pain,Loss of Appetite,Nausea,Fever,Bronchitis
+Headache,Diarrhea,Runny Nose,Joint Pain,Body Pain,Asthma
+Runny Nose,Cough,Fatigue,Diarrhea,Joint Pain,Cold
+Swelling,Cough,Chest Pain,Muscle Weakness,Sneezing,Bronchitis
+Shortness of Breath,High Fever,Runny Nose,Cough,Dizziness,Typhoid
+Body Pain,Joint Pain,Diarrhea,Chills,Dizziness,Tuberculosis
+Runny Nose,Swelling,Skin Rash,Fever,Dizziness,Dengue
+High Fever,Shortness of Breath,Swelling,Chest Pain,Abdominal Pain,Cold
+Headache,High Fever,Swelling,Muscle Weakness,Fever,Chikungunya
+Diarrhea,Vomiting,Sweating,Joint Pain,Shortness of Breath,Cold
+Chest Pain,Cough,Abdominal Pain,Loss of Appetite,Diarrhea,Dengue
+Chest Pain,High Fever,Muscle Weakness,Shortness of Breath,Body Pain,COVID-19
+Nausea,Fatigue,Diarrhea,Sweating,Fever,Allergy
+High Fever,Chest Pain,Sneezing,Nausea,Body Pain,Pneumonia
+Cough,Sore Throat,Chest Pain,Muscle Weakness,Fever,Allergy
+Muscle Weakness,Vomiting,Sneezing,Joint Pain,Body Pain,Tuberculosis
+Sweating,Fever,Sore Throat,Muscle Weakness,Dizziness,Dengue
+Runny Nose,Shortness of Breath,Joint Pain,Abdominal Pain,Cough,Tuberculosis
+Vomiting,Joint Pain,Skin Rash,Chills,Abdominal Pain,Pneumonia
+Cough,High Fever,Fever,Muscle Weakness,Skin Rash,Flu
+Abdominal Pain,Headache,Chills,Body Pain,Nausea,Chikungunya
+Muscle Weakness,Nausea,Skin Rash,Dizziness,Loss of Appetite,Bronchitis
+Chest Pain,Fatigue,Loss of Appetite,Muscle Weakness,Diarrhea,Malaria
+Headache,Sweating,Cough,Nausea,Fatigue,Food Poisoning
+Skin Rash,Muscle Weakness,Shortness of Breath,Vomiting,Nausea,Typhoid
+Cough,Vomiting,Headache,Sneezing,Joint Pain,Food Poisoning
+Joint Pain,Abdominal Pain,Sneezing,Diarrhea,Skin Rash,Food Poisoning
+Diarrhea,Skin Rash,Cough,Sweating,Vomiting,Flu
+Skin Rash,Fever,Chills,Cough,Sweating,Cold
+Headache,Sore Throat,Swelling,Vomiting,Fatigue,Cold
+Diarrhea,Cough,Fatigue,Vomiting,Headache,Dengue
+Body Pain,Chills,Abdominal Pain,Skin Rash,Sneezing,Chikungunya
+Vomiting,Dizziness,Sweating,Diarrhea,Headache,Cold
+Diarrhea,Cough,Vomiting,Dizziness,Sore Throat,Flu
+Loss of Appetite,Sore Throat,Chills,Shortness of Breath,Diarrhea,Flu
+Runny Nose,Muscle Weakness,Skin Rash,Chest Pain,High Fever,Allergy
+Fatigue,Swelling,Vomiting,High Fever,Shortness of Breath,Typhoid
+Chills,Sore Throat,Cough,Sneezing,Fatigue,Pneumonia
+Skin Rash,Nausea,Sweating,Chills,Loss of Appetite,Food Poisoning
+Fatigue,Muscle Weakness,High Fever,Dizziness,Sweating,Chikungunya
+Sweating,Joint Pain,Chest Pain,Abdominal Pain,Muscle Weakness,Flu
+Skin Rash,Dizziness,Swelling,Runny Nose,Joint Pain,Dengue
+Swelling,Fever,Sweating,Joint Pain,Body Pain,Chikungunya
+Fever,Swelling,Abdominal Pain,Joint Pain,Vomiting,Cold
+Runny Nose,Swelling,Nausea,Dizziness,Chills,Cold
+Sneezing,Sweating,Joint Pain,Cough,Abdominal Pain,Cold
+Fever,High Fever,Muscle Weakness,Body Pain,Runny Nose,Bronchitis
+High Fever,Fever,Fatigue,Vomiting,Shortness of Breath,Flu
+Sweating,Fever,Runny Nose,Nausea,Loss of Appetite,Flu
+Vomiting,Cough,Diarrhea,Nausea,High Fever,Dengue
+Skin Rash,Fever,Headache,Abdominal Pain,Cough,COVID-19
+Joint Pain,High Fever,Fatigue,Muscle Weakness,Skin Rash,Flu
+Abdominal Pain,Body Pain,Cough,Nausea,Sneezing,Dengue
+Fever,Fatigue,Diarrhea,Headache,Sweating,Food Poisoning
+Joint Pain,Sweating,Headache,Diarrhea,Skin Rash,Food Poisoning
+Sneezing,Sweating,Muscle Weakness,Shortness of Breath,Chills,COVID-19
+High Fever,Loss of Appetite,Fever,Skin Rash,Sore Throat,Asthma
+Dizziness,Muscle Weakness,Sore Throat,Sneezing,Cough,Food Poisoning
+Joint Pain,Loss of Appetite,Swelling,Chills,Sore Throat,Chikungunya
+Swelling,Fever,Joint Pain,Runny Nose,Body Pain,Asthma
+Muscle Weakness,Sore Throat,Chills,Headache,Chest Pain,Malaria
+Sore Throat,Swelling,Cough,Abdominal Pain,Loss of Appetite,Typhoid
+Headache,Sweating,Nausea,Abdominal Pain,Chest Pain,Allergy
+Cough,High Fever,Skin Rash,Nausea,Headache,Allergy
+High Fever,Fever,Diarrhea,Loss of Appetite,Sneezing,Typhoid
+Chills,Fever,Fatigue,Body Pain,Swelling,Dengue
+Muscle Weakness,High Fever,Nausea,Sweating,Dizziness,Tuberculosis
+Chills,High Fever,Muscle Weakness,Swelling,Fatigue,Food Poisoning
+Runny Nose,Abdominal Pain,Chest Pain,Dizziness,Shortness of Breath,COVID-19
+Nausea,Loss of Appetite,Diarrhea,Skin Rash,Runny Nose,Chikungunya
+Shortness of Breath,Fever,Joint Pain,Headache,Skin Rash,Bronchitis
+Loss of Appetite,Fatigue,Skin Rash,Diarrhea,Chills,Typhoid
+Skin Rash,Muscle Weakness,High Fever,Fever,Runny Nose,Allergy
+Sneezing,Body Pain,Fever,Cough,Fatigue,Bronchitis
+Vomiting,Cough,Muscle Weakness,Dizziness,Sore Throat,Allergy
+Chills,Headache,Fatigue,Swelling,Vomiting,Tuberculosis
+Shortness of Breath,Diarrhea,Joint Pain,Vomiting,Abdominal Pain,Bronchitis
+Shortness of Breath,Joint Pain,Fever,Chest Pain,Sneezing,Malaria
+Abdominal Pain,Swelling,Body Pain,Vomiting,Chest Pain,Typhoid
+Chills,Fever,Swelling,Sneezing,Headache,Asthma
+Chest Pain,Loss of Appetite,Vomiting,Skin Rash,Sneezing,Typhoid
+Dizziness,Sore Throat,Chills,Runny Nose,Shortness of Breath,Malaria
+Sweating,Fatigue,Dizziness,Chest Pain,Fever,COVID-19
+Chills,Diarrhea,Runny Nose,Shortness of Breath,Chest Pain,Bronchitis
+Sneezing,High Fever,Cough,Sweating,Chills,Typhoid
+Chills,Diarrhea,Chest Pain,Swelling,Loss of Appetite,Tuberculosis
+Skin Rash,High Fever,Abdominal Pain,Joint Pain,Dizziness,Allergy
+Sneezing,Body Pain,Nausea,Dizziness,Chills,Allergy
+Cough,Fever,Headache,Nausea,Swelling,Tuberculosis
+Shortness of Breath,Fatigue,Joint Pain,Sweating,Cough,Asthma
+Cough,Shortness of Breath,Sore Throat,Abdominal Pain,Body Pain,Chikungunya
+Runny Nose,Fatigue,Vomiting,High Fever,Chills,Cold
+Shortness of Breath,Body Pain,Sore Throat,Sneezing,Chills,Tuberculosis
+Dizziness,Fever,Cough,Runny Nose,Chills,Allergy
+Headache,Loss of Appetite,Shortness of Breath,Fatigue,Runny Nose,Cold
+Abdominal Pain,Dizziness,Sore Throat,Headache,Diarrhea,Chikungunya
+Runny Nose,Shortness of Breath,Diarrhea,Sore Throat,Body Pain,Asthma
+Fever,Nausea,Shortness of Breath,Sore Throat,Vomiting,Malaria
+Chills,Diarrhea,Cough,Abdominal Pain,Sneezing,Cold
+Sneezing,High Fever,Nausea,Headache,Loss of Appetite,Pneumonia
+Sneezing,Joint Pain,Nausea,Dizziness,Runny Nose,COVID-19
+Nausea,Cough,Fever,Sore Throat,Sneezing,Tuberculosis
+Diarrhea,Chills,Sore Throat,Muscle Weakness,Runny Nose,Flu
+Nausea,Sweating,Sore Throat,Chest Pain,Loss of Appetite,Dengue
+Swelling,Chills,Dizziness,Cough,Fatigue,Bronchitis
+Skin Rash,Sneezing,Vomiting,Shortness of Breath,Fever,Tuberculosis
+Diarrhea,Cough,High Fever,Muscle Weakness,Skin Rash,Bronchitis
+Chest Pain,Sweating,Sore Throat,Joint Pain,Chills,Bronchitis
+Fatigue,Chills,Sneezing,Fever,Diarrhea,Typhoid
+Abdominal Pain,Loss of Appetite,Body Pain,Dizziness,Runny Nose,Bronchitis
+Shortness of Breath,Diarrhea,Swelling,Fever,Nausea,Chikungunya
+Dizziness,High Fever,Fatigue,Joint Pain,Headache,Cold
+Swelling,Chest Pain,Vomiting,Muscle Weakness,Nausea,Bronchitis
+Chest Pain,Sneezing,Sore Throat,Vomiting,Headache,Food Poisoning
+Fever,Diarrhea,Vomiting,Skin Rash,Fatigue,Pneumonia
+Headache,Abdominal Pain,Runny Nose,Nausea,Sneezing,Asthma
+Fatigue,Skin Rash,Muscle Weakness,Joint Pain,Chest Pain,Typhoid
+Nausea,Vomiting,Cough,Muscle Weakness,Chills,Malaria
+Fever,Dizziness,Cough,Swelling,Chills,Dengue
+Diarrhea,Sweating,Nausea,Cough,Fatigue,COVID-19
+Joint Pain,Chills,Dizziness,Headache,Loss of Appetite,Allergy
+Diarrhea,Headache,Joint Pain,Cough,Body Pain,Bronchitis
+Loss of Appetite,Vomiting,Shortness of Breath,Fever,Cough,Tuberculosis
+Joint Pain,Skin Rash,Diarrhea,Body Pain,Muscle Weakness,Typhoid
+Sneezing,Body Pain,Chills,Joint Pain,Abdominal Pain,Chikungunya
+Sneezing,Nausea,Fever,High Fever,Chills,Bronchitis
+Vomiting,Chills,Headache,Loss of Appetite,Diarrhea,Flu
+Swelling,Loss of Appetite,Runny Nose,Dizziness,Fever,Dengue
+Runny Nose,Sore Throat,Abdominal Pain,Headache,Vomiting,Malaria
+Diarrhea,Cough,Joint Pain,Sweating,Sore Throat,Typhoid
+Runny Nose,Abdominal Pain,Muscle Weakness,Vomiting,Sore Throat,Dengue
+Fever,Headache,Abdominal Pain,Cough,Sweating,COVID-19
+Sweating,Loss of Appetite,Sore Throat,Headache,Cough,Flu
+Fatigue,Sweating,Cough,Runny Nose,Sore Throat,Dengue
+Vomiting,Skin Rash,Chest Pain,Abdominal Pain,Cough,Pneumonia
+Sweating,Headache,High Fever,Abdominal Pain,Muscle Weakness,Dengue
+Muscle Weakness,Nausea,Loss of Appetite,Body Pain,Cough,COVID-19
+Chills,Sore Throat,Skin Rash,Body Pain,Fever,Flu
+Muscle Weakness,Vomiting,Loss of Appetite,Fatigue,Abdominal Pain,Food Poisoning
+Fatigue,Vomiting,Dizziness,Body Pain,Runny Nose,Typhoid
+Chest Pain,High Fever,Dizziness,Sneezing,Swelling,COVID-19
+Muscle Weakness,Sore Throat,Abdominal Pain,High Fever,Fever,Pneumonia
+Skin Rash,Runny Nose,Nausea,Shortness of Breath,Vomiting,COVID-19
+Loss of Appetite,Swelling,Sweating,High Fever,Cough,Asthma
+Dizziness,Abdominal Pain,Fatigue,Chest Pain,Joint Pain,Allergy
+Muscle Weakness,Headache,Runny Nose,Joint Pain,Nausea,Typhoid
+Chills,Body Pain,Sore Throat,Cough,Runny Nose,Asthma
+Vomiting,Dizziness,Shortness of Breath,Skin Rash,Loss of Appetite,Cold
+Fatigue,Sneezing,Diarrhea,Headache,Loss of Appetite,Bronchitis
+Diarrhea,Swelling,Shortness of Breath,Skin Rash,Fatigue,Bronchitis
+Sore Throat,Nausea,Sweating,Chills,Fever,Pneumonia
+High Fever,Fatigue,Skin Rash,Sweating,Joint Pain,COVID-19
+Sweating,Cough,Skin Rash,Sneezing,Diarrhea,Asthma
+Vomiting,Fatigue,Sweating,Dizziness,Sneezing,Typhoid
+Nausea,Chills,Body Pain,Loss of Appetite,Vomiting,Asthma
+Loss of Appetite,Skin Rash,Runny Nose,Diarrhea,Sweating,COVID-19
+High Fever,Sore Throat,Runny Nose,Dizziness,Fever,Food Poisoning
+Joint Pain,Body Pain,Abdominal Pain,Shortness of Breath,Sneezing,Pneumonia
+Swelling,Muscle Weakness,Headache,Sweating,Runny Nose,Allergy
+Chest Pain,Cough,High Fever,Fatigue,Headache,Tuberculosis
+Dizziness,Sweating,Abdominal Pain,Body Pain,Skin Rash,COVID-19
+High Fever,Loss of Appetite,Fatigue,Runny Nose,Dizziness,Pneumonia
+Chills,Body Pain,Muscle Weakness,Sneezing,Headache,Typhoid
+Chest Pain,Sneezing,Fever,Sore Throat,Nausea,Pneumonia
+Abdominal Pain,Fever,Shortness of Breath,Runny Nose,Sneezing,Malaria
+Abdominal Pain,Skin Rash,Runny Nose,Fever,Muscle Weakness,Food Poisoning
+Chills,Runny Nose,Shortness of Breath,Joint Pain,Diarrhea,Cold
+Cough,Nausea,Chills,Swelling,Shortness of Breath,Tuberculosis
+Swelling,Chest Pain,Loss of Appetite,Shortness of Breath,Skin Rash,Asthma
+Fatigue,Cough,Headache,Chills,Body Pain,Chikungunya
+Muscle Weakness,Chest Pain,Fever,Swelling,Runny Nose,Typhoid
+Chills,Chest Pain,Dizziness,Shortness of Breath,Headache,COVID-19
+Joint Pain,Runny Nose,Swelling,Dizziness,Chest Pain,COVID-19
+High Fever,Sneezing,Fatigue,Joint Pain,Cough,Dengue
+Swelling,High Fever,Runny Nose,Chest Pain,Shortness of Breath,Food Poisoning
+Dizziness,Runny Nose,Diarrhea,Vomiting,Chest Pain,Flu
+Diarrhea,Muscle Weakness,Sore Throat,Loss of Appetite,Headache,Typhoid
+High Fever,Shortness of Breath,Chills,Muscle Weakness,Skin Rash,Cold
+Headache,Sweating,Cough,High Fever,Joint Pain,Pneumonia
+Fatigue,Joint Pain,Muscle Weakness,Diarrhea,Skin Rash,Asthma
+Diarrhea,Muscle Weakness,High Fever,Dizziness,Swelling,Typhoid
+Sneezing,Joint Pain,Sore Throat,Fatigue,Diarrhea,Malaria
+Chills,Sneezing,Joint Pain,Cough,Chest Pain,Allergy
+Swelling,Fatigue,Chills,Nausea,Body Pain,COVID-19
+Cough,Headache,Sneezing,Skin Rash,Dizziness,Food Poisoning
+Nausea,Sore Throat,Body Pain,Runny Nose,Shortness of Breath,Flu
+Cough,Nausea,Chest Pain,Chills,Fever,Malaria
+Skin Rash,Loss of Appetite,Chest Pain,Shortness of Breath,Diarrhea,Cold
+Runny Nose,Headache,High Fever,Muscle Weakness,Vomiting,Asthma
+Sweating,Sneezing,Nausea,Dizziness,Runny Nose,Malaria
+Diarrhea,Sneezing,Body Pain,Fever,Fatigue,Food Poisoning
+Vomiting,Sore Throat,Chest Pain,Swelling,Sneezing,Food Poisoning
+Sweating,Chest Pain,Chills,Joint Pain,Loss of Appetite,Dengue
+Sneezing,Body Pain,Muscle Weakness,Dizziness,Sore Throat,Pneumonia
+Loss of Appetite,High Fever,Skin Rash,Chest Pain,Joint Pain,Cold
+Sneezing,Abdominal Pain,Fatigue,Swelling,Chills,Dengue
+Headache,Vomiting,Cough,Sweating,Fever,Bronchitis
+Joint Pain,Sweating,Dizziness,Abdominal Pain,Vomiting,Typhoid
+Cough,Abdominal Pain,Shortness of Breath,Vomiting,Chills,Typhoid
+Sneezing,High Fever,Dizziness,Skin Rash,Cough,Flu
+Swelling,Vomiting,High Fever,Runny Nose,Fatigue,Cold
+Cough,Headache,Swelling,Muscle Weakness,Sweating,Tuberculosis
+Diarrhea,Nausea,Vomiting,Sneezing,Chest Pain,COVID-19
+Joint Pain,Cough,Swelling,Abdominal Pain,Muscle Weakness,Chikungunya
+Runny Nose,Headache,Nausea,Joint Pain,Fever,Allergy
+Sore Throat,Runny Nose,Chills,Swelling,High Fever,Dengue
+Joint Pain,Loss of Appetite,Runny Nose,Sore Throat,Body Pain,Food Poisoning
+Sneezing,Sweating,Swelling,Shortness of Breath,Runny Nose,Bronchitis
+Swelling,Sore Throat,Muscle Weakness,Abdominal Pain,Loss of Appetite,Pneumonia
+Chest Pain,Cough,Headache,Swelling,High Fever,Malaria
+Muscle Weakness,Loss of Appetite,Chest Pain,Sweating,Fatigue,Tuberculosis
+Headache,Runny Nose,Shortness of Breath,Body Pain,Swelling,Bronchitis
+Diarrhea,Chills,Sweating,Fever,Chest Pain,Cold
+Joint Pain,Headache,Sneezing,Vomiting,Fatigue,Cold
+Dizziness,Cough,High Fever,Muscle Weakness,Shortness of Breath,Malaria
+Swelling,Shortness of Breath,Chest Pain,Sneezing,Nausea,Tuberculosis
+Sneezing,Abdominal Pain,Skin Rash,Sweating,Runny Nose,COVID-19
+Skin Rash,Chest Pain,Chills,Sweating,Muscle Weakness,Pneumonia
+Sore Throat,Fatigue,Nausea,Skin Rash,Loss of Appetite,COVID-19
+Sweating,Chills,Body Pain,Swelling,Sneezing,Asthma
+Runny Nose,Sneezing,Body Pain,Headache,Joint Pain,Malaria
+Vomiting,Body Pain,Abdominal Pain,Runny Nose,Chest Pain,Tuberculosis
+Sore Throat,Nausea,Runny Nose,Abdominal Pain,High Fever,Pneumonia
+Diarrhea,Abdominal Pain,Chest Pain,Vomiting,Runny Nose,Tuberculosis
+Joint Pain,Shortness of Breath,High Fever,Fever,Skin Rash,Malaria
+Sneezing,Vomiting,Abdominal Pain,Diarrhea,Chest Pain,Dengue
+Muscle Weakness,Nausea,Sweating,Diarrhea,Abdominal Pain,Food Poisoning
+Headache,Skin Rash,Abdominal Pain,Nausea,Joint Pain,Allergy
+Shortness of Breath,Loss of Appetite,Diarrhea,Joint Pain,Sneezing,Typhoid
+Cough,Shortness of Breath,Swelling,Loss of Appetite,Muscle Weakness,COVID-19
+Sore Throat,Skin Rash,Headache,Fever,Chest Pain,Malaria
+Chest Pain,Headache,Sweating,Shortness of Breath,Diarrhea,Typhoid
+Chest Pain,Swelling,Sweating,Fever,Muscle Weakness,Chikungunya
+Sweating,Chest Pain,Muscle Weakness,Skin Rash,Swelling,Cold
+Chills,Runny Nose,Swelling,Sore Throat,Sneezing,Chikungunya
+Runny Nose,Sore Throat,Nausea,Chest Pain,Sneezing,Tuberculosis
+Cough,Loss of Appetite,Swelling,Shortness of Breath,Muscle Weakness,Malaria
+Runny Nose,Sneezing,Loss of Appetite,Chest Pain,Fatigue,COVID-19
+Diarrhea,Body Pain,Shortness of Breath,Sweating,Muscle Weakness,Bronchitis
+Abdominal Pain,Sore Throat,Dizziness,Body Pain,Diarrhea,Typhoid
+Sneezing,Muscle Weakness,Cough,Sweating,Nausea,Asthma
+Muscle Weakness,Cough,Skin Rash,Loss of Appetite,Joint Pain,Malaria
+Headache,Muscle Weakness,High Fever,Body Pain,Skin Rash,Asthma
+Sore Throat,Cough,Abdominal Pain,Body Pain,Skin Rash,Flu
+Headache,Sneezing,Sore Throat,Skin Rash,Cough,COVID-19
+Runny Nose,Diarrhea,Fever,Sweating,Loss of Appetite,Pneumonia
+Cough,Swelling,Muscle Weakness,Sweating,Sore Throat,Dengue
+Fever,Chills,Cough,Runny Nose,Diarrhea,Flu
+Dizziness,Cough,Joint Pain,Muscle Weakness,Sweating,Cold
+Body Pain,Skin Rash,Joint Pain,Shortness of Breath,Dizziness,Typhoid
+Chest Pain,Sneezing,Runny Nose,Fever,High Fever,Tuberculosis
+Swelling,Diarrhea,Abdominal Pain,Nausea,Body Pain,Malaria
+Skin Rash,Cough,Chest Pain,Vomiting,Sore Throat,Chikungunya
+Skin Rash,Shortness of Breath,Sweating,Swelling,Fatigue,Typhoid
+Joint Pain,Muscle Weakness,Headache,Shortness of Breath,Chills,Malaria
+Diarrhea,Chills,Fatigue,Loss of Appetite,Joint Pain,Tuberculosis
+Joint Pain,Headache,Swelling,Dizziness,Body Pain,Bronchitis
+High Fever,Fatigue,Joint Pain,Swelling,Cough,Flu
+Skin Rash,Swelling,Abdominal Pain,Muscle Weakness,Shortness of Breath,Cold
+Nausea,Muscle Weakness,Sneezing,Cough,Swelling,Allergy
+Sweating,Nausea,Diarrhea,Muscle Weakness,Shortness of Breath,Dengue
+Nausea,Diarrhea,Shortness of Breath,Joint Pain,Sweating,Pneumonia
+Joint Pain,Swelling,Dizziness,Sneezing,Chills,Dengue
+Dizziness,Muscle Weakness,Loss of Appetite,Sore Throat,Headache,Dengue
+Runny Nose,Skin Rash,Cough,Chest Pain,Shortness of Breath,Allergy
+Vomiting,Swelling,Dizziness,Chest Pain,Sore Throat,Malaria
+Skin Rash,Chills,Headache,Fever,Chest Pain,Cold
+Sneezing,Muscle Weakness,Shortness of Breath,Vomiting,Chest Pain,Cold
+Swelling,Dizziness,Cough,Joint Pain,Shortness of Breath,Typhoid
+Shortness of Breath,Nausea,Fatigue,Fever,Chest Pain,Food Poisoning
+Swelling,Body Pain,Nausea,Shortness of Breath,Skin Rash,Tuberculosis
+Swelling,Shortness of Breath,High Fever,Fever,Loss of Appetite,Tuberculosis
+Runny Nose,Sweating,Joint Pain,High Fever,Nausea,Allergy
+Muscle Weakness,Cough,Joint Pain,Runny Nose,Nausea,Food Poisoning
+Headache,Swelling,Chills,Skin Rash,Muscle Weakness,Bronchitis
+Fatigue,Fever,Body Pain,Vomiting,Muscle Weakness,Pneumonia
+Abdominal Pain,Sneezing,Vomiting,Shortness of Breath,Fever,Chikungunya
+High Fever,Diarrhea,Dizziness,Sore Throat,Cough,Asthma
+Cough,Skin Rash,Shortness of Breath,High Fever,Sweating,Flu
+Chest Pain,Abdominal Pain,Sore Throat,Fatigue,Skin Rash,Asthma
+High Fever,Abdominal Pain,Loss of Appetite,Cough,Dizziness,Dengue
+Shortness of Breath,Fever,Sneezing,Muscle Weakness,Sore Throat,Dengue
+Sneezing,Loss of Appetite,High Fever,Skin Rash,Swelling,Flu
+Shortness of Breath,Loss of Appetite,Sweating,Dizziness,Abdominal Pain,Dengue
+Sneezing,Runny Nose,Fatigue,Cough,Swelling,Asthma
+Abdominal Pain,Chest Pain,High Fever,Diarrhea,Runny Nose,Flu
+Skin Rash,Sneezing,Muscle Weakness,Body Pain,Headache,Cold
+Sore Throat,Muscle Weakness,Nausea,Skin Rash,Vomiting,Asthma
+Fatigue,Sneezing,Swelling,Runny Nose,Cough,Cold
+Chest Pain,Skin Rash,Fatigue,Nausea,Muscle Weakness,Flu
+Diarrhea,Dizziness,Loss of Appetite,Chills,Joint Pain,Cold
+Muscle Weakness,Chills,Skin Rash,Dizziness,Cough,Dengue
+Joint Pain,Vomiting,Nausea,Sore Throat,Runny Nose,Cold
+Chest Pain,Headache,Nausea,Abdominal Pain,Shortness of Breath,Flu
+Diarrhea,Loss of Appetite,Sneezing,Joint Pain,Skin Rash,Typhoid
+Chills,Fever,Swelling,Shortness of Breath,Joint Pain,Cold
+Fever,Joint Pain,Vomiting,High Fever,Diarrhea,Malaria
+Diarrhea,Muscle Weakness,Dizziness,Vomiting,Headache,Malaria
+Vomiting,Body Pain,Sneezing,Muscle Weakness,Sore Throat,Allergy
+Joint Pain,High Fever,Sweating,Abdominal Pain,Chest Pain,Pneumonia
+Headache,Shortness of Breath,Dizziness,Chest Pain,Sweating,Tuberculosis
+Shortness of Breath,Abdominal Pain,Loss of Appetite,Cough,Fever,Dengue
+Sore Throat,Loss of Appetite,Fatigue,Shortness of Breath,Vomiting,Pneumonia
+Dizziness,Abdominal Pain,Skin Rash,Shortness of Breath,Loss of Appetite,Food Poisoning
+High Fever,Diarrhea,Sweating,Chills,Fatigue,Dengue
+Skin Rash,Chills,Shortness of Breath,Fatigue,Swelling,Pneumonia
+Chest Pain,Abdominal Pain,Headache,Sweating,Shortness of Breath,Chikungunya
+Shortness of Breath,Nausea,Sweating,Loss of Appetite,Chills,Flu
+Diarrhea,Sore Throat,Cough,Loss of Appetite,Muscle Weakness,Pneumonia
+Sneezing,Abdominal Pain,Vomiting,Nausea,Runny Nose,Cold
+Skin Rash,High Fever,Nausea,Fever,Muscle Weakness,Typhoid
+Joint Pain,Dizziness,Diarrhea,Fatigue,Fever,Dengue
+Abdominal Pain,Sneezing,Runny Nose,Chills,Sore Throat,Allergy
+Muscle Weakness,Diarrhea,Skin Rash,High Fever,Joint Pain,Food Poisoning
+Runny Nose,Swelling,Loss of Appetite,Body Pain,High Fever,Tuberculosis
+Diarrhea,Cough,Loss of Appetite,Nausea,Vomiting,Bronchitis
+Skin Rash,High Fever,Chest Pain,Cough,Dizziness,Tuberculosis
+Chest Pain,Sore Throat,High Fever,Chills,Headache,Food Poisoning
+Dizziness,Cough,Headache,Swelling,Chest Pain,Allergy
+Chills,Muscle Weakness,Vomiting,Headache,Swelling,Pneumonia
+Muscle Weakness,Nausea,Sore Throat,Headache,Joint Pain,Chikungunya
+Body Pain,Cough,Muscle Weakness,Runny Nose,Sore Throat,Dengue
+Dizziness,Muscle Weakness,Loss of Appetite,Fever,Fatigue,Typhoid
+Fatigue,Chills,Runny Nose,Cough,Headache,Bronchitis
+Nausea,Sneezing,Swelling,Fatigue,Headache,Food Poisoning
+Body Pain,Runny Nose,Sweating,Dizziness,Chills,Flu
+Chest Pain,Dizziness,Chills,Headache,Abdominal Pain,Pneumonia
+Cough,Abdominal Pain,Sneezing,Sweating,Swelling,Typhoid
+Vomiting,Muscle Weakness,Body Pain,Swelling,High Fever,Cold
+High Fever,Loss of Appetite,Nausea,Vomiting,Fever,Tuberculosis
+Headache,Fever,Cough,Sweating,Diarrhea,Asthma
+Fever,Nausea,Skin Rash,Muscle Weakness,Fatigue,COVID-19
+Muscle Weakness,Dizziness,Fever,Vomiting,Sweating,Tuberculosis
+Sore Throat,Chest Pain,Sneezing,Dizziness,Muscle Weakness,COVID-19
+Fatigue,Body Pain,Abdominal Pain,Skin Rash,Loss of Appetite,Bronchitis
+Chills,Fatigue,Loss of Appetite,Vomiting,Sweating,Flu
+High Fever,Swelling,Shortness of Breath,Headache,Diarrhea,Flu
+Diarrhea,Joint Pain,Sore Throat,Swelling,Runny Nose,Dengue
+Loss of Appetite,Fever,Shortness of Breath,Sore Throat,Sweating,Tuberculosis
+Runny Nose,Sore Throat,Diarrhea,Fatigue,Fever,Tuberculosis
+High Fever,Skin Rash,Headache,Vomiting,Fever,Asthma
+Fever,Chest Pain,Sweating,Fatigue,Cough,Flu
+Abdominal Pain,Runny Nose,Fever,Cough,Sweating,Bronchitis
+Cough,Chills,Headache,Loss of Appetite,Chest Pain,COVID-19
+Skin Rash,Body Pain,Fatigue,Joint Pain,Chest Pain,Cold
+Sneezing,Dizziness,Body Pain,Fatigue,Nausea,Cold
+Fatigue,Sneezing,Vomiting,Diarrhea,Joint Pain,Dengue
+Sneezing,Muscle Weakness,Chills,Loss of Appetite,Chest Pain,Cold
+Fever,Sweating,Headache,Cough,Runny Nose,Tuberculosis
+Sneezing,Fatigue,Sweating,Vomiting,High Fever,Asthma
+Muscle Weakness,Body Pain,Fever,Chills,Fatigue,Pneumonia
+Sneezing,Sweating,Loss of Appetite,Nausea,Diarrhea,Bronchitis
+High Fever,Nausea,Fever,Muscle Weakness,Shortness of Breath,Tuberculosis
+Dizziness,Sore Throat,Chest Pain,Body Pain,Headache,Typhoid
+High Fever,Body Pain,Loss of Appetite,Abdominal Pain,Cough,Cold
+Sneezing,Cough,Sore Throat,Skin Rash,Joint Pain,Dengue
+Headache,Fatigue,Sneezing,Vomiting,Joint Pain,Malaria
+Cough,Skin Rash,Sweating,Joint Pain,Runny Nose,Tuberculosis
+Nausea,Shortness of Breath,Loss of Appetite,Fever,Swelling,Tuberculosis
+Abdominal Pain,Sweating,Runny Nose,Body Pain,Headache,Pneumonia
+Vomiting,Skin Rash,Body Pain,Swelling,Sweating,COVID-19
+Runny Nose,Body Pain,Fatigue,Loss of Appetite,High Fever,Pneumonia
+Swelling,Vomiting,Dizziness,Headache,Diarrhea,Malaria
+Muscle Weakness,Loss of Appetite,Abdominal Pain,Dizziness,Diarrhea,Flu
+High Fever,Muscle Weakness,Sweating,Abdominal Pain,Shortness of Breath,Cold
+Sneezing,Chest Pain,Loss of Appetite,Sore Throat,Dizziness,COVID-19
+Muscle Weakness,Headache,Abdominal Pain,Vomiting,Sweating,Typhoid
+Skin Rash,Body Pain,Abdominal Pain,Diarrhea,Joint Pain,Allergy
+Skin Rash,Joint Pain,Abdominal Pain,Headache,Sneezing,Food Poisoning
+Dizziness,Chills,Sore Throat,Diarrhea,Runny Nose,Asthma
+Fatigue,Cough,Shortness of Breath,High Fever,Runny Nose,COVID-19
+Abdominal Pain,High Fever,Muscle Weakness,Vomiting,Joint Pain,COVID-19
+Muscle Weakness,Joint Pain,Runny Nose,Chest Pain,Headache,Flu
+Runny Nose,Cough,Chills,Sneezing,Swelling,Typhoid
+Shortness of Breath,Skin Rash,Fatigue,Chest Pain,Chills,Bronchitis
+Cough,Muscle Weakness,Chills,Runny Nose,Diarrhea,Cold
+Dizziness,Chills,Swelling,Vomiting,High Fever,Pneumonia
+High Fever,Sneezing,Chest Pain,Fatigue,Shortness of Breath,Typhoid
+Cough,Swelling,Sneezing,Body Pain,Fever,Malaria
+Shortness of Breath,Diarrhea,Skin Rash,High Fever,Body Pain,Cold
+Shortness of Breath,Nausea,Headache,High Fever,Fatigue,Dengue
+Vomiting,High Fever,Fatigue,Headache,Runny Nose,Flu
+Sneezing,Dizziness,Runny Nose,Fatigue,Chills,Malaria
+Cough,Vomiting,Chills,Loss of Appetite,Body Pain,Tuberculosis
+Body Pain,Sneezing,High Fever,Swelling,Sweating,Tuberculosis
+Cough,Abdominal Pain,Runny Nose,Fatigue,Diarrhea,Chikungunya
+Fatigue,Shortness of Breath,Body Pain,Sore Throat,Chest Pain,Tuberculosis
+Swelling,Shortness of Breath,Fatigue,Joint Pain,Headache,Flu
+Dizziness,Cough,Muscle Weakness,Runny Nose,Abdominal Pain,Tuberculosis
+Loss of Appetite,Sore Throat,High Fever,Abdominal Pain,Nausea,Allergy
+Abdominal Pain,Headache,Shortness of Breath,High Fever,Loss of Appetite,Asthma
+Loss of Appetite,Chest Pain,Body Pain,Diarrhea,Nausea,Malaria
+Muscle Weakness,Chest Pain,Abdominal Pain,Sweating,Shortness of Breath,Pneumonia
+Sore Throat,Fever,Joint Pain,Body Pain,High Fever,Flu
+Sneezing,Fever,Chest Pain,Diarrhea,Muscle Weakness,Asthma
+Shortness of Breath,Sore Throat,Headache,Nausea,Chills,Asthma
+Headache,High Fever,Nausea,Fever,Joint Pain,Flu
+Skin Rash,Abdominal Pain,Nausea,Runny Nose,High Fever,Pneumonia
+Fever,Abdominal Pain,Cough,Nausea,Fatigue,Allergy
+Dizziness,Headache,Swelling,Skin Rash,Muscle Weakness,COVID-19
+Sore Throat,Diarrhea,Swelling,Nausea,Loss of Appetite,COVID-19
+Shortness of Breath,Diarrhea,Chills,Dizziness,Body Pain,Allergy
+Nausea,Abdominal Pain,Swelling,Sore Throat,Dizziness,Bronchitis
+Sweating,Runny Nose,Cough,Shortness of Breath,Nausea,Tuberculosis
+Fatigue,Loss of Appetite,Nausea,Shortness of Breath,Joint Pain,Dengue
+Dizziness,Loss of Appetite,Sneezing,Skin Rash,Shortness of Breath,Typhoid
+Abdominal Pain,Sweating,Vomiting,Fever,Sneezing,Tuberculosis
+Body Pain,Sore Throat,Diarrhea,Joint Pain,Abdominal Pain,Pneumonia
+Runny Nose,Nausea,Loss of Appetite,Body Pain,Fever,Flu
+Joint Pain,Fatigue,Chills,Sneezing,Headache,Cold
+Cough,Fever,Vomiting,Sore Throat,Shortness of Breath,Typhoid
+Shortness of Breath,Chest Pain,Sweating,Muscle Weakness,Headache,Bronchitis
+Body Pain,Vomiting,Abdominal Pain,Nausea,Loss of Appetite,Chikungunya
+Vomiting,Dizziness,Loss of Appetite,Shortness of Breath,Skin Rash,Typhoid
+Abdominal Pain,Sweating,Diarrhea,High Fever,Runny Nose,Cold
+Body Pain,Skin Rash,Sore Throat,Fever,Loss of Appetite,Chikungunya
+Fatigue,Body Pain,Sneezing,Diarrhea,Skin Rash,COVID-19
+Dizziness,Vomiting,Diarrhea,Loss of Appetite,High Fever,COVID-19
+Runny Nose,Diarrhea,Nausea,Abdominal Pain,Cough,Allergy
+Fatigue,Headache,Fever,Sore Throat,Chills,Typhoid
+Joint Pain,Body Pain,Swelling,Abdominal Pain,Sneezing,Typhoid
+Sweating,Vomiting,Diarrhea,High Fever,Fever,Flu
+Sweating,Nausea,Shortness of Breath,Cough,Loss of Appetite,Chikungunya
+Shortness of Breath,Sore Throat,Fever,Runny Nose,Sweating,Typhoid
+Abdominal Pain,Vomiting,Shortness of Breath,Fatigue,Sneezing,Pneumonia
+Dizziness,Fatigue,Swelling,Loss of Appetite,Chest Pain,Allergy
+Sore Throat,Loss of Appetite,Sweating,Dizziness,Muscle Weakness,Pneumonia
+Sneezing,Chills,Body Pain,Diarrhea,Sweating,Dengue
+Muscle Weakness,Chills,Sore Throat,Skin Rash,Runny Nose,Dengue
+Loss of Appetite,Body Pain,Diarrhea,Sore Throat,Runny Nose,Pneumonia
+Chills,Cough,Sneezing,Joint Pain,Fever,Pneumonia
+Joint Pain,Headache,Dizziness,Cough,Abdominal Pain,Malaria
+Skin Rash,Diarrhea,Sweating,Loss of Appetite,Joint Pain,Asthma
+Sore Throat,Fatigue,Muscle Weakness,Chills,Dizziness,Malaria
+Runny Nose,Sneezing,Diarrhea,Fatigue,Swelling,Malaria
+Headache,Fatigue,Abdominal Pain,Body Pain,High Fever,Malaria
+Sore Throat,Nausea,Body Pain,Sneezing,Diarrhea,Allergy
+Swelling,Abdominal Pain,Headache,Sneezing,Muscle Weakness,Bronchitis
+High Fever,Runny Nose,Diarrhea,Dizziness,Abdominal Pain,Tuberculosis
+Chills,Nausea,Loss of Appetite,Diarrhea,Sore Throat,COVID-19
+Vomiting,Shortness of Breath,Swelling,High Fever,Dizziness,Allergy
+Headache,Skin Rash,Swelling,Runny Nose,Vomiting,Food Poisoning
+Body Pain,Skin Rash,Cough,Muscle Weakness,High Fever,Chikungunya
+Sneezing,Muscle Weakness,Runny Nose,Vomiting,Chest Pain,Flu
+Muscle Weakness,Runny Nose,Joint Pain,Body Pain,Abdominal Pain,Allergy
+Cough,Sweating,Nausea,Dizziness,Runny Nose,Asthma
+Joint Pain,Sweating,Loss of Appetite,Muscle Weakness,Skin Rash,COVID-19
+Cough,Body Pain,Loss of Appetite,Sneezing,Sweating,Chikungunya
+Headache,Sore Throat,Diarrhea,Swelling,Sweating,Typhoid
+Headache,High Fever,Vomiting,Swelling,Cough,Chikungunya
+Fever,Abdominal Pain,Loss of Appetite,Nausea,Sore Throat,Flu
+Runny Nose,Swelling,Chills,Cough,Loss of Appetite,Malaria
+Skin Rash,Loss of Appetite,Vomiting,Fever,High Fever,Bronchitis
+Fatigue,High Fever,Muscle Weakness,Diarrhea,Fever,Allergy
+Sore Throat,Loss of Appetite,Joint Pain,Runny Nose,Nausea,Cold
+Nausea,High Fever,Loss of Appetite,Diarrhea,Sweating,Typhoid
+Fatigue,High Fever,Sore Throat,Body Pain,Joint Pain,Food Poisoning
+Skin Rash,Muscle Weakness,Body Pain,Sore Throat,Cough,COVID-19
+Nausea,Dizziness,Headache,Diarrhea,Sore Throat,COVID-19
+Joint Pain,Sweating,Abdominal Pain,Loss of Appetite,Cough,Food Poisoning
+Cough,Body Pain,Nausea,Runny Nose,Fever,Allergy
+Runny Nose,Sweating,Sore Throat,Muscle Weakness,Fever,Bronchitis
+High Fever,Abdominal Pain,Nausea,Fatigue,Runny Nose,Chikungunya
+Loss of Appetite,Chest Pain,Vomiting,Muscle Weakness,Cough,Bronchitis
+Dizziness,Muscle Weakness,Sneezing,Fever,Sweating,COVID-19
+Sore Throat,Swelling,Chills,Cough,Dizziness,Flu
+Skin Rash,Headache,Chest Pain,Diarrhea,Abdominal Pain,Chikungunya
+Muscle Weakness,Runny Nose,Sweating,High Fever,Abdominal Pain,Asthma
+Cough,Headache,Chills,Shortness of Breath,Chest Pain,Typhoid
+Fatigue,Shortness of Breath,Abdominal Pain,Cough,Vomiting,Chikungunya
+Chills,Sneezing,Shortness of Breath,Fatigue,Fever,COVID-19
+Body Pain,Headache,Sweating,Vomiting,Chest Pain,Allergy
+Headache,Shortness of Breath,Nausea,Loss of Appetite,High Fever,Asthma
+Vomiting,Runny Nose,Chills,Fever,Sore Throat,Cold
+Sore Throat,Fatigue,Muscle Weakness,Skin Rash,Chest Pain,Malaria
+Body Pain,Headache,Diarrhea,Fever,Muscle Weakness,Food Poisoning
+Abdominal Pain,Vomiting,Swelling,High Fever,Runny Nose,Tuberculosis
+Cough,Nausea,Joint Pain,Abdominal Pain,Shortness of Breath,Chikungunya
+Chills,Diarrhea,Headache,Skin Rash,Sneezing,Tuberculosis
+Dizziness,Muscle Weakness,Shortness of Breath,Sore Throat,Runny Nose,Bronchitis
+Muscle Weakness,Sore Throat,Abdominal Pain,Sneezing,Swelling,COVID-19
+Fever,Loss of Appetite,Cough,Runny Nose,Chest Pain,Bronchitis
+Dizziness,Shortness of Breath,Chills,Sneezing,Loss of Appetite,COVID-19
+Headache,Muscle Weakness,Skin Rash,Fatigue,Sweating,Food Poisoning
+Loss of Appetite,Dizziness,Shortness of Breath,Chills,Sweating,Pneumonia
+High Fever,Loss of Appetite,Abdominal Pain,Joint Pain,Body Pain,Allergy
+Sneezing,Nausea,Abdominal Pain,Shortness of Breath,Cough,COVID-19
+Skin Rash,Nausea,Swelling,Body Pain,Shortness of Breath,Malaria
+Joint Pain,Nausea,Sweating,Vomiting,Dizziness,Allergy
+Shortness of Breath,Chills,Fatigue,Sneezing,Sore Throat,Flu
+Sneezing,Nausea,Chest Pain,Headache,Diarrhea,Bronchitis
+Dizziness,Body Pain,Cough,Chills,Fever,COVID-19
+Muscle Weakness,Chest Pain,Headache,Abdominal Pain,Swelling,Tuberculosis
+Skin Rash,Swelling,Shortness of Breath,Vomiting,Chest Pain,Dengue
+Fatigue,Abdominal Pain,Vomiting,Chest Pain,Fever,Allergy
+Nausea,Fatigue,Skin Rash,Abdominal Pain,Loss of Appetite,Typhoid
+Sneezing,Muscle Weakness,Joint Pain,Sore Throat,Runny Nose,Typhoid
+Skin Rash,Sneezing,Vomiting,Muscle Weakness,High Fever,Pneumonia
+Dizziness,Fever,Chills,Body Pain,Nausea,Bronchitis
+Loss of Appetite,Nausea,Shortness of Breath,Swelling,Headache,Tuberculosis
+Dizziness,Loss of Appetite,Vomiting,Joint Pain,Shortness of Breath,Food Poisoning
+Runny Nose,Shortness of Breath,Headache,Muscle Weakness,Fever,Dengue
+Abdominal Pain,Sneezing,Runny Nose,Chills,Chest Pain,Bronchitis
+Skin Rash,Body Pain,Headache,Shortness of Breath,Abdominal Pain,Allergy
+Sore Throat,Fatigue,Muscle Weakness,Body Pain,Cough,Asthma
+Shortness of Breath,Fatigue,Joint Pain,High Fever,Body Pain,Malaria
+Body Pain,Fever,Sore Throat,Chest Pain,Sneezing,Asthma
+Loss of Appetite,Fever,Abdominal Pain,Cough,Nausea,Dengue
+Fatigue,Sneezing,Runny Nose,Abdominal Pain,Diarrhea,Asthma
+Swelling,Joint Pain,Fever,Vomiting,Runny Nose,Dengue
+Sore Throat,Swelling,Chest Pain,Headache,Skin Rash,Malaria
+Sweating,Diarrhea,Dizziness,Nausea,Joint Pain,COVID-19
+High Fever,Diarrhea,Sweating,Skin Rash,Chest Pain,Cold
+Skin Rash,Headache,Muscle Weakness,Swelling,Nausea,Cold
+Shortness of Breath,Joint Pain,Abdominal Pain,High Fever,Sneezing,Dengue
+Sore Throat,Loss of Appetite,Body Pain,Chest Pain,Nausea,Malaria
+Sweating,Skin Rash,Dizziness,Sneezing,Fatigue,Asthma
+High Fever,Abdominal Pain,Vomiting,Fever,Dizziness,Cold
+Cough,Sore Throat,High Fever,Skin Rash,Sweating,Chikungunya
+Sweating,Fatigue,Dizziness,Chest Pain,Body Pain,Pneumonia
+Muscle Weakness,Skin Rash,Shortness of Breath,Chills,Vomiting,Asthma
+Nausea,Loss of Appetite,Runny Nose,Joint Pain,Diarrhea,Typhoid
+Cough,Nausea,Runny Nose,Sneezing,Body Pain,Pneumonia
+Runny Nose,Joint Pain,Swelling,Fatigue,Body Pain,Cold
+Fatigue,Muscle Weakness,Joint Pain,Sneezing,Diarrhea,Food Poisoning
+Fever,Sneezing,Abdominal Pain,Chills,Sweating,Bronchitis
+Muscle Weakness,Runny Nose,Nausea,Fatigue,Vomiting,Bronchitis
+Shortness of Breath,Body Pain,Runny Nose,Swelling,Headache,Flu
+Chest Pain,Dizziness,Fatigue,Muscle Weakness,Cough,Chikungunya
+Abdominal Pain,Loss of Appetite,Diarrhea,Shortness of Breath,Dizziness,Cold
+Chills,Fatigue,Nausea,Abdominal Pain,Cough,Dengue
+Chills,Headache,Swelling,Fever,Sneezing,COVID-19
+Nausea,Shortness of Breath,Swelling,Headache,Fatigue,Cold
+Runny Nose,High Fever,Chest Pain,Cough,Headache,Tuberculosis
+Diarrhea,Loss of Appetite,Shortness of Breath,Body Pain,Joint Pain,Typhoid
+Chest Pain,Shortness of Breath,Abdominal Pain,Cough,Swelling,Tuberculosis
+Headache,Vomiting,Sneezing,Dizziness,Sore Throat,Allergy
+Headache,Loss of Appetite,Dizziness,Chest Pain,Body Pain,Tuberculosis
+Nausea,Sweating,Runny Nose,Chest Pain,Cough,Typhoid
+High Fever,Sore Throat,Joint Pain,Muscle Weakness,Shortness of Breath,Cold
+Dizziness,Loss of Appetite,Fever,Shortness of Breath,Swelling,Bronchitis
+Chest Pain,Diarrhea,Loss of Appetite,Sweating,Shortness of Breath,Pneumonia
+Skin Rash,Muscle Weakness,Fever,Body Pain,Diarrhea,Flu
+Sweating,Sneezing,Joint Pain,Swelling,Fever,Asthma
+Sweating,Sore Throat,Skin Rash,Chest Pain,High Fever,Asthma
+Shortness of Breath,Abdominal Pain,Skin Rash,Headache,Muscle Weakness,Dengue
+Dizziness,Fever,Sore Throat,High Fever,Shortness of Breath,Asthma
+Dizziness,Swelling,Fever,Chest Pain,Shortness of Breath,Typhoid
+Sneezing,Nausea,Vomiting,Fatigue,Chills,Dengue
+Skin Rash,Nausea,Sneezing,Fever,Loss of Appetite,Allergy
+Fever,Sneezing,Cough,Runny Nose,High Fever,Allergy
+Swelling,Shortness of Breath,Joint Pain,Abdominal Pain,Muscle Weakness,Asthma
+Skin Rash,Fever,Body Pain,Runny Nose,Shortness of Breath,Chikungunya
+High Fever,Sneezing,Chills,Diarrhea,Dizziness,Flu
+High Fever,Joint Pain,Abdominal Pain,Diarrhea,Cough,Dengue
+Runny Nose,Body Pain,Dizziness,Abdominal Pain,Nausea,Allergy
+Dizziness,Chills,Headache,Chest Pain,Cough,Malaria
+Joint Pain,Swelling,Body Pain,Skin Rash,Shortness of Breath,Allergy
+High Fever,Runny Nose,Fever,Shortness of Breath,Cough,Tuberculosis
+Body Pain,Swelling,Nausea,Fever,Chills,Bronchitis
+Runny Nose,Fatigue,Shortness of Breath,Dizziness,Headache,Asthma
+Dizziness,Sore Throat,Skin Rash,Chills,Vomiting,Typhoid
+Vomiting,Runny Nose,Chest Pain,Sweating,Muscle Weakness,Dengue
+Body Pain,Joint Pain,Swelling,Muscle Weakness,Loss of Appetite,Flu
+Swelling,Muscle Weakness,Shortness of Breath,Skin Rash,Sore Throat,COVID-19
+Loss of Appetite,Cough,Body Pain,Chest Pain,Sweating,Flu
+Joint Pain,Runny Nose,Muscle Weakness,High Fever,Swelling,Tuberculosis
+Sore Throat,Swelling,Cough,Joint Pain,High Fever,Dengue
+Sweating,Runny Nose,Dizziness,Abdominal Pain,High Fever,Chikungunya
+Headache,Loss of Appetite,Dizziness,Sweating,Chest Pain,Dengue
+Joint Pain,Runny Nose,Sore Throat,Abdominal Pain,Fatigue,Flu
+Shortness of Breath,High Fever,Cough,Muscle Weakness,Loss of Appetite,Asthma
+Abdominal Pain,Headache,Vomiting,Runny Nose,Sneezing,Dengue
+Fever,Vomiting,Chills,Dizziness,Skin Rash,Pneumonia
+Loss of Appetite,Swelling,Fatigue,Abdominal Pain,Cough,Chikungunya
+Joint Pain,Loss of Appetite,Muscle Weakness,Abdominal Pain,Swelling,Flu
+Muscle Weakness,High Fever,Diarrhea,Shortness of Breath,Nausea,Cold
+Nausea,Fever,Body Pain,Sneezing,Abdominal Pain,Tuberculosis
+High Fever,Sneezing,Headache,Swelling,Chills,Malaria
+Sneezing,Shortness of Breath,Loss of Appetite,Abdominal Pain,Muscle Weakness,Allergy
+Sore Throat,Sweating,Diarrhea,Headache,Swelling,Cold
+Swelling,Skin Rash,Cough,Sneezing,Fatigue,Cold
+Muscle Weakness,Sweating,Fever,Joint Pain,Sneezing,Tuberculosis
+Vomiting,High Fever,Dizziness,Fatigue,Body Pain,Asthma
+Fatigue,Headache,Swelling,Shortness of Breath,Muscle Weakness,Cold
+Sneezing,Skin Rash,Fatigue,Nausea,Body Pain,Asthma
+Loss of Appetite,Sore Throat,Nausea,Chest Pain,Abdominal Pain,Tuberculosis
+Dizziness,Sneezing,Body Pain,Chills,High Fever,Malaria
+Headache,Swelling,High Fever,Chills,Sweating,Malaria
+Swelling,Nausea,Sore Throat,Sneezing,Sweating,Malaria
+Swelling,Nausea,Runny Nose,Joint Pain,Diarrhea,Chikungunya
+Shortness of Breath,Skin Rash,Headache,Chest Pain,Nausea,Bronchitis
+Sneezing,Diarrhea,Fever,Sore Throat,Runny Nose,Food Poisoning
+Sneezing,Chills,Muscle Weakness,Headache,Skin Rash,Allergy
+Nausea,High Fever,Shortness of Breath,Runny Nose,Sore Throat,Dengue
+High Fever,Sweating,Shortness of Breath,Sore Throat,Fatigue,Flu
+Loss of Appetite,Fever,Muscle Weakness,Runny Nose,Joint Pain,Asthma
+Chest Pain,Fever,Sore Throat,Chills,Sneezing,Malaria
+Cough,Sneezing,Chest Pain,Vomiting,Nausea,Flu
+Body Pain,Nausea,Chest Pain,Sneezing,Runny Nose,Chikungunya
+Fatigue,Vomiting,Chest Pain,Shortness of Breath,Loss of Appetite,Malaria
+Headache,Diarrhea,Nausea,Chest Pain,Vomiting,Pneumonia
+Sweating,Swelling,Sore Throat,Muscle Weakness,Cough,COVID-19
+High Fever,Dizziness,Cough,Headache,Fever,Typhoid
+Swelling,Fever,Sore Throat,Joint Pain,Shortness of Breath,Chikungunya
+Runny Nose,Chest Pain,Sweating,Fatigue,Body Pain,Flu
+Cough,Dizziness,Sweating,Fever,Fatigue,Dengue
+Diarrhea,Nausea,Cough,Loss of Appetite,Abdominal Pain,Malaria
+Nausea,Chest Pain,Fatigue,Fever,Headache,Dengue
+Chest Pain,Skin Rash,Fever,Vomiting,Muscle Weakness,Cold
+Dizziness,Vomiting,Loss of Appetite,Abdominal Pain,Skin Rash,Flu
+Chills,Cough,Nausea,Runny Nose,Sneezing,Flu
+Cough,Diarrhea,Sneezing,Sweating,Dizziness,Typhoid
+Diarrhea,High Fever,Muscle Weakness,Abdominal Pain,Dizziness,Bronchitis
+Dizziness,Muscle Weakness,High Fever,Chills,Diarrhea,Typhoid
+Sneezing,Sore Throat,Loss of Appetite,Fatigue,Chills,Cold
+Nausea,Cough,Dizziness,Sweating,Diarrhea,Asthma
+Sneezing,Chest Pain,High Fever,Abdominal Pain,Swelling,COVID-19
+Sweating,Vomiting,Swelling,Nausea,Muscle Weakness,Malaria
+Swelling,Runny Nose,Sore Throat,Sweating,Chest Pain,Dengue
+Muscle Weakness,Fever,Chills,Sweating,Nausea,COVID-19
+Nausea,High Fever,Swelling,Runny Nose,Shortness of Breath,Tuberculosis
+Fever,Cough,Loss of Appetite,Diarrhea,Shortness of Breath,Tuberculosis
+Runny Nose,Fever,Dizziness,Muscle Weakness,Loss of Appetite,Typhoid
+Sore Throat,Nausea,High Fever,Skin Rash,Joint Pain,Bronchitis
+Loss of Appetite,Cough,Runny Nose,Sore Throat,Dizziness,Typhoid
+Fever,Cough,Chills,Abdominal Pain,Runny Nose,Allergy
+Loss of Appetite,Fever,Nausea,High Fever,Dizziness,Typhoid
+Sore Throat,Chills,Vomiting,High Fever,Body Pain,Bronchitis
+Nausea,Dizziness,Sore Throat,Diarrhea,Loss of Appetite,Asthma
+Headache,Sweating,Sneezing,Dizziness,Fever,Flu
+Headache,Joint Pain,Body Pain,Diarrhea,Chest Pain,Tuberculosis
+Diarrhea,Fatigue,Nausea,Skin Rash,Headache,Cold
+Body Pain,Fatigue,Swelling,Sore Throat,Runny Nose,Cold
+High Fever,Shortness of Breath,Abdominal Pain,Skin Rash,Chills,Dengue
+Diarrhea,Chills,Loss of Appetite,Swelling,Skin Rash,Dengue
+High Fever,Nausea,Fatigue,Cough,Sweating,Dengue
+Swelling,Chest Pain,Loss of Appetite,Vomiting,Sneezing,Tuberculosis
+Fever,Chest Pain,Runny Nose,Sore Throat,Swelling,Typhoid
+Abdominal Pain,Swelling,Vomiting,Cough,Diarrhea,Asthma
+Sore Throat,Swelling,Sweating,Diarrhea,Fatigue,Allergy
+Shortness of Breath,Sore Throat,Sweating,Chest Pain,Vomiting,Malaria
+Sweating,Chest Pain,Joint Pain,Diarrhea,Body Pain,Allergy
+Chills,Joint Pain,Sweating,Diarrhea,Headache,Cold
+Fatigue,Abdominal Pain,Loss of Appetite,Swelling,Headache,Food Poisoning
+Sore Throat,Dizziness,Runny Nose,Sneezing,Muscle Weakness,Pneumonia
+Skin Rash,Body Pain,Sore Throat,Headache,Sweating,Cold
+Loss of Appetite,Fever,Chills,Joint Pain,Body Pain,Asthma
+Loss of Appetite,Chills,Headache,Shortness of Breath,Swelling,Bronchitis
+Abdominal Pain,Skin Rash,Fever,Cough,Loss of Appetite,Malaria
+Diarrhea,Chills,High Fever,Shortness of Breath,Sneezing,Tuberculosis
+Sore Throat,Cough,Fever,Sweating,Abdominal Pain,Asthma
+Shortness of Breath,Nausea,Headache,Sweating,Sore Throat,Typhoid
+Cough,Headache,Chills,Dizziness,Diarrhea,Asthma
+Sore Throat,Joint Pain,Skin Rash,Abdominal Pain,Fatigue,Bronchitis
+Dizziness,Headache,Chills,Sweating,Fever,Food Poisoning
+Vomiting,Sweating,Body Pain,Chest Pain,High Fever,Tuberculosis
+Skin Rash,Dizziness,Muscle Weakness,Nausea,Fatigue,Malaria
+Sweating,Swelling,Diarrhea,Sneezing,Body Pain,Dengue
+Abdominal Pain,Joint Pain,Loss of Appetite,Chest Pain,Fatigue,Chikungunya
+Joint Pain,Fever,Muscle Weakness,Abdominal Pain,Swelling,Typhoid
+Shortness of Breath,Chest Pain,Chills,Joint Pain,Sore Throat,Asthma
+Diarrhea,Shortness of Breath,Sneezing,Chills,Body Pain,Chikungunya
+Fatigue,Skin Rash,Chills,Sneezing,Swelling,Dengue
+Sore Throat,Chest Pain,Dizziness,Swelling,Skin Rash,Bronchitis
+Nausea,Diarrhea,Vomiting,Sneezing,Runny Nose,Allergy
+Chills,Dizziness,Body Pain,Runny Nose,Headache,Cold
+Vomiting,Muscle Weakness,Cough,Chest Pain,Shortness of Breath,Tuberculosis
+Chest Pain,Sore Throat,Skin Rash,Runny Nose,Fever,Dengue
+Fever,Muscle Weakness,Sneezing,Skin Rash,Cough,Pneumonia
+Chest Pain,Sweating,Joint Pain,Body Pain,Vomiting,Flu
+Diarrhea,Swelling,Nausea,Skin Rash,Headache,COVID-19
+High Fever,Nausea,Fever,Chest Pain,Body Pain,Asthma
+Swelling,Fever,Runny Nose,Sneezing,Nausea,Typhoid
+Sweating,Cough,Abdominal Pain,Swelling,Fatigue,Tuberculosis
+Vomiting,Sneezing,Chest Pain,Runny Nose,Nausea,COVID-19
+Fatigue,Headache,Body Pain,Fever,Sore Throat,Tuberculosis
+Dizziness,Loss of Appetite,Chest Pain,Sore Throat,Chills,Asthma
+Cough,Fatigue,Chills,Chest Pain,Joint Pain,Bronchitis
+Swelling,Diarrhea,Vomiting,High Fever,Loss of Appetite,COVID-19
+Vomiting,Sore Throat,Shortness of Breath,Dizziness,Runny Nose,Chikungunya
+Nausea,Diarrhea,Vomiting,Skin Rash,Body Pain,Typhoid
+Cough,Vomiting,Sweating,Sneezing,Nausea,Allergy
+Fever,Sore Throat,Nausea,Muscle Weakness,Loss of Appetite,Tuberculosis
+Sore Throat,Shortness of Breath,Sneezing,Vomiting,Muscle Weakness,Typhoid
+High Fever,Joint Pain,Sneezing,Shortness of Breath,Skin Rash,COVID-19
+Swelling,Body Pain,Abdominal Pain,High Fever,Cough,Malaria
+Cough,Joint Pain,Sweating,Sneezing,Nausea,Typhoid
+Chest Pain,Sweating,Joint Pain,Swelling,Dizziness,Typhoid
+Swelling,Sneezing,Body Pain,Nausea,Runny Nose,Allergy
+Runny Nose,Muscle Weakness,Dizziness,Skin Rash,Shortness of Breath,Dengue
+Shortness of Breath,Skin Rash,Runny Nose,Sneezing,Dizziness,Asthma
+Sneezing,Shortness of Breath,Swelling,Skin Rash,Loss of Appetite,Bronchitis
+Chills,Loss of Appetite,Vomiting,Abdominal Pain,Muscle Weakness,Pneumonia
+Sweating,Muscle Weakness,Abdominal Pain,Skin Rash,Swelling,Dengue
+Swelling,Sore Throat,Cough,Runny Nose,Vomiting,Asthma
+Loss of Appetite,Sweating,Body Pain,Runny Nose,Muscle Weakness,Tuberculosis
+High Fever,Loss of Appetite,Fever,Sore Throat,Dizziness,Food Poisoning
+Abdominal Pain,Skin Rash,Swelling,Sweating,Cough,COVID-19
+Fever,Muscle Weakness,Body Pain,Cough,Dizziness,Asthma
+Diarrhea,Sneezing,Fever,Runny Nose,Headache,COVID-19
+Sore Throat,Shortness of Breath,Skin Rash,High Fever,Sneezing,Flu
+Sneezing,Sweating,Muscle Weakness,Loss of Appetite,Swelling,Dengue
+Sneezing,Diarrhea,Cough,Chills,Fatigue,Bronchitis
+Runny Nose,Skin Rash,Muscle Weakness,Sweating,Loss of Appetite,COVID-19
+Swelling,Runny Nose,Cough,Dizziness,Sweating,Flu
+Body Pain,Loss of Appetite,Skin Rash,Chills,Headache,Flu
+High Fever,Swelling,Muscle Weakness,Chills,Headache,COVID-19
+Joint Pain,High Fever,Abdominal Pain,Fatigue,Body Pain,Asthma
+Shortness of Breath,Swelling,Headache,High Fever,Diarrhea,Chikungunya
+Headache,Dizziness,Sneezing,Sore Throat,Skin Rash,Chikungunya
+Nausea,Body Pain,Swelling,Headache,Muscle Weakness,Malaria
+Dizziness,Vomiting,Headache,Sweating,Sneezing,COVID-19
+Cough,Headache,Chills,Sore Throat,Runny Nose,Dengue
+Diarrhea,Nausea,Loss of Appetite,Body Pain,Headache,Cold
+Chills,Skin Rash,High Fever,Cough,Muscle Weakness,Dengue
+Sneezing,Headache,Nausea,Shortness of Breath,Sore Throat,COVID-19
+Runny Nose,Joint Pain,Nausea,Vomiting,Chills,Malaria
+Joint Pain,Cough,High Fever,Chest Pain,Diarrhea,Malaria
+High Fever,Runny Nose,Skin Rash,Joint Pain,Swelling,COVID-19
+Fever,Chills,Diarrhea,Swelling,Skin Rash,Bronchitis
+Diarrhea,Abdominal Pain,Skin Rash,Dizziness,Runny Nose,Chikungunya
+Swelling,Cough,Chills,Dizziness,Sore Throat,Chikungunya
+Diarrhea,Abdominal Pain,Sweating,Sneezing,Vomiting,Malaria
+Abdominal Pain,Joint Pain,Runny Nose,Headache,Skin Rash,Asthma
+Body Pain,High Fever,Abdominal Pain,Nausea,Chest Pain,Dengue
+Body Pain,Dizziness,Sweating,Vomiting,Muscle Weakness,Typhoid
+Joint Pain,Dizziness,Shortness of Breath,Body Pain,Fatigue,Flu
+Sweating,Fever,Sneezing,Swelling,Diarrhea,Allergy
+Joint Pain,Dizziness,Headache,Nausea,Chills,Typhoid
+Dizziness,Body Pain,Vomiting,Loss of Appetite,Diarrhea,COVID-19
+Muscle Weakness,Nausea,Sweating,Shortness of Breath,High Fever,Bronchitis
+Shortness of Breath,Sneezing,Headache,Sore Throat,Loss of Appetite,Food Poisoning
+Shortness of Breath,Skin Rash,High Fever,Loss of Appetite,Headache,Dengue
+Runny Nose,Chest Pain,Headache,Chills,Vomiting,Flu
+Sneezing,Diarrhea,Shortness of Breath,Headache,Nausea,Cold
+Fever,Runny Nose,Chills,Nausea,Diarrhea,Pneumonia
+Chills,Cough,Joint Pain,Abdominal Pain,Muscle Weakness,Asthma
+Runny Nose,High Fever,Skin Rash,Sore Throat,Fever,Flu
+Skin Rash,Nausea,Chest Pain,Dizziness,Shortness of Breath,Cold
+Vomiting,Sweating,Skin Rash,Runny Nose,Dizziness,Tuberculosis
+Headache,Muscle Weakness,Nausea,Skin Rash,Swelling,Chikungunya
+Muscle Weakness,Sweating,Chest Pain,Diarrhea,Sore Throat,Allergy
+High Fever,Runny Nose,Abdominal Pain,Joint Pain,Sweating,Typhoid
+Nausea,Diarrhea,Swelling,Dizziness,Sore Throat,Food Poisoning
+Swelling,Muscle Weakness,Diarrhea,Sweating,Dizziness,Tuberculosis
+Swelling,Skin Rash,Sweating,Fatigue,Shortness of Breath,Asthma
+Chest Pain,High Fever,Body Pain,Joint Pain,Dizziness,Flu
+Loss of Appetite,Sweating,Shortness of Breath,Vomiting,Skin Rash,Chikungunya
+Chest Pain,Body Pain,Sore Throat,Abdominal Pain,Diarrhea,Chikungunya
+Diarrhea,Sore Throat,Sweating,Muscle Weakness,Vomiting,Pneumonia
+Body Pain,Chills,Skin Rash,Nausea,Swelling,Allergy
+Fatigue,High Fever,Swelling,Chills,Runny Nose,Asthma
+Sneezing,Fatigue,Vomiting,Diarrhea,Dizziness,Allergy
+Dizziness,Fever,High Fever,Sore Throat,Swelling,Flu
+Fatigue,High Fever,Runny Nose,Headache,Dizziness,Malaria
+Swelling,Runny Nose,Fever,Skin Rash,Sweating,Asthma
+Sweating,Body Pain,Skin Rash,Runny Nose,High Fever,Tuberculosis
+Fever,Cough,Nausea,Dizziness,Sore Throat,Pneumonia
+Abdominal Pain,Vomiting,High Fever,Chills,Muscle Weakness,Bronchitis
+Dizziness,Diarrhea,Vomiting,Sweating,Fever,Bronchitis
+Vomiting,Shortness of Breath,Skin Rash,High Fever,Cough,Flu
+Fatigue,Sore Throat,Fever,Muscle Weakness,Diarrhea,Chikungunya
+Runny Nose,High Fever,Nausea,Sore Throat,Dizziness,Cold
+Abdominal Pain,Swelling,Fatigue,Nausea,Chills,Cold
+Nausea,Shortness of Breath,Sweating,Body Pain,Vomiting,Asthma
+Swelling,Runny Nose,Loss of Appetite,Vomiting,Fatigue,Pneumonia
+Body Pain,Headache,Loss of Appetite,Chest Pain,Diarrhea,Allergy
+Cough,Body Pain,Abdominal Pain,Sweating,Headache,Pneumonia
+Sore Throat,Shortness of Breath,Muscle Weakness,Dizziness,High Fever,Food Poisoning
+Chest Pain,Dizziness,Chills,Nausea,Vomiting,Pneumonia
+Nausea,Sore Throat,Swelling,Sweating,Chest Pain,Bronchitis
+Sneezing,Sweating,Body Pain,Joint Pain,Fever,Cold
+Dizziness,Diarrhea,Sweating,High Fever,Muscle Weakness,Food Poisoning
+Fever,Loss of Appetite,Chills,Nausea,Muscle Weakness,COVID-19
+Loss of Appetite,Runny Nose,Chills,Skin Rash,Body Pain,Dengue
+Sneezing,High Fever,Loss of Appetite,Fever,Diarrhea,Typhoid
+Cough,Body Pain,Fever,Chills,Sneezing,Asthma
+Muscle Weakness,Diarrhea,Skin Rash,Dizziness,Sweating,Tuberculosis
+Chills,Diarrhea,Chest Pain,Abdominal Pain,Joint Pain,Dengue
+Vomiting,Sweating,Chills,Chest Pain,Loss of Appetite,Malaria
+Cough,Joint Pain,Nausea,Sneezing,Diarrhea,COVID-19
+Loss of Appetite,High Fever,Cough,Nausea,Fever,Flu
+Skin Rash,Abdominal Pain,Vomiting,Diarrhea,Shortness of Breath,Flu
+Muscle Weakness,Cough,Body Pain,Vomiting,Chills,Food Poisoning
+Runny Nose,High Fever,Cough,Chest Pain,Fatigue,Flu
+Nausea,Sweating,Shortness of Breath,Sneezing,Abdominal Pain,Dengue
+Runny Nose,Sore Throat,Abdominal Pain,Swelling,Headache,Cold
+Diarrhea,Runny Nose,Sweating,Skin Rash,Shortness of Breath,Food Poisoning
+Swelling,Loss of Appetite,Vomiting,Fatigue,Chills,Cold
+Shortness of Breath,Fatigue,Sweating,Dizziness,Nausea,Cold
+Nausea,Sweating,Chills,Chest Pain,Vomiting,Allergy
+Sneezing,Joint Pain,Sore Throat,Skin Rash,Abdominal Pain,Chikungunya
+Body Pain,Sneezing,Headache,Sore Throat,High Fever,Dengue
+Loss of Appetite,Swelling,Joint Pain,Sweating,Body Pain,Typhoid
+Nausea,Muscle Weakness,Chest Pain,Fatigue,Dizziness,Tuberculosis
+Sneezing,High Fever,Abdominal Pain,Loss of Appetite,Muscle Weakness,Tuberculosis
+Runny Nose,Shortness of Breath,Abdominal Pain,Fever,Sore Throat,COVID-19
+Swelling,Sore Throat,Chest Pain,Headache,Nausea,Flu
+Chills,Fever,Headache,Dizziness,Body Pain,Asthma
+Shortness of Breath,Chills,Fatigue,Sneezing,Sore Throat,Flu
+Swelling,High Fever,Loss of Appetite,Vomiting,Sweating,COVID-19
+Joint Pain,Sore Throat,Fatigue,Loss of Appetite,Runny Nose,Bronchitis
+Skin Rash,Chills,Sweating,Abdominal Pain,Joint Pain,Chikungunya
+Loss of Appetite,Chest Pain,Sore Throat,Sweating,Muscle Weakness,Chikungunya
+Fever,Dizziness,Sore Throat,Sweating,Skin Rash,Tuberculosis
+Fever,Vomiting,Body Pain,Sore Throat,Joint Pain,Chikungunya
+Chills,Body Pain,Fatigue,Abdominal Pain,Sweating,Allergy
+Swelling,Shortness of Breath,Skin Rash,Runny Nose,Joint Pain,Flu
+Headache,Skin Rash,Sneezing,Body Pain,Joint Pain,Chikungunya
+Abdominal Pain,Sweating,Swelling,Sore Throat,Cough,Food Poisoning
+Fatigue,Muscle Weakness,Shortness of Breath,Sweating,Diarrhea,Bronchitis
+Muscle Weakness,Swelling,Sweating,Fatigue,Headache,Malaria
+Muscle Weakness,Dizziness,Runny Nose,Headache,Abdominal Pain,Pneumonia
+Dizziness,High Fever,Cough,Muscle Weakness,Chest Pain,COVID-19
+Body Pain,Joint Pain,Sore Throat,Cough,Fatigue,Malaria
+Abdominal Pain,Muscle Weakness,Vomiting,Cough,Sore Throat,Food Poisoning
+Swelling,Fatigue,Vomiting,Joint Pain,High Fever,Pneumonia
+Loss of Appetite,Fatigue,Sneezing,Diarrhea,High Fever,COVID-19
+Chest Pain,Cough,Sneezing,Joint Pain,Nausea,Allergy
+Nausea,Fatigue,Shortness of Breath,Body Pain,Chest Pain,Typhoid
+Loss of Appetite,Diarrhea,Fever,Vomiting,Sneezing,Flu
+Chest Pain,Headache,Sore Throat,Joint Pain,Swelling,Malaria
+Diarrhea,Sneezing,Runny Nose,Nausea,Dizziness,Allergy
+Abdominal Pain,Cough,Vomiting,Body Pain,Diarrhea,Allergy
+Fatigue,Sweating,High Fever,Joint Pain,Sneezing,COVID-19
+Fatigue,Sneezing,Sweating,Swelling,Cough,Dengue
+Sore Throat,Loss of Appetite,Dizziness,Sneezing,Fatigue,Typhoid
+Muscle Weakness,Skin Rash,Sneezing,Swelling,Chills,Cold
+Headache,Runny Nose,Loss of Appetite,High Fever,Fatigue,Typhoid
+Muscle Weakness,Chills,Loss of Appetite,Fatigue,High Fever,Tuberculosis
+Chills,Body Pain,Nausea,Fatigue,Fever,Chikungunya
+Joint Pain,Sore Throat,High Fever,Headache,Shortness of Breath,Typhoid
+Headache,Sore Throat,Sweating,Vomiting,Runny Nose,COVID-19
+Runny Nose,Chest Pain,Dizziness,Joint Pain,Fever,Asthma
+Nausea,Skin Rash,Cough,Dizziness,Abdominal Pain,Allergy
+Runny Nose,Sore Throat,Fever,Joint Pain,Headache,Pneumonia
+Fatigue,Joint Pain,Runny Nose,Skin Rash,Cough,Dengue
+High Fever,Chills,Vomiting,Fatigue,Headache,Malaria
+Nausea,Shortness of Breath,Dizziness,Vomiting,Chills,Bronchitis
+Dizziness,Body Pain,Swelling,Chest Pain,Shortness of Breath,Flu
+Shortness of Breath,Headache,Body Pain,Skin Rash,Vomiting,Typhoid
+Shortness of Breath,Fever,Sneezing,Body Pain,Muscle Weakness,Tuberculosis
+Fever,Chills,Shortness of Breath,High Fever,Nausea,Typhoid
+Sneezing,Runny Nose,Nausea,Loss of Appetite,Swelling,Dengue
+Chills,Vomiting,Cough,Sneezing,Abdominal Pain,Bronchitis
+Runny Nose,Joint Pain,Swelling,Cough,Skin Rash,Asthma
+Loss of Appetite,Chills,Muscle Weakness,Abdominal Pain,Fever,Bronchitis
+Nausea,Abdominal Pain,Body Pain,High Fever,Fever,Chikungunya
+Joint Pain,Loss of Appetite,Chest Pain,Skin Rash,Body Pain,Bronchitis
+Sweating,Chills,Sore Throat,Swelling,Fever,Pneumonia
+Fatigue,Runny Nose,Body Pain,Cough,Abdominal Pain,Flu
+Body Pain,High Fever,Skin Rash,Chills,Cough,Dengue
+Body Pain,Sneezing,Cough,Nausea,Muscle Weakness,Typhoid
+Cough,Fever,Diarrhea,Sweating,Abdominal Pain,Chikungunya
+High Fever,Shortness of Breath,Nausea,Sore Throat,Fever,Chikungunya
+Muscle Weakness,Loss of Appetite,Sweating,Headache,High Fever,Flu
+Muscle Weakness,Shortness of Breath,Fever,Skin Rash,Runny Nose,Dengue
+Headache,Fatigue,Cough,Fever,Body Pain,Asthma
+Chills,Skin Rash,Sore Throat,Fatigue,Abdominal Pain,Food Poisoning
+Sweating,Nausea,Loss of Appetite,Body Pain,Sore Throat,Dengue
+Chills,Shortness of Breath,Vomiting,Sore Throat,Abdominal Pain,Asthma
+Sneezing,Swelling,Shortness of Breath,Headache,Joint Pain,COVID-19
+Sweating,Muscle Weakness,Sore Throat,Joint Pain,Cough,COVID-19
+Shortness of Breath,Sore Throat,Abdominal Pain,Dizziness,Skin Rash,Bronchitis
+Fatigue,Diarrhea,Sweating,Shortness of Breath,Muscle Weakness,Dengue
+Body Pain,Dizziness,Sore Throat,Fatigue,Sneezing,Food Poisoning
+Diarrhea,Muscle Weakness,Chills,Joint Pain,Vomiting,Pneumonia
+Nausea,Chills,Joint Pain,Skin Rash,Fatigue,COVID-19
+Shortness of Breath,Sneezing,Headache,Cough,Runny Nose,Dengue
+Sweating,Joint Pain,Abdominal Pain,Fever,Loss of Appetite,Bronchitis
+Dizziness,Body Pain,Cough,Sweating,Shortness of Breath,Food Poisoning
+Headache,Shortness of Breath,Sore Throat,High Fever,Chest Pain,Allergy
+Dizziness,Fatigue,Sneezing,Diarrhea,Sore Throat,Cold
+Swelling,Body Pain,Loss of Appetite,Chest Pain,Runny Nose,Dengue
+Sneezing,High Fever,Chills,Cough,Fatigue,Typhoid
+Abdominal Pain,Fever,Dizziness,Skin Rash,Sneezing,Cold
+Swelling,Diarrhea,Fatigue,Headache,Chest Pain,Dengue
+Shortness of Breath,Fever,Body Pain,Cough,Sore Throat,Bronchitis
+Fatigue,Diarrhea,Sneezing,Shortness of Breath,Sore Throat,Dengue
+Runny Nose,Abdominal Pain,Dizziness,Joint Pain,Shortness of Breath,Food Poisoning
+Headache,Muscle Weakness,Vomiting,Diarrhea,Cough,Pneumonia
+Skin Rash,Muscle Weakness,Abdominal Pain,Shortness of Breath,Chest Pain,Tuberculosis
+Chest Pain,Vomiting,Runny Nose,Swelling,Fever,Flu
+Vomiting,Nausea,Sneezing,Diarrhea,Fever,Flu
+Diarrhea,Muscle Weakness,Sweating,Skin Rash,Joint Pain,Malaria
+Cough,Chills,Sneezing,Shortness of Breath,Dizziness,Chikungunya
+Fever,Abdominal Pain,Sore Throat,Dizziness,Loss of Appetite,Cold
+Diarrhea,Fever,Dizziness,Runny Nose,Loss of Appetite,Flu
+Shortness of Breath,Swelling,Joint Pain,High Fever,Nausea,Malaria
+Vomiting,Cough,Sweating,Headache,Shortness of Breath,Typhoid
+Sore Throat,Diarrhea,Body Pain,Sweating,Sneezing,Pneumonia
+Body Pain,Sweating,Loss of Appetite,Shortness of Breath,High Fever,Food Poisoning
+Chest Pain,Muscle Weakness,Joint Pain,Sweating,Sore Throat,Allergy
+Cough,Shortness of Breath,Vomiting,Fever,Joint Pain,Pneumonia
+Fever,Dizziness,Cough,Runny Nose,Body Pain,Dengue
+Swelling,Joint Pain,Loss of Appetite,Sweating,Headache,COVID-19
+Chills,Joint Pain,Swelling,Abdominal Pain,Muscle Weakness,Bronchitis
+Sneezing,Joint Pain,Shortness of Breath,Body Pain,High Fever,Tuberculosis
+Muscle Weakness,Vomiting,High Fever,Shortness of Breath,Loss of Appetite,Bronchitis
+Runny Nose,Joint Pain,Swelling,Body Pain,Dizziness,Pneumonia
+Sweating,Sore Throat,Sneezing,Fatigue,High Fever,Pneumonia
+Vomiting,Fatigue,Muscle Weakness,Shortness of Breath,Chest Pain,Food Poisoning
+Cough,Chills,Body Pain,Runny Nose,Fatigue,COVID-19
+Runny Nose,Chills,Fatigue,Sore Throat,Chest Pain,Dengue
+Body Pain,Muscle Weakness,Nausea,Headache,Chills,Typhoid
+Fatigue,Cough,Body Pain,Fever,Shortness of Breath,Malaria
+High Fever,Shortness of Breath,Muscle Weakness,Sneezing,Cough,Asthma
+Chest Pain,Headache,Body Pain,Shortness of Breath,Muscle Weakness,Flu
+Body Pain,Fatigue,Loss of Appetite,Joint Pain,Diarrhea,Malaria
+Abdominal Pain,Sweating,Vomiting,Chills,Chest Pain,COVID-19
+Nausea,Chills,Headache,Loss of Appetite,Fever,Cold
+Fever,Joint Pain,Vomiting,High Fever,Sneezing,Bronchitis
+Nausea,Swelling,Chills,Sore Throat,Chest Pain,COVID-19
+Nausea,Sneezing,Headache,Swelling,Sore Throat,Allergy
+Skin Rash,Joint Pain,Nausea,Cough,Shortness of Breath,Cold
+Sore Throat,Headache,Skin Rash,Chest Pain,Fatigue,Chikungunya
+High Fever,Sweating,Skin Rash,Vomiting,Cough,Asthma
+Fatigue,Nausea,Abdominal Pain,Chest Pain,Sweating,Flu
+Joint Pain,Swelling,Diarrhea,Nausea,Loss of Appetite,Typhoid
+Vomiting,Chest Pain,Muscle Weakness,Body Pain,Chills,COVID-19
+Dizziness,Headache,Shortness of Breath,Abdominal Pain,Chest Pain,Dengue
+Skin Rash,Body Pain,Joint Pain,Fever,Abdominal Pain,Dengue
+Abdominal Pain,Swelling,Headache,Dizziness,Muscle Weakness,Chikungunya
+Joint Pain,Body Pain,High Fever,Diarrhea,Nausea,Asthma
+Dizziness,Fatigue,Vomiting,Sweating,Joint Pain,Bronchitis
+Muscle Weakness,Sweating,Swelling,Fever,High Fever,Asthma
+Abdominal Pain,Body Pain,Runny Nose,High Fever,Shortness of Breath,COVID-19
+Sneezing,Chest Pain,Swelling,Abdominal Pain,Muscle Weakness,Cold
+Fatigue,Dizziness,Cough,Joint Pain,Sneezing,Pneumonia
+Joint Pain,Sneezing,Abdominal Pain,Cough,Muscle Weakness,Chikungunya
+Runny Nose,Diarrhea,Vomiting,Loss of Appetite,Fever,Bronchitis
+Chest Pain,Cough,Sweating,Chills,High Fever,COVID-19
+Headache,Chest Pain,Body Pain,Dizziness,Swelling,Bronchitis
+Fatigue,Chest Pain,Vomiting,Sneezing,Swelling,Tuberculosis
+Nausea,Sweating,Sore Throat,Chest Pain,Sneezing,Dengue
+Joint Pain,Fatigue,Abdominal Pain,Loss of Appetite,Muscle Weakness,Allergy
+Runny Nose,Chest Pain,Diarrhea,Chills,Muscle Weakness,Malaria
+Cough,Abdominal Pain,Nausea,Swelling,Sweating,Allergy
+Muscle Weakness,Runny Nose,Skin Rash,Abdominal Pain,Shortness of Breath,Typhoid
+Chills,Sneezing,Skin Rash,Muscle Weakness,Chest Pain,Tuberculosis
+Cough,Joint Pain,Body Pain,Vomiting,Sore Throat,Allergy
+Cough,Dizziness,Fever,Runny Nose,Swelling,Chikungunya
+Joint Pain,Chills,Sore Throat,Loss of Appetite,Abdominal Pain,Dengue
+Chills,Skin Rash,Body Pain,Nausea,Runny Nose,Tuberculosis
+Sweating,Loss of Appetite,Vomiting,High Fever,Headache,Pneumonia
+Vomiting,Loss of Appetite,Joint Pain,Swelling,Chills,Flu
+High Fever,Cough,Fatigue,Nausea,Sweating,COVID-19
+Loss of Appetite,Sore Throat,Joint Pain,Sneezing,Headache,Food Poisoning
+Swelling,Chills,Abdominal Pain,Headache,Shortness of Breath,Allergy
+High Fever,Nausea,Skin Rash,Shortness of Breath,Sneezing,Flu
+Chest Pain,Headache,Vomiting,Fever,Skin Rash,Bronchitis
+Nausea,Joint Pain,Fever,Cough,Fatigue,Flu
+Skin Rash,Abdominal Pain,Loss of Appetite,Sore Throat,Sweating,Dengue
+Dizziness,Chills,Sneezing,Chest Pain,Diarrhea,Typhoid
+Sweating,Joint Pain,Chills,Skin Rash,Cough,Malaria
+Swelling,Fever,Runny Nose,Vomiting,Diarrhea,Flu
+Skin Rash,Fever,Muscle Weakness,Nausea,Runny Nose,Typhoid
+Vomiting,Sneezing,Body Pain,Fatigue,Abdominal Pain,Bronchitis
+Cough,Sneezing,Sweating,Muscle Weakness,Joint Pain,Flu
+Vomiting,Swelling,Loss of Appetite,Joint Pain,Abdominal Pain,Typhoid
+Dizziness,Diarrhea,Runny Nose,Sore Throat,Body Pain,Food Poisoning
+Dizziness,Cough,Skin Rash,Muscle Weakness,Loss of Appetite,Chikungunya
+Sore Throat,Chest Pain,Nausea,Vomiting,Fatigue,Pneumonia
+Fatigue,Body Pain,Shortness of Breath,Sneezing,Cough,Cold
+Cough,Sore Throat,Nausea,Loss of Appetite,Runny Nose,Flu
+Runny Nose,Muscle Weakness,Shortness of Breath,Dizziness,Skin Rash,Flu
+Cough,Skin Rash,Chills,Muscle Weakness,Nausea,Typhoid
+Cough,Abdominal Pain,Dizziness,Sore Throat,Fatigue,Bronchitis
+High Fever,Runny Nose,Sweating,Joint Pain,Sore Throat,Dengue
+Loss of Appetite,High Fever,Sweating,Muscle Weakness,Chills,Flu
+Skin Rash,Sore Throat,Dizziness,Shortness of Breath,Sweating,Pneumonia
+Nausea,Runny Nose,Shortness of Breath,Joint Pain,Skin Rash,Typhoid
+Abdominal Pain,Runny Nose,Swelling,Sore Throat,Chills,COVID-19
+Chills,Chest Pain,Fever,Nausea,Cough,Pneumonia
+Fever,Headache,Chest Pain,Nausea,Sweating,COVID-19
+Chest Pain,Fatigue,Loss of Appetite,Cough,Vomiting,Flu
+Runny Nose,Sneezing,High Fever,Skin Rash,Sweating,Asthma
+Abdominal Pain,Dizziness,Shortness of Breath,Fatigue,Body Pain,Bronchitis
+Sneezing,Swelling,Nausea,Runny Nose,Diarrhea,Flu
+Body Pain,Nausea,Sweating,Dizziness,Chills,Flu
+Diarrhea,Sneezing,Sore Throat,Swelling,Fever,Typhoid
+Fever,Diarrhea,Body Pain,Sore Throat,Chills,Pneumonia
+Body Pain,Shortness of Breath,Abdominal Pain,Sweating,Cough,Food Poisoning
+Sore Throat,Muscle Weakness,Body Pain,Headache,High Fever,Tuberculosis
+Chills,Joint Pain,Sweating,Headache,Sore Throat,Tuberculosis
+Loss of Appetite,Nausea,Fatigue,Muscle Weakness,High Fever,Allergy
+Diarrhea,Body Pain,Dizziness,Headache,Swelling,Tuberculosis
+Body Pain,Headache,Dizziness,Chills,Diarrhea,Asthma
+Dizziness,Cough,Loss of Appetite,High Fever,Nausea,Cold
+Body Pain,Sweating,Chills,Sneezing,Fatigue,Malaria
+Body Pain,Sweating,Abdominal Pain,Fatigue,Chest Pain,Asthma
+Body Pain,Runny Nose,Sweating,Dizziness,Fever,Food Poisoning
+Fatigue,Sneezing,Nausea,Body Pain,Chest Pain,Bronchitis
+Abdominal Pain,Shortness of Breath,Sneezing,Headache,Runny Nose,Chikungunya
+Fever,Runny Nose,Muscle Weakness,Chills,Nausea,Flu
+Cough,Abdominal Pain,Sweating,Sneezing,Headache,Malaria
+Skin Rash,Diarrhea,Loss of Appetite,Sneezing,High Fever,Chikungunya
+Dizziness,Cough,Diarrhea,Swelling,Runny Nose,Pneumonia
+Fever,Headache,Sweating,Chest Pain,Dizziness,Asthma
+Skin Rash,Chills,Muscle Weakness,Joint Pain,Abdominal Pain,Flu
+Fever,Headache,Shortness of Breath,Sore Throat,Muscle Weakness,Chikungunya
+Chills,Nausea,Muscle Weakness,Fever,Swelling,Flu
+Loss of Appetite,Headache,Chills,Diarrhea,Fever,Bronchitis
+Skin Rash,Loss of Appetite,Sweating,Fatigue,Fever,Dengue
+Swelling,Diarrhea,Body Pain,Sneezing,Shortness of Breath,Malaria
+Sweating,Cough,Joint Pain,Vomiting,Runny Nose,Asthma
+Chills,Sneezing,Fatigue,Swelling,Sweating,Dengue
+Abdominal Pain,Nausea,Chest Pain,Swelling,Muscle Weakness,Bronchitis
+Abdominal Pain,Fatigue,Chills,Diarrhea,Chest Pain,Chikungunya
+Fever,High Fever,Muscle Weakness,Shortness of Breath,Body Pain,Dengue
+Chills,Joint Pain,Sneezing,Fatigue,Fever,Asthma
+Loss of Appetite,Body Pain,Dizziness,Headache,Abdominal Pain,Allergy
+Runny Nose,Fatigue,Loss of Appetite,Sneezing,Chills,Chikungunya
+Loss of Appetite,Nausea,Dizziness,Skin Rash,Swelling,Dengue
+Dizziness,Cough,Skin Rash,Loss of Appetite,Runny Nose,Dengue
+Sore Throat,Swelling,Runny Nose,Skin Rash,Shortness of Breath,Tuberculosis
+Sore Throat,Chest Pain,Joint Pain,Body Pain,Nausea,Typhoid
+Body Pain,Runny Nose,Joint Pain,Swelling,Loss of Appetite,Chikungunya
+Cough,High Fever,Abdominal Pain,Fever,Swelling,COVID-19
+Cough,Chills,Sweating,Skin Rash,Loss of Appetite,Bronchitis
+Fatigue,Nausea,Chest Pain,Sore Throat,Loss of Appetite,Chikungunya
+Headache,Runny Nose,Nausea,Chills,Sweating,Pneumonia
+Sore Throat,Dizziness,Body Pain,Nausea,Loss of Appetite,Malaria
+Sweating,Headache,Fever,Dizziness,Loss of Appetite,COVID-19
+Sweating,Swelling,Skin Rash,Sore Throat,Runny Nose,Dengue
+Cough,Muscle Weakness,Swelling,Joint Pain,Chills,Dengue
+Chest Pain,Shortness of Breath,Nausea,Sneezing,Fever,Malaria
+Abdominal Pain,Chest Pain,Sneezing,Nausea,Joint Pain,Food Poisoning
+Shortness of Breath,Diarrhea,Sore Throat,Chills,Nausea,Bronchitis
+High Fever,Body Pain,Shortness of Breath,Sneezing,Cough,Chikungunya
+Chest Pain,Swelling,Vomiting,Abdominal Pain,Muscle Weakness,Malaria
+Headache,Diarrhea,Swelling,Sweating,Abdominal Pain,Chikungunya
+Skin Rash,Body Pain,Nausea,Abdominal Pain,Runny Nose,Tuberculosis
+Dizziness,Joint Pain,Abdominal Pain,Sore Throat,Loss of Appetite,Allergy
+Skin Rash,Sweating,Muscle Weakness,Body Pain,Chest Pain,Food Poisoning
+Fatigue,High Fever,Sneezing,Vomiting,Chest Pain,Chikungunya
+Muscle Weakness,Fever,Runny Nose,Loss of Appetite,Dizziness,Flu
+Joint Pain,Swelling,Loss of Appetite,Fatigue,Fever,Food Poisoning
+Cough,High Fever,Abdominal Pain,Chest Pain,Fatigue,Typhoid
+Nausea,Skin Rash,Cough,Fatigue,High Fever,Malaria
+Muscle Weakness,Body Pain,Chills,Joint Pain,Runny Nose,Chikungunya
+Skin Rash,Headache,Fatigue,Joint Pain,Cough,COVID-19
+Muscle Weakness,Diarrhea,Fever,Chest Pain,High Fever,Allergy
+Dizziness,Swelling,Chills,Cough,Sneezing,Dengue
+Loss of Appetite,Fever,Cough,Body Pain,Vomiting,Chikungunya
+Sweating,High Fever,Abdominal Pain,Muscle Weakness,Swelling,Cold
+Fever,Diarrhea,Dizziness,Headache,Fatigue,Cold
+Sweating,Sore Throat,Vomiting,Loss of Appetite,Skin Rash,Typhoid
+High Fever,Fever,Fatigue,Headache,Muscle Weakness,Cold
+Skin Rash,Swelling,Diarrhea,Abdominal Pain,Headache,Typhoid
+Cough,Swelling,Sneezing,Loss of Appetite,Skin Rash,Bronchitis
+Joint Pain,Loss of Appetite,High Fever,Sneezing,Skin Rash,Asthma
+Diarrhea,Muscle Weakness,Sore Throat,Cough,Fever,Dengue
+Skin Rash,Chest Pain,Swelling,Muscle Weakness,High Fever,Flu
+Skin Rash,Chills,Sore Throat,Sneezing,Cough,Chikungunya
+Fever,Headache,Sneezing,Fatigue,Joint Pain,Malaria
+Swelling,Runny Nose,Sweating,Muscle Weakness,Sneezing,Malaria
+Skin Rash,Nausea,Abdominal Pain,Shortness of Breath,Fatigue,Typhoid
+Sore Throat,Muscle Weakness,Diarrhea,Chest Pain,Vomiting,Typhoid
+Muscle Weakness,Chills,Dizziness,Cough,Sweating,Allergy
+Dizziness,Diarrhea,Sneezing,Loss of Appetite,Swelling,Tuberculosis
+Body Pain,High Fever,Skin Rash,Fatigue,Sneezing,Pneumonia
+Diarrhea,Sore Throat,Nausea,High Fever,Chest Pain,Malaria
+Fever,Skin Rash,Joint Pain,Runny Nose,Nausea,Typhoid
+Sneezing,High Fever,Swelling,Sweating,Chills,COVID-19
+Nausea,Muscle Weakness,Abdominal Pain,Vomiting,Headache,Flu
+Nausea,Muscle Weakness,Sneezing,Swelling,Chills,COVID-19
+Chills,Abdominal Pain,Skin Rash,Muscle Weakness,Headache,Flu
+Shortness of Breath,Vomiting,Skin Rash,High Fever,Sore Throat,Pneumonia
+Nausea,Headache,Muscle Weakness,Cough,Vomiting,COVID-19
+Joint Pain,High Fever,Skin Rash,Fatigue,Sneezing,COVID-19
+Skin Rash,Chills,Sneezing,Shortness of Breath,Fatigue,Tuberculosis
+Swelling,High Fever,Body Pain,Shortness of Breath,Sneezing,COVID-19
+Fatigue,Chills,Sweating,Cough,Nausea,Food Poisoning
+Shortness of Breath,Runny Nose,Dizziness,Sweating,Diarrhea,Food Poisoning
+Skin Rash,Fatigue,Body Pain,Sore Throat,Chills,Malaria
+Abdominal Pain,Loss of Appetite,Sweating,Chills,Runny Nose,Pneumonia
+Runny Nose,Shortness of Breath,Joint Pain,Vomiting,Sneezing,Typhoid
+Vomiting,Dizziness,Fatigue,Sore Throat,Sweating,Flu
+Dizziness,Cough,Diarrhea,Fever,Headache,Cold
+Sore Throat,Dizziness,Chest Pain,Sneezing,Headache,Chikungunya
+Fatigue,Fever,Sweating,Vomiting,Chills,Asthma
+Fatigue,Vomiting,Sore Throat,Nausea,Sweating,Flu
+High Fever,Chest Pain,Runny Nose,Shortness of Breath,Fatigue,Food Poisoning
+Joint Pain,Dizziness,Vomiting,Shortness of Breath,Muscle Weakness,Pneumonia
+Abdominal Pain,Runny Nose,Skin Rash,Swelling,Shortness of Breath,COVID-19
+High Fever,Nausea,Sweating,Diarrhea,Fatigue,Malaria
+Joint Pain,Sweating,Headache,Loss of Appetite,Chest Pain,Food Poisoning
+Body Pain,Chills,Runny Nose,Nausea,Chest Pain,Food Poisoning
+Muscle Weakness,Cough,Body Pain,Runny Nose,Sweating,Malaria
+Body Pain,Joint Pain,Runny Nose,Swelling,Shortness of Breath,Flu
+Runny Nose,Abdominal Pain,Chest Pain,Swelling,Sneezing,Dengue
+Swelling,Abdominal Pain,Shortness of Breath,Joint Pain,Dizziness,Food Poisoning
+Body Pain,High Fever,Chills,Loss of Appetite,Shortness of Breath,Tuberculosis
+Headache,Runny Nose,High Fever,Muscle Weakness,Skin Rash,Typhoid
+Sweating,Chest Pain,Swelling,Nausea,Vomiting,Asthma
+Joint Pain,Fever,Muscle Weakness,Body Pain,Loss of Appetite,Dengue
+Runny Nose,Loss of Appetite,Headache,Swelling,Dizziness,Cold
+Sore Throat,Body Pain,Runny Nose,Diarrhea,Shortness of Breath,Food Poisoning
+High Fever,Runny Nose,Sore Throat,Fever,Abdominal Pain,Pneumonia
+Diarrhea,Sore Throat,Fever,Headache,Nausea,Chikungunya
+Diarrhea,Nausea,Sneezing,Body Pain,Fever,Allergy
+Fever,Muscle Weakness,Sore Throat,Vomiting,Headache,Allergy
+Cough,Swelling,Abdominal Pain,Joint Pain,Nausea,Cold
+Vomiting,Fever,Diarrhea,Runny Nose,Cough,Asthma
+Dizziness,Skin Rash,Nausea,Sweating,Loss of Appetite,Typhoid
+Skin Rash,Headache,Muscle Weakness,Joint Pain,Vomiting,Cold
+Abdominal Pain,Dizziness,Shortness of Breath,Sneezing,Fatigue,Allergy
+Dizziness,Headache,Cough,Sneezing,Body Pain,Cold
+Body Pain,Cough,Fever,Skin Rash,Nausea,COVID-19
+Chest Pain,Runny Nose,Skin Rash,Swelling,Loss of Appetite,Cold
+Diarrhea,Sore Throat,Loss of Appetite,Body Pain,Nausea,Allergy
+Nausea,High Fever,Loss of Appetite,Sweating,Fatigue,Pneumonia
+High Fever,Muscle Weakness,Loss of Appetite,Skin Rash,Chest Pain,Allergy
+Muscle Weakness,Diarrhea,Joint Pain,Loss of Appetite,Chest Pain,Chikungunya
+Skin Rash,Body Pain,Cough,Sneezing,Fever,Bronchitis
+Diarrhea,Nausea,Fatigue,Joint Pain,Headache,COVID-19
+Shortness of Breath,Sore Throat,Fever,Headache,Joint Pain,Bronchitis
+Muscle Weakness,Dizziness,Vomiting,High Fever,Fatigue,Typhoid
+Sweating,Runny Nose,Sore Throat,Diarrhea,Vomiting,Food Poisoning
+Chills,Fever,Chest Pain,Dizziness,Muscle Weakness,Flu
+Joint Pain,Fever,Loss of Appetite,Sore Throat,Cough,Tuberculosis
+Abdominal Pain,Shortness of Breath,Skin Rash,Vomiting,Cough,Chikungunya
+Cough,Muscle Weakness,High Fever,Skin Rash,Chills,Dengue
+Joint Pain,Skin Rash,Headache,Fatigue,Swelling,Malaria
+Fatigue,Abdominal Pain,Cough,Swelling,Skin Rash,Bronchitis
+Nausea,Runny Nose,High Fever,Sneezing,Swelling,COVID-19
+Fever,Loss of Appetite,Muscle Weakness,Sweating,Shortness of Breath,Cold
+Loss of Appetite,Chills,Fever,Dizziness,Fatigue,Flu
+Cough,Swelling,Skin Rash,Sweating,Loss of Appetite,Cold
+Shortness of Breath,Diarrhea,Chest Pain,Joint Pain,Sore Throat,Asthma
+Loss of Appetite,Sore Throat,Skin Rash,Body Pain,High Fever,Allergy
+Chills,Sore Throat,Loss of Appetite,Chest Pain,Dizziness,Pneumonia
+Muscle Weakness,Sneezing,Chest Pain,Body Pain,Abdominal Pain,Typhoid
+Runny Nose,Dizziness,Loss of Appetite,Skin Rash,High Fever,Tuberculosis
+High Fever,Body Pain,Runny Nose,Sore Throat,Sneezing,Chikungunya
+Loss of Appetite,Swelling,Dizziness,Vomiting,Sore Throat,Food Poisoning
+Fatigue,Joint Pain,Muscle Weakness,Vomiting,Diarrhea,Typhoid
+Loss of Appetite,Headache,Fatigue,Joint Pain,Sweating,Allergy
+Vomiting,Loss of Appetite,Headache,Fatigue,Sore Throat,Pneumonia
+Shortness of Breath,Sweating,Cough,Swelling,Loss of Appetite,Pneumonia
+Loss of Appetite,Fatigue,Abdominal Pain,Joint Pain,Runny Nose,Bronchitis
+Vomiting,Loss of Appetite,Chest Pain,Abdominal Pain,Nausea,Asthma
+Vomiting,Sore Throat,Cough,Joint Pain,Skin Rash,Chikungunya
+Runny Nose,Headache,Sweating,Chills,Vomiting,Allergy
+Dizziness,Joint Pain,Cough,Sweating,High Fever,Tuberculosis
+Sweating,Muscle Weakness,Headache,Vomiting,Body Pain,Pneumonia
+Diarrhea,Shortness of Breath,Headache,Chest Pain,Dizziness,Food Poisoning
+Sneezing,Muscle Weakness,Body Pain,Runny Nose,Sore Throat,Typhoid
+Sweating,Headache,Chills,Body Pain,Skin Rash,Flu
+Dizziness,High Fever,Joint Pain,Diarrhea,Sore Throat,Cold
+Dizziness,Loss of Appetite,Headache,Vomiting,High Fever,Cold
+Cough,Vomiting,Nausea,Muscle Weakness,Abdominal Pain,Food Poisoning
+Headache,Body Pain,Runny Nose,Dizziness,Fever,Tuberculosis
+Skin Rash,Sneezing,Sweating,Joint Pain,Chest Pain,Asthma
+Chest Pain,Chills,High Fever,Nausea,Fatigue,COVID-19
+Fever,Headache,Chest Pain,Vomiting,Cough,Flu
+Loss of Appetite,Sweating,Fever,Chills,Muscle Weakness,Pneumonia
+Muscle Weakness,High Fever,Joint Pain,Chest Pain,Sore Throat,Dengue
+Nausea,Diarrhea,Swelling,Sweating,Loss of Appetite,Dengue
+Swelling,Runny Nose,High Fever,Chest Pain,Joint Pain,Flu
+Runny Nose,Nausea,Sneezing,Joint Pain,Abdominal Pain,Allergy
+Nausea,High Fever,Skin Rash,Abdominal Pain,Sweating,Dengue
+Swelling,Vomiting,Skin Rash,Cough,Abdominal Pain,Flu
+Muscle Weakness,Vomiting,Body Pain,Joint Pain,Loss of Appetite,Allergy
+Headache,Sore Throat,Shortness of Breath,Swelling,Loss of Appetite,Pneumonia
+Skin Rash,Chest Pain,Swelling,Runny Nose,Headache,Food Poisoning
+Shortness of Breath,Swelling,Skin Rash,High Fever,Abdominal Pain,Chikungunya
+Vomiting,Loss of Appetite,Runny Nose,Diarrhea,High Fever,Dengue
+Sweating,Skin Rash,High Fever,Fatigue,Chest Pain,Food Poisoning
+Dizziness,Fatigue,Swelling,Sore Throat,Chills,COVID-19
+Fever,Shortness of Breath,Diarrhea,Body Pain,Abdominal Pain,Bronchitis
+Skin Rash,Muscle Weakness,Sore Throat,Loss of Appetite,Dizziness,Allergy
+Sweating,Vomiting,Swelling,Chills,Shortness of Breath,Pneumonia
+Muscle Weakness,Sore Throat,Diarrhea,Vomiting,Shortness of Breath,Typhoid
+Runny Nose,Sore Throat,Sweating,Dizziness,Headache,COVID-19
+Fatigue,Loss of Appetite,Muscle Weakness,High Fever,Cough,Cold
+Sneezing,Fever,Sore Throat,Body Pain,Swelling,Flu
+Fever,Sweating,Runny Nose,Diarrhea,Headache,Allergy
+Swelling,Chest Pain,Abdominal Pain,Cough,Joint Pain,Cold
+Chills,Fever,Diarrhea,Shortness of Breath,Vomiting,Bronchitis
+Joint Pain,Skin Rash,Sweating,Chest Pain,Fever,Chikungunya
+Sneezing,Fever,High Fever,Headache,Body Pain,COVID-19
+Chills,Sore Throat,Joint Pain,Sneezing,Dizziness,Bronchitis
+Body Pain,Chest Pain,Cough,Shortness of Breath,Fatigue,Allergy
+Sweating,Body Pain,Headache,Chills,Skin Rash,Typhoid
+High Fever,Vomiting,Body Pain,Cough,Fever,Cold
+Loss of Appetite,Sneezing,Skin Rash,Fatigue,Fever,Dengue
+Chills,Cough,Headache,Sore Throat,Sneezing,Pneumonia
+Fever,High Fever,Loss of Appetite,Diarrhea,Vomiting,Dengue
+Fatigue,Dizziness,Fever,Sore Throat,Loss of Appetite,Chikungunya
+Swelling,Body Pain,Headache,Sweating,Chest Pain,Allergy
+Abdominal Pain,Body Pain,Swelling,High Fever,Sweating,Typhoid
+Vomiting,Chest Pain,Sneezing,Nausea,Loss of Appetite,Chikungunya
+Skin Rash,Nausea,Abdominal Pain,Joint Pain,Sneezing,Chikungunya
+Chest Pain,Chills,Cough,Runny Nose,Nausea,Bronchitis
+Loss of Appetite,Sneezing,Joint Pain,Chills,Sore Throat,Dengue
+Sore Throat,Sweating,Shortness of Breath,Swelling,Chest Pain,Pneumonia
+Fever,Chills,Headache,Swelling,Sore Throat,Flu
+Vomiting,Diarrhea,Fatigue,Dizziness,Swelling,Bronchitis
+Swelling,Body Pain,Nausea,Chills,Fever,Malaria
+Sore Throat,Loss of Appetite,Skin Rash,Swelling,Runny Nose,Bronchitis
+High Fever,Sweating,Swelling,Runny Nose,Nausea,Dengue
+Sweating,Abdominal Pain,Runny Nose,Skin Rash,Sore Throat,Cold
+Swelling,Muscle Weakness,Sneezing,Sweating,Cough,Malaria
+Sneezing,Swelling,Headache,Sweating,Fatigue,Malaria
+Loss of Appetite,Sneezing,Nausea,Diarrhea,Cough,Tuberculosis
+Diarrhea,High Fever,Sore Throat,Chills,Sweating,Typhoid
+Swelling,Dizziness,Cough,Chills,Vomiting,Dengue
+High Fever,Chills,Dizziness,Vomiting,Cough,Tuberculosis
+Sneezing,Chest Pain,Chills,Cough,Joint Pain,Food Poisoning
+Sore Throat,Nausea,Sweating,Chest Pain,Dizziness,Allergy
+High Fever,Headache,Loss of Appetite,Skin Rash,Sweating,Typhoid
+Fatigue,Diarrhea,Joint Pain,Sweating,Shortness of Breath,Malaria
+Muscle Weakness,Fever,Skin Rash,Cough,Vomiting,Pneumonia
+Chest Pain,Joint Pain,Swelling,Skin Rash,Sweating,Typhoid
+Diarrhea,Muscle Weakness,High Fever,Cough,Fever,Food Poisoning
+Body Pain,Sneezing,Skin Rash,Nausea,Joint Pain,Malaria
+Sweating,Fever,Abdominal Pain,Chills,Sneezing,Flu
+Diarrhea,Skin Rash,Muscle Weakness,Sore Throat,Swelling,Asthma
+Shortness of Breath,Joint Pain,Vomiting,Dizziness,Swelling,Allergy
+Runny Nose,Fatigue,Fever,Skin Rash,High Fever,Cold
+High Fever,Fatigue,Chest Pain,Joint Pain,Headache,Asthma
+Sneezing,Shortness of Breath,Chills,Skin Rash,Diarrhea,Pneumonia
+Loss of Appetite,Sore Throat,Swelling,Shortness of Breath,Muscle Weakness,Asthma
+Fatigue,Sweating,Fever,Swelling,Nausea,Malaria
+Vomiting,Dizziness,Skin Rash,Nausea,Headache,Cold
+Body Pain,Sweating,Chills,Nausea,Cough,Malaria
+Chills,Runny Nose,Shortness of Breath,Chest Pain,Vomiting,COVID-19
+Abdominal Pain,Cough,Body Pain,Dizziness,Swelling,Food Poisoning
+Chest Pain,Skin Rash,Abdominal Pain,Dizziness,High Fever,Tuberculosis
+Shortness of Breath,Fatigue,Sore Throat,High Fever,Fever,Asthma
+Swelling,Sneezing,Diarrhea,Cough,Nausea,Typhoid
+Vomiting,Sweating,High Fever,Swelling,Diarrhea,COVID-19
+Cough,Diarrhea,Vomiting,Muscle Weakness,Chills,Allergy
+Fever,Dizziness,Joint Pain,Sneezing,Chills,Malaria
+Loss of Appetite,Nausea,Runny Nose,Fatigue,Dizziness,Cold
+Chills,Fever,Diarrhea,Skin Rash,Cough,Food Poisoning
+Body Pain,Runny Nose,High Fever,Abdominal Pain,Sweating,Dengue
+Skin Rash,Muscle Weakness,Headache,Nausea,Abdominal Pain,Food Poisoning
+Dizziness,Sweating,Joint Pain,Headache,Sore Throat,Chikungunya
+Sweating,Muscle Weakness,Joint Pain,Diarrhea,Fatigue,Tuberculosis
+Dizziness,Loss of Appetite,Abdominal Pain,Joint Pain,Body Pain,Asthma
+Body Pain,Chills,Sore Throat,Muscle Weakness,Dizziness,Typhoid
+Sneezing,Swelling,Fatigue,Skin Rash,Sore Throat,Pneumonia
+Chest Pain,Sweating,Fever,Headache,Sneezing,Tuberculosis
+Runny Nose,Vomiting,Shortness of Breath,Fever,Swelling,Tuberculosis
+Fever,Nausea,Body Pain,Loss of Appetite,Runny Nose,Bronchitis
+Headache,Sweating,Nausea,Chills,Joint Pain,Chikungunya
+Chills,Joint Pain,Shortness of Breath,High Fever,Body Pain,Cold
+Sneezing,Diarrhea,Skin Rash,Muscle Weakness,Dizziness,COVID-19
+Vomiting,Skin Rash,Sore Throat,Fatigue,Loss of Appetite,Malaria
+Runny Nose,Joint Pain,Nausea,Muscle Weakness,Headache,Asthma
+Joint Pain,High Fever,Sneezing,Loss of Appetite,Chills,Asthma
+Diarrhea,High Fever,Vomiting,Loss of Appetite,Abdominal Pain,Asthma
+Sore Throat,Loss of Appetite,Swelling,Joint Pain,Body Pain,Chikungunya
+Nausea,Diarrhea,Shortness of Breath,Runny Nose,Sneezing,Malaria
+Body Pain,Joint Pain,Nausea,Skin Rash,Sore Throat,Flu
+Nausea,Fever,Cough,Dizziness,Fatigue,Dengue
+Vomiting,Sneezing,Headache,Swelling,Sore Throat,Asthma
+Cough,Dizziness,Body Pain,Joint Pain,Skin Rash,Pneumonia
+Skin Rash,Muscle Weakness,Dizziness,Chest Pain,Sweating,Cold
+Diarrhea,Muscle Weakness,Headache,Abdominal Pain,Fever,Dengue
+Sneezing,Sore Throat,Skin Rash,Vomiting,Diarrhea,Pneumonia
+Skin Rash,Sneezing,Nausea,Chills,Shortness of Breath,Malaria
+Muscle Weakness,Headache,Joint Pain,Chest Pain,Loss of Appetite,Cold
+Diarrhea,Chest Pain,Loss of Appetite,Sweating,Vomiting,Malaria
+Muscle Weakness,Abdominal Pain,Chills,Runny Nose,Sweating,Food Poisoning
+Cough,Abdominal Pain,Runny Nose,Shortness of Breath,Chest Pain,Allergy
+Joint Pain,Loss of Appetite,Swelling,Fatigue,Shortness of Breath,Bronchitis
+Nausea,Sore Throat,Runny Nose,Dizziness,Chest Pain,COVID-19
+Swelling,Skin Rash,Chills,Headache,High Fever,COVID-19
+Sweating,Body Pain,Shortness of Breath,Loss of Appetite,Abdominal Pain,Allergy
+Muscle Weakness,Sweating,Fever,Runny Nose,Cough,Flu
+Diarrhea,Body Pain,Nausea,Runny Nose,Fever,Malaria
+Body Pain,Headache,Fever,Swelling,Nausea,Chikungunya
+Loss of Appetite,Dizziness,Fever,Skin Rash,Runny Nose,Chikungunya
+Runny Nose,Muscle Weakness,Abdominal Pain,Chest Pain,Dizziness,Flu
+Fatigue,Chills,Body Pain,Nausea,Skin Rash,Malaria
+Skin Rash,Chills,Loss of Appetite,Chest Pain,Fever,Cold
+Vomiting,High Fever,Body Pain,Sore Throat,Nausea,Asthma
+Sneezing,Joint Pain,Sweating,High Fever,Vomiting,COVID-19
+Swelling,Runny Nose,Abdominal Pain,Sore Throat,Chills,Food Poisoning
+Diarrhea,Loss of Appetite,High Fever,Swelling,Vomiting,Tuberculosis
+Sweating,Abdominal Pain,Skin Rash,Shortness of Breath,Chest Pain,Tuberculosis
+Shortness of Breath,Runny Nose,Fever,Headache,Sweating,Food Poisoning
+Swelling,Cough,Sweating,Shortness of Breath,Fever,Asthma
+Headache,Runny Nose,Fatigue,Nausea,Swelling,Tuberculosis
+Sore Throat,Sneezing,Shortness of Breath,Skin Rash,Nausea,Dengue
+Headache,Shortness of Breath,Fatigue,Vomiting,Muscle Weakness,Dengue
+Diarrhea,Cough,Vomiting,Swelling,Sneezing,Dengue
+Muscle Weakness,Skin Rash,Runny Nose,Nausea,Chills,Dengue
+High Fever,Sweating,Shortness of Breath,Skin Rash,Runny Nose,Asthma
+High Fever,Vomiting,Swelling,Chest Pain,Muscle Weakness,Cold
+Dizziness,Vomiting,Muscle Weakness,Loss of Appetite,Fever,Chikungunya
+Muscle Weakness,Sore Throat,Abdominal Pain,Joint Pain,Diarrhea,Tuberculosis
+Dizziness,Nausea,Cough,Chest Pain,High Fever,COVID-19
+Fever,Skin Rash,Loss of Appetite,Vomiting,Runny Nose,Flu
+High Fever,Nausea,Shortness of Breath,Muscle Weakness,Vomiting,Chikungunya
+Dizziness,Sore Throat,Headache,Sneezing,High Fever,Dengue
+Chest Pain,Cough,Sore Throat,Fatigue,Abdominal Pain,Dengue
+Abdominal Pain,Fatigue,Sweating,Vomiting,Swelling,Dengue
+Sweating,Dizziness,Body Pain,Sore Throat,Chills,Cold
+Chills,Runny Nose,Swelling,Vomiting,High Fever,Food Poisoning
+Headache,Sweating,Muscle Weakness,Sneezing,Diarrhea,Food Poisoning
+Joint Pain,Vomiting,Muscle Weakness,Cough,Headache,Tuberculosis
+Body Pain,Joint Pain,Sweating,Chest Pain,Muscle Weakness,COVID-19
+Sneezing,Shortness of Breath,Chest Pain,Fatigue,Swelling,Typhoid
+Skin Rash,Sweating,Abdominal Pain,Runny Nose,Chills,Malaria
+Skin Rash,Abdominal Pain,Body Pain,Vomiting,Sneezing,Flu
+Swelling,Joint Pain,Chest Pain,Headache,Abdominal Pain,Malaria
+Sore Throat,High Fever,Runny Nose,Dizziness,Abdominal Pain,Food Poisoning
+Nausea,Muscle Weakness,Chills,Cough,Joint Pain,COVID-19
+Cough,Loss of Appetite,Joint Pain,Sweating,Nausea,Flu
+Vomiting,Chest Pain,Nausea,Sore Throat,Cough,Tuberculosis
+Nausea,Loss of Appetite,Dizziness,Skin Rash,Body Pain,Bronchitis
+Headache,Runny Nose,Cough,Loss of Appetite,Sneezing,Allergy
+Skin Rash,Sweating,Muscle Weakness,Nausea,Chills,Asthma
+Dizziness,Headache,Fever,Chills,Body Pain,Typhoid
+Headache,Loss of Appetite,Diarrhea,Chills,Skin Rash,Tuberculosis
+Abdominal Pain,Fatigue,Swelling,Nausea,Muscle Weakness,Allergy
+Chills,Vomiting,Fever,Cough,Loss of Appetite,Food Poisoning
+Muscle Weakness,Vomiting,High Fever,Joint Pain,Chills,Cold
+Body Pain,Diarrhea,Abdominal Pain,Sneezing,High Fever,Chikungunya
+Cough,Sneezing,Joint Pain,High Fever,Shortness of Breath,Malaria
+Runny Nose,Sneezing,Fever,Loss of Appetite,Diarrhea,Allergy
+Sneezing,Diarrhea,High Fever,Sweating,Sore Throat,COVID-19
+Diarrhea,Fatigue,Loss of Appetite,Headache,Shortness of Breath,Dengue
+Fever,Body Pain,Fatigue,Headache,Abdominal Pain,Pneumonia
+Headache,Vomiting,Sneezing,Runny Nose,Nausea,Cold
+Vomiting,Body Pain,Runny Nose,Abdominal Pain,Diarrhea,Chikungunya
+Fatigue,Abdominal Pain,Fever,Joint Pain,Body Pain,Dengue
+Cough,Fever,High Fever,Fatigue,Runny Nose,Dengue
+Vomiting,Shortness of Breath,Sore Throat,Chest Pain,Headache,Flu
+Joint Pain,Swelling,Fever,Abdominal Pain,Skin Rash,Allergy
+Sore Throat,Muscle Weakness,Diarrhea,Chest Pain,Skin Rash,Chikungunya
+Sweating,Fever,Chills,Swelling,Diarrhea,Food Poisoning
+Vomiting,Fever,Body Pain,Runny Nose,Diarrhea,Pneumonia
+Fever,Body Pain,Dizziness,Fatigue,Vomiting,Cold
+Runny Nose,Vomiting,Cough,High Fever,Chest Pain,Cold
+Sore Throat,Fatigue,Cough,Sneezing,Skin Rash,Allergy
+Dizziness,Cough,Chills,Diarrhea,Nausea,Typhoid
+Headache,Loss of Appetite,Chest Pain,Fatigue,Swelling,Tuberculosis
+Nausea,Shortness of Breath,Chills,Skin Rash,Sweating,Asthma
+Cough,Swelling,Muscle Weakness,Sneezing,Dizziness,Dengue
+Fever,Chills,Headache,Body Pain,Swelling,Allergy
+Swelling,Dizziness,Fatigue,Joint Pain,Headache,Flu
+Vomiting,Muscle Weakness,Joint Pain,Cough,Swelling,Cold
+Skin Rash,High Fever,Nausea,Swelling,Headache,Pneumonia
+Body Pain,Headache,Joint Pain,Fatigue,Nausea,Allergy
+Skin Rash,Shortness of Breath,Diarrhea,Joint Pain,Abdominal Pain,Bronchitis
+Sweating,Vomiting,Fatigue,Loss of Appetite,Sneezing,Tuberculosis
+Joint Pain,Loss of Appetite,Sore Throat,Sweating,Vomiting,Bronchitis
+Swelling,Skin Rash,Dizziness,High Fever,Joint Pain,Allergy
+Cough,Skin Rash,Vomiting,Chest Pain,Chills,Malaria
+Nausea,Chest Pain,Cough,Shortness of Breath,Muscle Weakness,Chikungunya
+Cough,Dizziness,Abdominal Pain,Joint Pain,High Fever,Dengue
+Joint Pain,Fatigue,Diarrhea,Swelling,Body Pain,Malaria
+Dizziness,Fever,Swelling,Sweating,Skin Rash,Asthma
+Headache,Muscle Weakness,Sneezing,Sore Throat,Runny Nose,Tuberculosis
+Abdominal Pain,Diarrhea,High Fever,Loss of Appetite,Vomiting,Bronchitis
+Swelling,Fever,Dizziness,Loss of Appetite,Runny Nose,Dengue
+Runny Nose,Joint Pain,Cough,Shortness of Breath,Vomiting,Allergy
+Diarrhea,Swelling,Fever,Vomiting,Body Pain,Pneumonia
+Chills,Swelling,High Fever,Shortness of Breath,Fever,Flu
+High Fever,Fever,Joint Pain,Muscle Weakness,Abdominal Pain,Food Poisoning
+Sweating,Headache,Joint Pain,High Fever,Chills,COVID-19
+Sweating,Muscle Weakness,Chills,Vomiting,Headache,Dengue
+Sneezing,Chills,Muscle Weakness,Dizziness,Skin Rash,Tuberculosis
+Skin Rash,Dizziness,Abdominal Pain,Cough,High Fever,Flu
+Sore Throat,Vomiting,Runny Nose,Chest Pain,Joint Pain,COVID-19
+Loss of Appetite,Sore Throat,Diarrhea,Chills,Skin Rash,Typhoid
+Headache,Fatigue,Dizziness,Cough,Swelling,Flu
+Dizziness,Fatigue,Swelling,Runny Nose,Diarrhea,Allergy
+Diarrhea,Swelling,Cough,Abdominal Pain,Muscle Weakness,Allergy
+Body Pain,Swelling,Chills,High Fever,Cough,Tuberculosis
+Loss of Appetite,Headache,Fever,Muscle Weakness,Diarrhea,Bronchitis
+Chills,Joint Pain,Headache,Diarrhea,Fever,Pneumonia
+Dizziness,Sneezing,Chest Pain,Cough,Swelling,Asthma
+Headache,Shortness of Breath,Loss of Appetite,Diarrhea,Skin Rash,Malaria
+Loss of Appetite,Headache,Chills,Chest Pain,Fever,Dengue
+Nausea,Fever,Muscle Weakness,Diarrhea,Sore Throat,Flu
+Vomiting,Sneezing,Nausea,Headache,Diarrhea,Cold
+Shortness of Breath,Sore Throat,Abdominal Pain,Sweating,Body Pain,Asthma
+Loss of Appetite,Nausea,Fatigue,Dizziness,Skin Rash,Typhoid
+Chest Pain,Nausea,Vomiting,Fever,Sore Throat,Bronchitis
+Sneezing,Runny Nose,Chills,Joint Pain,Vomiting,Asthma
+Diarrhea,Runny Nose,Chills,Sneezing,Body Pain,COVID-19
+Abdominal Pain,Body Pain,Diarrhea,High Fever,Loss of Appetite,Flu
+Fatigue,Chest Pain,High Fever,Sneezing,Dizziness,Food Poisoning
+Diarrhea,Dizziness,Chest Pain,Chills,Body Pain,Cold
+Diarrhea,Skin Rash,Headache,Chest Pain,Joint Pain,Cold
+Chest Pain,Headache,Nausea,Vomiting,Fatigue,Asthma
+Joint Pain,Abdominal Pain,Headache,Chills,Muscle Weakness,Chikungunya
+High Fever,Sore Throat,Sneezing,Fatigue,Sweating,Asthma
+Chest Pain,High Fever,Cough,Sweating,Fever,Chikungunya
+Loss of Appetite,Cough,Sweating,Swelling,Sneezing,Typhoid
+Vomiting,Sneezing,Runny Nose,Sore Throat,Abdominal Pain,Chikungunya
+Shortness of Breath,Chest Pain,Sneezing,Muscle Weakness,Loss of Appetite,Food Poisoning
+Diarrhea,Muscle Weakness,Dizziness,Shortness of Breath,Chills,Typhoid
+Diarrhea,Loss of Appetite,Fever,Fatigue,Chest Pain,Malaria
+Swelling,Body Pain,Dizziness,Nausea,High Fever,Malaria
+Sore Throat,Fever,Vomiting,Cough,Muscle Weakness,Pneumonia
+Nausea,Runny Nose,Sweating,Sore Throat,Shortness of Breath,Typhoid
+Fever,Skin Rash,Loss of Appetite,Sneezing,Abdominal Pain,Flu
+Headache,Chest Pain,High Fever,Muscle Weakness,Sore Throat,Typhoid
+Chills,Runny Nose,Dizziness,High Fever,Headache,COVID-19
+Swelling,Muscle Weakness,Abdominal Pain,Chills,Dizziness,Asthma
+Body Pain,Fatigue,Sore Throat,Nausea,Abdominal Pain,Typhoid
+Dizziness,Loss of Appetite,Body Pain,Muscle Weakness,Headache,Flu
+Muscle Weakness,Loss of Appetite,Body Pain,Cough,Chills,Dengue
+Muscle Weakness,Sneezing,Fatigue,Chills,Joint Pain,Bronchitis
+Chest Pain,Loss of Appetite,Runny Nose,Sweating,Fever,Pneumonia
+Sneezing,Runny Nose,Body Pain,Joint Pain,Abdominal Pain,Dengue
+Diarrhea,Loss of Appetite,Chest Pain,Swelling,Sore Throat,Flu
+Body Pain,Nausea,Sore Throat,Sweating,Dizziness,Typhoid
+Diarrhea,Loss of Appetite,Chills,Abdominal Pain,Headache,Flu
+Shortness of Breath,Sore Throat,Vomiting,Skin Rash,Chills,Malaria
+Sneezing,Fatigue,Swelling,Abdominal Pain,Chest Pain,Chikungunya
+Shortness of Breath,Headache,Nausea,Sneezing,High Fever,Tuberculosis
+Sweating,Headache,Sore Throat,Chest Pain,Cough,Chikungunya
+Nausea,Loss of Appetite,Abdominal Pain,Vomiting,Sweating,Bronchitis
+Abdominal Pain,Chills,Loss of Appetite,Chest Pain,Headache,Allergy
+Sneezing,Sore Throat,High Fever,Fatigue,Fever,Dengue
+Runny Nose,Fatigue,Sore Throat,Loss of Appetite,Dizziness,Flu
+Joint Pain,Cough,Runny Nose,Swelling,High Fever,Typhoid
+Loss of Appetite,Swelling,Sweating,Shortness of Breath,Diarrhea,Dengue
+Chills,Sore Throat,Sneezing,Vomiting,Nausea,Allergy
+Sweating,Muscle Weakness,Abdominal Pain,Swelling,Dizziness,Typhoid
+Chest Pain,Fatigue,Sneezing,Fever,Chills,Pneumonia
+Sneezing,Muscle Weakness,Fever,Joint Pain,Nausea,Cold
+Sneezing,Sweating,Chills,Swelling,Muscle Weakness,Bronchitis
+Diarrhea,Skin Rash,Runny Nose,Body Pain,High Fever,Malaria
+Cough,Sore Throat,Skin Rash,Joint Pain,Shortness of Breath,Dengue
+Muscle Weakness,Skin Rash,Swelling,Body Pain,Runny Nose,Chikungunya
+Sore Throat,Chest Pain,Vomiting,Shortness of Breath,Diarrhea,Typhoid
+Abdominal Pain,Body Pain,Fever,Sore Throat,Sneezing,Flu
+Fatigue,Vomiting,Cough,Abdominal Pain,Nausea,Flu
+Swelling,Sneezing,Muscle Weakness,Body Pain,Abdominal Pain,Bronchitis
+Sweating,Chills,Headache,Sneezing,Cough,Pneumonia
+Runny Nose,Joint Pain,Sore Throat,Vomiting,Diarrhea,Flu
+Vomiting,Shortness of Breath,Dizziness,Cough,Loss of Appetite,Cold
+Skin Rash,Fatigue,Dizziness,Sneezing,Chest Pain,Cold
+Skin Rash,High Fever,Swelling,Vomiting,Sweating,COVID-19
+Fatigue,Chills,Sore Throat,Skin Rash,Sneezing,COVID-19
+Swelling,Headache,Chills,High Fever,Vomiting,Typhoid
+Chills,Headache,Abdominal Pain,Body Pain,Joint Pain,Dengue
+Sneezing,Sore Throat,Fever,Joint Pain,Chest Pain,Pneumonia
+Fatigue,Sore Throat,Shortness of Breath,Chest Pain,Swelling,Malaria
+Sore Throat,Muscle Weakness,Fatigue,Dizziness,Swelling,Asthma
+Body Pain,Fever,Loss of Appetite,Vomiting,Cough,Food Poisoning
+Loss of Appetite,Chest Pain,Swelling,Diarrhea,Cough,Allergy
+High Fever,Fatigue,Runny Nose,Body Pain,Swelling,Dengue
+High Fever,Sweating,Skin Rash,Fever,Cough,Pneumonia
+Body Pain,Chills,Diarrhea,Abdominal Pain,Vomiting,Flu
+Nausea,Dizziness,Swelling,Cough,Loss of Appetite,Bronchitis
+Muscle Weakness,Diarrhea,Sweating,Cough,Shortness of Breath,Malaria
+Headache,High Fever,Cough,Diarrhea,Muscle Weakness,Tuberculosis
+Cough,Sweating,Headache,Dizziness,Loss of Appetite,COVID-19
+Dizziness,Fever,Skin Rash,Abdominal Pain,Muscle Weakness,Chikungunya
+Headache,Chest Pain,Cough,Body Pain,Skin Rash,Bronchitis
+Skin Rash,Dizziness,Nausea,Headache,Diarrhea,Typhoid
+High Fever,Runny Nose,Dizziness,Sore Throat,Muscle Weakness,Dengue
+Sneezing,Abdominal Pain,Fatigue,Loss of Appetite,Runny Nose,Typhoid
+Swelling,Sweating,Fatigue,Sore Throat,Nausea,Bronchitis
+Sneezing,High Fever,Runny Nose,Joint Pain,Body Pain,Cold
+Nausea,Chills,Headache,Sore Throat,Dizziness,Typhoid
+Dizziness,Skin Rash,Fever,Joint Pain,Chills,Typhoid
+Sweating,Chills,Abdominal Pain,Sore Throat,Headache,Malaria
+Chest Pain,Abdominal Pain,Chills,Sweating,Muscle Weakness,Pneumonia
+Chills,Runny Nose,Muscle Weakness,Abdominal Pain,Skin Rash,Asthma
+Sneezing,Cough,Diarrhea,Dizziness,Shortness of Breath,Dengue
+Loss of Appetite,Fever,Cough,Sweating,Runny Nose,Chikungunya
+Runny Nose,Headache,Muscle Weakness,High Fever,Chest Pain,Flu
+Nausea,Sweating,Headache,Fever,Runny Nose,Chikungunya
+Swelling,Vomiting,Headache,Nausea,Body Pain,Pneumonia
+Shortness of Breath,Fever,Sweating,Sneezing,Dizziness,Malaria
+Skin Rash,Diarrhea,Sore Throat,Dizziness,Swelling,Dengue
+Abdominal Pain,Skin Rash,Chills,Chest Pain,Cough,Allergy
+Fever,Chest Pain,Loss of Appetite,Body Pain,Joint Pain,COVID-19
+Chills,Sneezing,Sweating,Nausea,Joint Pain,COVID-19
+Vomiting,High Fever,Headache,Fatigue,Sneezing,Bronchitis
+Shortness of Breath,Skin Rash,Sneezing,Runny Nose,Joint Pain,Asthma
+Body Pain,Sneezing,Headache,Skin Rash,Sweating,Malaria
+Sneezing,Headache,Abdominal Pain,Runny Nose,Sweating,Food Poisoning
+Chest Pain,Chills,Skin Rash,Diarrhea,Abdominal Pain,COVID-19
+Skin Rash,Nausea,Sweating,Chest Pain,Shortness of Breath,Pneumonia
+Sneezing,Skin Rash,Loss of Appetite,Vomiting,Nausea,Typhoid
+Cough,Joint Pain,Abdominal Pain,Loss of Appetite,Sore Throat,COVID-19
+Shortness of Breath,Joint Pain,Abdominal Pain,Fatigue,Dizziness,Allergy
+Sore Throat,Headache,Chest Pain,Diarrhea,Sweating,Chikungunya
+Abdominal Pain,Loss of Appetite,Skin Rash,Fatigue,Sweating,Tuberculosis
+Nausea,Abdominal Pain,Joint Pain,Runny Nose,Dizziness,Typhoid
+Sore Throat,Chest Pain,Swelling,High Fever,Diarrhea,Dengue
+Cough,Dizziness,Sore Throat,Shortness of Breath,Joint Pain,Tuberculosis
+Dizziness,Joint Pain,Runny Nose,Fever,Skin Rash,Asthma
+Vomiting,Sore Throat,Body Pain,Skin Rash,Shortness of Breath,Typhoid
+Chest Pain,Dizziness,Loss of Appetite,Abdominal Pain,Sweating,Chikungunya
+Runny Nose,Joint Pain,Sneezing,Sweating,Body Pain,Food Poisoning
+Sore Throat,Loss of Appetite,Fatigue,Joint Pain,Body Pain,Dengue
+Headache,Abdominal Pain,Diarrhea,Chills,Chest Pain,Food Poisoning
+Vomiting,Sneezing,Sweating,Loss of Appetite,Skin Rash,Typhoid
+Nausea,Runny Nose,Muscle Weakness,Diarrhea,Headache,Bronchitis
+Abdominal Pain,Nausea,Skin Rash,Fatigue,Muscle Weakness,Dengue
+Vomiting,Abdominal Pain,Cough,Nausea,Joint Pain,Typhoid
+Runny Nose,Nausea,Body Pain,Sore Throat,Swelling,COVID-19
+Diarrhea,Chills,Cough,Fatigue,Nausea,Bronchitis
+Headache,Vomiting,Shortness of Breath,Swelling,Dizziness,Pneumonia
+Chest Pain,Sweating,Nausea,Sore Throat,Muscle Weakness,Tuberculosis
+Joint Pain,Diarrhea,Sneezing,Fatigue,Sweating,Cold
+Sneezing,High Fever,Abdominal Pain,Chills,Cough,Malaria
+Runny Nose,Shortness of Breath,Diarrhea,Chest Pain,Headache,COVID-19
+Diarrhea,Runny Nose,Sore Throat,Headache,Sneezing,Asthma
+High Fever,Headache,Diarrhea,Body Pain,Swelling,Chikungunya
+Joint Pain,Chills,Chest Pain,Sneezing,Vomiting,Malaria
+Body Pain,Diarrhea,Swelling,Vomiting,Muscle Weakness,Pneumonia
+Runny Nose,Abdominal Pain,Dizziness,Loss of Appetite,Vomiting,Chikungunya
+Chills,Fever,High Fever,Sweating,Fatigue,Typhoid
+Joint Pain,Abdominal Pain,Fatigue,Dizziness,Chills,Dengue
+Diarrhea,Sore Throat,Shortness of Breath,Chills,Headache,Allergy
+Body Pain,Fever,Swelling,Diarrhea,Runny Nose,Cold
+Sneezing,Fatigue,Shortness of Breath,Abdominal Pain,Diarrhea,Flu
+Sore Throat,Loss of Appetite,Skin Rash,Chest Pain,Sneezing,Malaria
+Abdominal Pain,Sweating,Runny Nose,Loss of Appetite,Body Pain,Allergy
+Sneezing,Fever,Vomiting,Nausea,Abdominal Pain,Bronchitis
+Shortness of Breath,Runny Nose,Nausea,Headache,Vomiting,Tuberculosis
+Runny Nose,Body Pain,Cough,Loss of Appetite,Sweating,Allergy
+Nausea,High Fever,Sneezing,Loss of Appetite,Runny Nose,Typhoid
+Chest Pain,Cough,Dizziness,Loss of Appetite,Joint Pain,Typhoid
+Abdominal Pain,Loss of Appetite,Nausea,Cough,High Fever,Bronchitis
+Shortness of Breath,Skin Rash,Sneezing,Body Pain,Diarrhea,Malaria
+Chills,Vomiting,Swelling,Fatigue,Muscle Weakness,Dengue
+Fever,Sore Throat,High Fever,Loss of Appetite,Nausea,Allergy
+Sore Throat,Diarrhea,Runny Nose,Chest Pain,Swelling,Food Poisoning
+Vomiting,High Fever,Sweating,Cough,Chest Pain,Chikungunya
+Diarrhea,Chills,Dizziness,Vomiting,Joint Pain,COVID-19
+Chest Pain,Muscle Weakness,Abdominal Pain,Sore Throat,Body Pain,Food Poisoning
+Diarrhea,Shortness of Breath,Chest Pain,Sore Throat,Headache,Malaria
+Runny Nose,Fever,Headache,Vomiting,Swelling,Flu
+Headache,Vomiting,Muscle Weakness,Dizziness,Abdominal Pain,COVID-19
+Sneezing,Chest Pain,Fatigue,Fever,Skin Rash,Asthma
+Nausea,Swelling,Dizziness,Headache,Abdominal Pain,Dengue
+Chest Pain,Vomiting,Abdominal Pain,Muscle Weakness,Chills,Tuberculosis
+Sweating,Abdominal Pain,Sneezing,Cough,Vomiting,Asthma
+Sweating,Diarrhea,Fever,Shortness of Breath,Vomiting,Bronchitis
+Dizziness,High Fever,Nausea,Chest Pain,Fatigue,Tuberculosis
+Joint Pain,Fatigue,Skin Rash,Dizziness,Body Pain,Food Poisoning
+Vomiting,Fatigue,Diarrhea,Swelling,Dizziness,Food Poisoning
+Shortness of Breath,Vomiting,High Fever,Nausea,Dizziness,COVID-19
+Sneezing,Cough,Nausea,Loss of Appetite,Diarrhea,Dengue
+Sweating,Vomiting,Abdominal Pain,Loss of Appetite,Sore Throat,Typhoid
+Sweating,Fever,Nausea,Skin Rash,High Fever,Tuberculosis
+Joint Pain,Abdominal Pain,Sweating,Diarrhea,Chest Pain,Malaria
+Diarrhea,Muscle Weakness,Fever,Sweating,Sneezing,Malaria
+Chills,Shortness of Breath,High Fever,Abdominal Pain,Sneezing,Cold
+Runny Nose,Loss of Appetite,Muscle Weakness,Body Pain,Sore Throat,Food Poisoning
+Skin Rash,Chest Pain,Diarrhea,Body Pain,Joint Pain,Pneumonia
+Diarrhea,Fever,Body Pain,Runny Nose,Swelling,Chikungunya
+Nausea,Sneezing,Sweating,Headache,Abdominal Pain,Flu
+Loss of Appetite,Sore Throat,Chills,Diarrhea,Shortness of Breath,Asthma
+Swelling,Sweating,Body Pain,Diarrhea,Loss of Appetite,Cold
+Muscle Weakness,Chills,High Fever,Swelling,Runny Nose,Tuberculosis
+Chills,Runny Nose,Skin Rash,High Fever,Headache,Bronchitis
+Vomiting,Sore Throat,Cough,Nausea,Loss of Appetite,Cold
+Nausea,Abdominal Pain,Body Pain,Sneezing,Loss of Appetite,Food Poisoning
+Fever,Muscle Weakness,High Fever,Chills,Headache,Chikungunya
+Sneezing,Joint Pain,Loss of Appetite,Diarrhea,Shortness of Breath,Food Poisoning
+Skin Rash,Sneezing,Joint Pain,Dizziness,Chest Pain,Tuberculosis
+Shortness of Breath,High Fever,Sore Throat,Runny Nose,Vomiting,Chikungunya
+Chills,Shortness of Breath,Runny Nose,Skin Rash,Fever,Typhoid
+Muscle Weakness,Shortness of Breath,Headache,Fatigue,Swelling,Allergy
+Vomiting,Swelling,Nausea,Fatigue,Dizziness,Malaria
+Muscle Weakness,Loss of Appetite,Body Pain,Headache,Shortness of Breath,COVID-19
+Diarrhea,Vomiting,Headache,Muscle Weakness,Skin Rash,Cold
+Nausea,Sneezing,Headache,Sweating,Chest Pain,Pneumonia
+High Fever,Headache,Abdominal Pain,Cough,Sneezing,Flu
+Dizziness,Cough,Sore Throat,High Fever,Runny Nose,Bronchitis
+Nausea,Chest Pain,Headache,Body Pain,Diarrhea,Chikungunya
+Skin Rash,Abdominal Pain,Headache,Sore Throat,Cough,Asthma
+Cough,High Fever,Sore Throat,Fever,Chills,Cold
+Muscle Weakness,Sneezing,Loss of Appetite,Headache,Runny Nose,Cold
+Sweating,Chills,Joint Pain,Nausea,Fatigue,Typhoid
+Sore Throat,Loss of Appetite,Runny Nose,Skin Rash,Muscle Weakness,Food Poisoning
+Runny Nose,Abdominal Pain,Muscle Weakness,Chills,Vomiting,Pneumonia
+Sore Throat,Skin Rash,Sneezing,Swelling,Fever,Typhoid
+Body Pain,Fatigue,Loss of Appetite,Diarrhea,Abdominal Pain,Asthma
+Swelling,Shortness of Breath,Skin Rash,Cough,Fatigue,Bronchitis
+Muscle Weakness,Runny Nose,Cough,High Fever,Nausea,Typhoid
+Diarrhea,Sneezing,Sore Throat,Loss of Appetite,Shortness of Breath,Flu
+Nausea,Shortness of Breath,Fever,Chills,Loss of Appetite,Malaria
+Headache,Dizziness,Fatigue,Shortness of Breath,Fever,Pneumonia
+Runny Nose,Sweating,High Fever,Fatigue,Cough,Dengue
+Sore Throat,Fatigue,Swelling,Vomiting,Headache,COVID-19
+Chills,Abdominal Pain,Swelling,Fever,Chest Pain,COVID-19
+Muscle Weakness,Runny Nose,Swelling,Vomiting,Skin Rash,Typhoid
+Cough,Muscle Weakness,Sore Throat,Skin Rash,Swelling,Pneumonia
+Dizziness,Nausea,Fatigue,Runny Nose,Abdominal Pain,Food Poisoning
+Shortness of Breath,Runny Nose,Sneezing,Chills,Cough,Flu
+Cough,Loss of Appetite,Joint Pain,Chest Pain,Runny Nose,Tuberculosis
+Joint Pain,Dizziness,Fever,Swelling,Headache,Flu
+Body Pain,Vomiting,Fatigue,Shortness of Breath,Muscle Weakness,Flu
+Vomiting,Joint Pain,Swelling,Cough,Muscle Weakness,Flu
+Swelling,Fatigue,Sweating,Muscle Weakness,Nausea,COVID-19
+Joint Pain,Vomiting,Runny Nose,Fatigue,Skin Rash,COVID-19
+Headache,Shortness of Breath,Diarrhea,Chest Pain,Loss of Appetite,Bronchitis
+Fatigue,Skin Rash,Dizziness,Headache,Sneezing,Bronchitis
+Abdominal Pain,Muscle Weakness,Chest Pain,Dizziness,Loss of Appetite,Pneumonia
+Cough,Chills,Fatigue,Loss of Appetite,Runny Nose,Tuberculosis
+Abdominal Pain,Sore Throat,Loss of Appetite,Headache,High Fever,Malaria
+Skin Rash,Headache,Chills,Dizziness,Fever,COVID-19
+Sneezing,Dizziness,Skin Rash,Headache,Sweating,Asthma
+High Fever,Headache,Body Pain,Cough,Sweating,Bronchitis
+Fatigue,Skin Rash,Sweating,Cough,Nausea,COVID-19
+Loss of Appetite,Fever,Muscle Weakness,Runny Nose,Sore Throat,Tuberculosis
+Sore Throat,Fatigue,Runny Nose,Loss of Appetite,Headache,Food Poisoning
+Skin Rash,Fatigue,Muscle Weakness,Abdominal Pain,Dizziness,Pneumonia
+Shortness of Breath,Loss of Appetite,Fever,Nausea,Cough,Chikungunya
+Skin Rash,Sore Throat,Dizziness,Headache,Chills,Typhoid
+Sweating,Vomiting,Chills,Nausea,Joint Pain,Typhoid
+Body Pain,High Fever,Vomiting,Abdominal Pain,Dizziness,Flu
+Swelling,Body Pain,Nausea,Vomiting,Sneezing,Chikungunya
+Fever,Swelling,Diarrhea,Abdominal Pain,Sore Throat,Chikungunya
+Sore Throat,Joint Pain,Skin Rash,Headache,Loss of Appetite,Pneumonia
+Body Pain,Vomiting,Loss of Appetite,Skin Rash,Muscle Weakness,Dengue
+Chills,Sweating,Loss of Appetite,Fever,Body Pain,Chikungunya
+Diarrhea,Joint Pain,Sneezing,Headache,Muscle Weakness,Dengue
+Body Pain,Headache,Loss of Appetite,Sneezing,Vomiting,Malaria
+Chest Pain,Abdominal Pain,Sore Throat,High Fever,Fatigue,Bronchitis
+Headache,Sneezing,Cough,Skin Rash,Shortness of Breath,Flu
+Vomiting,Chills,Dizziness,Sweating,Fever,Tuberculosis
+Headache,Sore Throat,Abdominal Pain,Chills,Diarrhea,Food Poisoning
+Body Pain,Diarrhea,Shortness of Breath,Sneezing,Joint Pain,Allergy
+Headache,High Fever,Fever,Fatigue,Sweating,Pneumonia
+Sneezing,Nausea,Diarrhea,Runny Nose,Dizziness,Typhoid
+Fatigue,Shortness of Breath,Joint Pain,Dizziness,Muscle Weakness,COVID-19
+Abdominal Pain,Fatigue,Cough,Chest Pain,Diarrhea,Allergy
+Sore Throat,Fever,Body Pain,Muscle Weakness,Dizziness,Malaria
+Skin Rash,Vomiting,Runny Nose,Chest Pain,Chills,Bronchitis
+Sneezing,High Fever,Cough,Chest Pain,Abdominal Pain,Tuberculosis
+Swelling,Skin Rash,Sneezing,Joint Pain,Sore Throat,Dengue
+Loss of Appetite,High Fever,Nausea,Chills,Dizziness,Pneumonia
+High Fever,Chills,Sneezing,Abdominal Pain,Nausea,Allergy
+Dizziness,Loss of Appetite,Abdominal Pain,Diarrhea,High Fever,Flu
+Muscle Weakness,Abdominal Pain,Diarrhea,Swelling,Fatigue,Food Poisoning
+Skin Rash,Fever,Diarrhea,Chills,Swelling,Typhoid
+Fever,Chest Pain,Diarrhea,Loss of Appetite,Dizziness,Pneumonia
+Dizziness,Fever,Body Pain,Muscle Weakness,Swelling,Allergy
+Body Pain,Sneezing,Chills,Diarrhea,Nausea,Food Poisoning
+Fatigue,Diarrhea,Swelling,Sneezing,Abdominal Pain,Chikungunya
+Joint Pain,Loss of Appetite,Headache,Chills,Cough,Cold
+Chest Pain,Fever,Sore Throat,Runny Nose,Abdominal Pain,Chikungunya
+Joint Pain,Loss of Appetite,Skin Rash,Muscle Weakness,Vomiting,Pneumonia
+Runny Nose,Skin Rash,Muscle Weakness,Fatigue,Chills,COVID-19
+Swelling,Joint Pain,Headache,Vomiting,Chills,Bronchitis
+Chills,Shortness of Breath,Abdominal Pain,Nausea,Fatigue,Chikungunya
+High Fever,Fatigue,Chills,Swelling,Cough,Flu
+Fever,Headache,Sneezing,Abdominal Pain,Sweating,Allergy
+Dizziness,Muscle Weakness,Sore Throat,Chest Pain,Swelling,Chikungunya
+Skin Rash,Headache,Nausea,Sore Throat,Joint Pain,Food Poisoning
+Muscle Weakness,Dizziness,Fever,Sweating,Chest Pain,Asthma
+Dizziness,Headache,Runny Nose,Sneezing,Loss of Appetite,COVID-19
+Swelling,Skin Rash,Chest Pain,High Fever,Headache,Malaria
+Joint Pain,Skin Rash,Chest Pain,Dizziness,Fatigue,Tuberculosis
+Diarrhea,Sore Throat,Chest Pain,Sweating,Body Pain,COVID-19
+Fatigue,Cough,Chest Pain,Abdominal Pain,Nausea,Asthma
+Vomiting,Nausea,Diarrhea,Fatigue,Cough,Cold
+Chest Pain,Loss of Appetite,Nausea,Sneezing,High Fever,Tuberculosis
+Dizziness,Muscle Weakness,Cough,Sweating,Headache,Bronchitis
+Dizziness,Runny Nose,Headache,Vomiting,Muscle Weakness,Asthma
+Sore Throat,Vomiting,Shortness of Breath,Cough,Swelling,Chikungunya
+Chills,Vomiting,Muscle Weakness,Runny Nose,High Fever,Chikungunya
+Fever,Body Pain,Chest Pain,Abdominal Pain,Fatigue,Bronchitis
+Chest Pain,Muscle Weakness,Skin Rash,Runny Nose,Loss of Appetite,Food Poisoning
+Dizziness,Body Pain,Sweating,Fever,Runny Nose,Food Poisoning
+Dizziness,Chills,Chest Pain,Vomiting,Joint Pain,Asthma
+Sneezing,Fatigue,Sore Throat,Diarrhea,Shortness of Breath,Flu
+Chest Pain,Skin Rash,Vomiting,Shortness of Breath,Diarrhea,Asthma
+Fatigue,Body Pain,Swelling,Sore Throat,Abdominal Pain,Flu
+Vomiting,Runny Nose,Shortness of Breath,Abdominal Pain,Muscle Weakness,Food Poisoning
+Cough,Nausea,Sore Throat,Sweating,Runny Nose,Asthma
+High Fever,Diarrhea,Nausea,Vomiting,Muscle Weakness,Food Poisoning
+Muscle Weakness,Headache,Skin Rash,Body Pain,Fatigue,Allergy
+Sneezing,Joint Pain,Nausea,Headache,Muscle Weakness,Flu
+High Fever,Cough,Dizziness,Sneezing,Headache,Cold
+Swelling,Joint Pain,Nausea,Diarrhea,Fatigue,COVID-19
+Fever,Muscle Weakness,Chest Pain,Dizziness,Runny Nose,Bronchitis
+Cough,Fever,Body Pain,Skin Rash,High Fever,Chikungunya
+Chest Pain,Joint Pain,Swelling,High Fever,Abdominal Pain,COVID-19
+Headache,Muscle Weakness,Cough,Sore Throat,Chills,Tuberculosis
+Loss of Appetite,Fever,Runny Nose,Sneezing,Sore Throat,Pneumonia
+Runny Nose,Dizziness,Headache,Skin Rash,Sneezing,Flu
+Diarrhea,Joint Pain,High Fever,Abdominal Pain,Chills,Allergy
+Sore Throat,Cough,Nausea,Body Pain,Sweating,Dengue
+Diarrhea,Body Pain,Vomiting,Fever,Sneezing,COVID-19
+Joint Pain,Dizziness,Loss of Appetite,Swelling,Sore Throat,Cold
+Headache,Diarrhea,Sneezing,Cough,Fatigue,Bronchitis
+Abdominal Pain,Chest Pain,Sweating,Nausea,Joint Pain,Asthma
+Body Pain,Chills,Nausea,Runny Nose,Chest Pain,Malaria
+Sore Throat,Vomiting,Shortness of Breath,Cough,Chest Pain,Bronchitis
+Nausea,Sweating,Fatigue,Chest Pain,Runny Nose,Malaria
+Muscle Weakness,Headache,Nausea,Runny Nose,Joint Pain,Bronchitis
+High Fever,Abdominal Pain,Cough,Sweating,Diarrhea,Typhoid
+Dizziness,High Fever,Joint Pain,Sweating,Sore Throat,Tuberculosis
+Skin Rash,Fever,Chest Pain,Shortness of Breath,Joint Pain,Cold
+High Fever,Chills,Sneezing,Nausea,Muscle Weakness,COVID-19
+Chills,Sneezing,Shortness of Breath,Fatigue,Skin Rash,Malaria
+Muscle Weakness,Diarrhea,Sweating,High Fever,Fever,Cold
+Chest Pain,Muscle Weakness,Body Pain,Runny Nose,Abdominal Pain,Asthma
+Shortness of Breath,Nausea,Headache,Fatigue,Sneezing,Flu
+Fever,Sneezing,Muscle Weakness,Cough,Joint Pain,Pneumonia
+Headache,Joint Pain,Skin Rash,Body Pain,Chills,Tuberculosis
+Sore Throat,Fatigue,Vomiting,Headache,Diarrhea,COVID-19
+Chills,Body Pain,Sneezing,Swelling,Fever,Asthma
+Swelling,Muscle Weakness,Headache,Sore Throat,Fatigue,Tuberculosis
+Diarrhea,Joint Pain,Chest Pain,Swelling,Runny Nose,Pneumonia
+Nausea,Chills,Chest Pain,Muscle Weakness,Joint Pain,Food Poisoning
+Body Pain,Shortness of Breath,Fatigue,Chest Pain,Abdominal Pain,Bronchitis
+Swelling,Abdominal Pain,Loss of Appetite,Shortness of Breath,Joint Pain,Dengue
+Fatigue,Muscle Weakness,Joint Pain,Body Pain,Sweating,Flu
+Sore Throat,High Fever,Swelling,Fever,Runny Nose,Typhoid
+Sweating,Fatigue,Swelling,High Fever,Joint Pain,Asthma
+Loss of Appetite,Sneezing,Sore Throat,Swelling,Fever,Pneumonia
+Cough,Fever,Body Pain,Skin Rash,Shortness of Breath,Tuberculosis
+Chills,Sore Throat,High Fever,Skin Rash,Body Pain,COVID-19
+Muscle Weakness,Nausea,Cough,High Fever,Shortness of Breath,Malaria
+Chest Pain,Sneezing,Dizziness,Runny Nose,Cough,Pneumonia
+Muscle Weakness,Nausea,Sneezing,Sore Throat,Headache,Flu
+Fever,Cough,Runny Nose,Body Pain,Sneezing,Tuberculosis
+Sneezing,Nausea,Sweating,Loss of Appetite,Sore Throat,Dengue
+Swelling,Headache,Runny Nose,Chest Pain,Abdominal Pain,Pneumonia
+Sore Throat,High Fever,Skin Rash,Vomiting,Dizziness,Chikungunya
+High Fever,Joint Pain,Runny Nose,Body Pain,Fever,Pneumonia
+Skin Rash,Nausea,Muscle Weakness,Chest Pain,Shortness of Breath,Pneumonia
+High Fever,Dizziness,Sore Throat,Fever,Fatigue,Food Poisoning
+High Fever,Sweating,Diarrhea,Headache,Abdominal Pain,Chikungunya
+Fatigue,Abdominal Pain,Dizziness,Cough,Swelling,Cold
+Abdominal Pain,High Fever,Joint Pain,Skin Rash,Loss of Appetite,Chikungunya
+Cough,Swelling,Abdominal Pain,Sore Throat,Loss of Appetite,Allergy
+Skin Rash,Body Pain,Shortness of Breath,Sweating,Chills,Malaria
+Swelling,Fatigue,Loss of Appetite,Sneezing,Shortness of Breath,Flu
+Dizziness,Diarrhea,Runny Nose,Abdominal Pain,Chills,Asthma
+Diarrhea,Dizziness,Muscle Weakness,Abdominal Pain,Headache,Food Poisoning
+Skin Rash,Chills,Diarrhea,Runny Nose,Dizziness,Flu
+Joint Pain,Diarrhea,Chest Pain,Fever,Runny Nose,Allergy
+Joint Pain,Fatigue,Skin Rash,Sneezing,High Fever,Allergy
+Body Pain,Abdominal Pain,Chest Pain,Chills,Joint Pain,Typhoid
+Shortness of Breath,Abdominal Pain,Chest Pain,Fever,Dizziness,Dengue
+Chest Pain,Body Pain,High Fever,Diarrhea,Cough,Chikungunya
+Fatigue,Abdominal Pain,Vomiting,Chills,Chest Pain,Chikungunya
+Chest Pain,Loss of Appetite,Sweating,Headache,Vomiting,Pneumonia
+Fatigue,Chills,Muscle Weakness,Headache,Swelling,Food Poisoning
+High Fever,Fever,Joint Pain,Vomiting,Runny Nose,Pneumonia
+Sneezing,Chills,Headache,Fatigue,Shortness of Breath,Cold
+Fatigue,Skin Rash,Sore Throat,Body Pain,Abdominal Pain,Asthma
+Body Pain,Skin Rash,Chest Pain,Loss of Appetite,Sweating,Flu
+Abdominal Pain,Nausea,High Fever,Loss of Appetite,Headache,Typhoid
+Swelling,Chills,Vomiting,Shortness of Breath,Runny Nose,Asthma
+Skin Rash,Muscle Weakness,Swelling,Joint Pain,Dizziness,Dengue
+Joint Pain,Sneezing,Fever,Abdominal Pain,Shortness of Breath,Dengue
+Chills,Sneezing,Headache,Chest Pain,Sore Throat,Allergy
+Runny Nose,Fever,Abdominal Pain,Shortness of Breath,Joint Pain,Malaria
+High Fever,Body Pain,Chest Pain,Vomiting,Nausea,COVID-19
+Chills,Swelling,Nausea,Sweating,Headache,Food Poisoning
+Body Pain,Muscle Weakness,Headache,Loss of Appetite,Vomiting,Typhoid
+Sweating,Diarrhea,Fever,Chills,Swelling,Malaria
+Loss of Appetite,Sneezing,Nausea,Joint Pain,Sweating,Asthma
+Joint Pain,Nausea,Dizziness,Runny Nose,Shortness of Breath,Dengue
+Cough,Diarrhea,Swelling,Chills,Fatigue,Malaria
+Joint Pain,Muscle Weakness,Vomiting,Cough,Swelling,Pneumonia
+Joint Pain,Swelling,Fever,Headache,Skin Rash,Chikungunya
+Nausea,Body Pain,Vomiting,Sneezing,Sweating,Dengue
+Skin Rash,Joint Pain,Fatigue,Shortness of Breath,Muscle Weakness,Malaria
+Skin Rash,Runny Nose,Sweating,Vomiting,Body Pain,Malaria
+Sneezing,Chills,Fatigue,Runny Nose,Cough,Asthma
+Chest Pain,Joint Pain,Swelling,Nausea,Chills,COVID-19
+Loss of Appetite,Headache,Muscle Weakness,Skin Rash,Fatigue,Pneumonia
+Sweating,Skin Rash,Nausea,Body Pain,Runny Nose,Chikungunya
+High Fever,Sneezing,Vomiting,Abdominal Pain,Headache,Dengue
+Body Pain,Nausea,Chest Pain,Sore Throat,Sweating,Flu
+Fatigue,Sneezing,Shortness of Breath,Diarrhea,Abdominal Pain,Dengue
+Nausea,Skin Rash,Sweating,Body Pain,Chills,Food Poisoning
+Joint Pain,Cough,Fever,Chest Pain,Muscle Weakness,Food Poisoning
+Joint Pain,High Fever,Sweating,Cough,Swelling,Asthma
+Body Pain,Loss of Appetite,Headache,Chills,Fever,Bronchitis
+Chills,Cough,Loss of Appetite,Fever,Shortness of Breath,COVID-19
+Sweating,Loss of Appetite,Abdominal Pain,High Fever,Diarrhea,Cold
+Muscle Weakness,Joint Pain,Headache,Body Pain,Runny Nose,Food Poisoning
+Chills,Sweating,Diarrhea,Muscle Weakness,Headache,Asthma
+Loss of Appetite,Fatigue,Chills,Swelling,Runny Nose,Allergy
+Loss of Appetite,Sweating,High Fever,Swelling,Joint Pain,Malaria
+Fever,Swelling,Cough,Nausea,Fatigue,COVID-19
+Sweating,Fever,Swelling,Runny Nose,Fatigue,Pneumonia
+Sneezing,High Fever,Dizziness,Joint Pain,Fatigue,Typhoid
+Diarrhea,Sweating,Sore Throat,Headache,Vomiting,Flu
+Vomiting,Chest Pain,Sweating,Headache,Swelling,Flu
+Abdominal Pain,Fever,Shortness of Breath,Chest Pain,Joint Pain,Pneumonia
+Skin Rash,Loss of Appetite,Vomiting,Muscle Weakness,Dizziness,Allergy
+Abdominal Pain,Joint Pain,Fever,Skin Rash,Cough,Tuberculosis
+Sneezing,Runny Nose,Chills,Vomiting,Swelling,COVID-19
+Dizziness,Fever,Runny Nose,Shortness of Breath,Muscle Weakness,Flu
+Chest Pain,Fever,High Fever,Skin Rash,Sore Throat,Tuberculosis
+Abdominal Pain,Loss of Appetite,Muscle Weakness,Chills,Shortness of Breath,Pneumonia
+Fever,Chills,Chest Pain,Cough,Skin Rash,Tuberculosis
+Chest Pain,Headache,Vomiting,Sneezing,Joint Pain,Flu
+Sweating,Swelling,High Fever,Nausea,Cough,Cold
+Vomiting,Muscle Weakness,Swelling,Nausea,Body Pain,Bronchitis
+Diarrhea,Chest Pain,Swelling,Muscle Weakness,Sneezing,Pneumonia
+Runny Nose,Joint Pain,Fever,Fatigue,Shortness of Breath,COVID-19
+Abdominal Pain,Body Pain,Fever,Sneezing,Loss of Appetite,Tuberculosis
+Sore Throat,Body Pain,High Fever,Fatigue,Chills,Asthma
+Headache,Cough,Dizziness,Joint Pain,Sneezing,Allergy
+Sore Throat,Dizziness,Headache,Cough,Vomiting,Tuberculosis
+Joint Pain,Sore Throat,Swelling,Loss of Appetite,Abdominal Pain,Typhoid
+Vomiting,Shortness of Breath,Chills,Fever,Fatigue,Bronchitis
+High Fever,Fatigue,Nausea,Headache,Swelling,Allergy
+Sore Throat,Vomiting,Chest Pain,Swelling,Cough,Dengue
+Chills,Sneezing,Abdominal Pain,Chest Pain,High Fever,Food Poisoning
+Joint Pain,Muscle Weakness,Abdominal Pain,Sneezing,Fatigue,Asthma
+Loss of Appetite,Chills,Sore Throat,Fatigue,Swelling,COVID-19
+Loss of Appetite,Sweating,Runny Nose,Body Pain,Sneezing,Tuberculosis
+Nausea,Chills,Vomiting,Diarrhea,High Fever,Pneumonia
+Nausea,Vomiting,Fatigue,Swelling,Sweating,Typhoid
+Body Pain,Sneezing,Muscle Weakness,Dizziness,Abdominal Pain,Cold
+High Fever,Chills,Vomiting,Dizziness,Joint Pain,Dengue
+Abdominal Pain,Cough,Muscle Weakness,Chest Pain,Nausea,Pneumonia
+Muscle Weakness,Swelling,Shortness of Breath,Diarrhea,Vomiting,Bronchitis
+Sore Throat,Abdominal Pain,Runny Nose,Loss of Appetite,Vomiting,Flu
+Headache,Nausea,Chills,Body Pain,Runny Nose,Malaria
+Joint Pain,Skin Rash,Cough,Dizziness,Diarrhea,Asthma
+Dizziness,Chest Pain,Vomiting,Abdominal Pain,Sneezing,Malaria
+Sneezing,Fever,Runny Nose,Dizziness,Body Pain,Tuberculosis
+Vomiting,Runny Nose,High Fever,Dizziness,Sneezing,Tuberculosis
+Skin Rash,Shortness of Breath,Muscle Weakness,Runny Nose,Abdominal Pain,Cold
+Swelling,Runny Nose,Diarrhea,Loss of Appetite,Skin Rash,Allergy
+Joint Pain,Muscle Weakness,Cough,Sweating,Body Pain,Dengue
+Shortness of Breath,Headache,Loss of Appetite,Diarrhea,Body Pain,Cold
+Chest Pain,Runny Nose,Diarrhea,Chills,Nausea,Bronchitis
+Loss of Appetite,High Fever,Sneezing,Sore Throat,Fatigue,Pneumonia
+Cough,Sore Throat,Nausea,Chills,Sneezing,Typhoid
+Body Pain,Sneezing,Nausea,Sweating,Chills,Malaria
+Chest Pain,Joint Pain,Diarrhea,Muscle Weakness,Body Pain,Typhoid
+Nausea,Sneezing,Diarrhea,Loss of Appetite,Shortness of Breath,COVID-19
+Joint Pain,Chest Pain,Chills,Nausea,Cough,Tuberculosis
+Swelling,Nausea,Chest Pain,Fatigue,Loss of Appetite,Cold
+Runny Nose,Cough,Fatigue,Shortness of Breath,High Fever,Asthma
+Fever,Body Pain,Chills,Joint Pain,Swelling,Asthma
+Body Pain,Sneezing,Dizziness,Chest Pain,Joint Pain,Food Poisoning
+Shortness of Breath,Fever,Joint Pain,Skin Rash,Muscle Weakness,Pneumonia
+Sweating,Diarrhea,Fever,Shortness of Breath,Body Pain,Cold
+Fever,Muscle Weakness,Body Pain,Nausea,Sore Throat,Allergy
+Chills,Runny Nose,Swelling,Shortness of Breath,Sneezing,Chikungunya
+Runny Nose,Sweating,Joint Pain,Fatigue,Vomiting,Tuberculosis
+Loss of Appetite,Headache,Diarrhea,Body Pain,Chest Pain,Tuberculosis
+Sore Throat,Chills,Dizziness,Vomiting,Shortness of Breath,Chikungunya
+Cough,Sore Throat,Shortness of Breath,Abdominal Pain,Sneezing,Asthma
+Sneezing,Sweating,Chest Pain,High Fever,Headache,Pneumonia
+Fatigue,Vomiting,Fever,Dizziness,High Fever,Malaria
+Cough,Chest Pain,Joint Pain,Fever,Diarrhea,Typhoid
+Fatigue,Sweating,Chest Pain,Body Pain,Nausea,Bronchitis
+Runny Nose,Sore Throat,Fever,Chills,Nausea,Bronchitis
+Nausea,Loss of Appetite,Body Pain,Swelling,Chills,Dengue
+Loss of Appetite,Diarrhea,Sweating,Vomiting,Cough,Dengue
+Sweating,Loss of Appetite,Cough,Runny Nose,Shortness of Breath,Malaria
+Chills,Nausea,Joint Pain,Muscle Weakness,Cough,Asthma
+High Fever,Chills,Body Pain,Abdominal Pain,Fever,Dengue
+Vomiting,Cough,Sneezing,High Fever,Dizziness,Cold
+Abdominal Pain,Sneezing,Shortness of Breath,Swelling,Fever,Food Poisoning
+Shortness of Breath,High Fever,Skin Rash,Headache,Loss of Appetite,Chikungunya
+Diarrhea,Sneezing,Runny Nose,Sweating,Vomiting,Flu
+Swelling,Vomiting,Shortness of Breath,Joint Pain,Diarrhea,Food Poisoning
+Joint Pain,Muscle Weakness,Loss of Appetite,Skin Rash,Nausea,Chikungunya
+Diarrhea,Loss of Appetite,Fever,Dizziness,Runny Nose,Typhoid
+Vomiting,Skin Rash,Nausea,Dizziness,Chest Pain,Tuberculosis
+Joint Pain,High Fever,Diarrhea,Vomiting,Sweating,Flu
+Abdominal Pain,Sneezing,Joint Pain,Vomiting,Swelling,Allergy
+Sore Throat,Fever,Runny Nose,Fatigue,High Fever,Typhoid
+Cough,Fever,Skin Rash,Swelling,Shortness of Breath,Bronchitis
+Sore Throat,Sweating,Fatigue,High Fever,Body Pain,Tuberculosis
+High Fever,Runny Nose,Joint Pain,Body Pain,Cough,Allergy
+Shortness of Breath,Runny Nose,Nausea,Cough,Skin Rash,COVID-19
+Vomiting,Cough,Loss of Appetite,Swelling,Nausea,Pneumonia
+Nausea,Chills,High Fever,Dizziness,Fatigue,Pneumonia
+Runny Nose,Cough,Diarrhea,Fever,Shortness of Breath,Pneumonia
+Chills,Sneezing,Sweating,Vomiting,Headache,Malaria
+Headache,Joint Pain,Fatigue,Loss of Appetite,Swelling,Cold
+Muscle Weakness,High Fever,Skin Rash,Sweating,Sneezing,Flu
+Nausea,Sweating,Diarrhea,Body Pain,Chills,Allergy
+Diarrhea,Vomiting,Skin Rash,Runny Nose,High Fever,Malaria
+Cough,Loss of Appetite,Chest Pain,Headache,Swelling,Chikungunya
+Headache,Joint Pain,Chills,Skin Rash,Sore Throat,Food Poisoning
+Sweating,Body Pain,Muscle Weakness,Sore Throat,Runny Nose,Asthma
+Joint Pain,Abdominal Pain,Chills,Skin Rash,High Fever,Flu
+Sore Throat,Abdominal Pain,Fever,Skin Rash,Body Pain,Pneumonia
+Abdominal Pain,Muscle Weakness,Fever,Swelling,Skin Rash,Asthma
+Loss of Appetite,Fever,Cough,Vomiting,Skin Rash,Flu
+Chills,Diarrhea,Sore Throat,Headache,Nausea,Tuberculosis
+Body Pain,Headache,Sore Throat,Runny Nose,Cough,Bronchitis
+Vomiting,Chest Pain,Swelling,Diarrhea,Sneezing,Chikungunya
+Fever,Dizziness,Vomiting,Chills,Joint Pain,Bronchitis
+Cough,Nausea,Abdominal Pain,Runny Nose,Swelling,Tuberculosis
+Skin Rash,High Fever,Muscle Weakness,Shortness of Breath,Chest Pain,Bronchitis
+Swelling,Dizziness,Loss of Appetite,Fatigue,Cough,Tuberculosis
+Cough,Headache,Sore Throat,Chills,High Fever,Allergy
+Sneezing,Cough,Vomiting,Sweating,Fatigue,COVID-19
+Sneezing,Runny Nose,Dizziness,Fever,Body Pain,Food Poisoning
+Joint Pain,Chest Pain,Fatigue,Abdominal Pain,Headache,Allergy
+Cough,Sneezing,Sore Throat,Abdominal Pain,Swelling,Malaria
+Sneezing,Nausea,Sweating,Loss of Appetite,Joint Pain,Chikungunya
+Fever,Runny Nose,Body Pain,Sore Throat,Diarrhea,Pneumonia
+Abdominal Pain,Runny Nose,Shortness of Breath,Sneezing,Loss of Appetite,Chikungunya
+Diarrhea,Swelling,Sweating,Abdominal Pain,Cough,Cold
+Body Pain,Runny Nose,Sweating,Diarrhea,Sore Throat,Dengue
+Fever,Loss of Appetite,Fatigue,Chest Pain,Body Pain,Food Poisoning
+Dizziness,Chest Pain,Muscle Weakness,Shortness of Breath,Headache,Allergy
+Fever,Skin Rash,Runny Nose,Headache,Muscle Weakness,Flu
+High Fever,Fatigue,Skin Rash,Nausea,Shortness of Breath,Pneumonia
+Chills,Sneezing,Runny Nose,Abdominal Pain,Cough,Chikungunya
+Fatigue,Muscle Weakness,Vomiting,Chest Pain,Sweating,Asthma
+Nausea,Diarrhea,Chills,Runny Nose,Shortness of Breath,Typhoid
+Dizziness,Skin Rash,Body Pain,Joint Pain,Nausea,COVID-19
+Swelling,Loss of Appetite,Vomiting,Body Pain,Runny Nose,Asthma
+High Fever,Nausea,Sweating,Joint Pain,Runny Nose,COVID-19
+Sore Throat,Abdominal Pain,Loss of Appetite,Fever,Vomiting,Allergy
+Sweating,Sore Throat,Vomiting,Chest Pain,Diarrhea,Bronchitis
+Headache,Cough,Vomiting,Loss of Appetite,Body Pain,Food Poisoning
+Skin Rash,Headache,Abdominal Pain,Fatigue,Loss of Appetite,Cold
+Diarrhea,Skin Rash,Sweating,Muscle Weakness,Chills,Bronchitis
+Joint Pain,Chills,Dizziness,Skin Rash,Abdominal Pain,Bronchitis
+Sore Throat,Shortness of Breath,Sneezing,Sweating,Diarrhea,Bronchitis
+Sore Throat,Joint Pain,Fatigue,Shortness of Breath,Diarrhea,Typhoid
+Fatigue,Diarrhea,Body Pain,Runny Nose,Headache,Malaria
+Vomiting,Cough,Sweating,Swelling,Chills,Malaria
+Sneezing,Vomiting,Muscle Weakness,Loss of Appetite,Dizziness,Tuberculosis
+Swelling,Sweating,Sneezing,Vomiting,Shortness of Breath,Dengue
+Dizziness,Vomiting,Muscle Weakness,Joint Pain,Body Pain,Tuberculosis
+Cough,Sneezing,Joint Pain,Runny Nose,Diarrhea,Cold
+Skin Rash,Shortness of Breath,Headache,Joint Pain,High Fever,Asthma
+Sore Throat,Shortness of Breath,Chills,Abdominal Pain,Chest Pain,Chikungunya
+Fever,Joint Pain,Sweating,Muscle Weakness,Fatigue,Asthma
+Dizziness,Joint Pain,Runny Nose,Muscle Weakness,Fever,Asthma
+Fatigue,Diarrhea,Muscle Weakness,Joint Pain,Fever,Dengue
+Fatigue,Muscle Weakness,Loss of Appetite,Runny Nose,Nausea,COVID-19
+Sore Throat,Skin Rash,Fever,Cough,Chills,Dengue
+Cough,Muscle Weakness,Shortness of Breath,Body Pain,Sneezing,Food Poisoning
+Loss of Appetite,Dizziness,Swelling,Muscle Weakness,Sore Throat,Bronchitis
+Cough,Headache,Swelling,Vomiting,Diarrhea,COVID-19
+Body Pain,Swelling,Headache,Dizziness,Joint Pain,Asthma
+Fatigue,Skin Rash,Joint Pain,Sweating,Runny Nose,COVID-19
+Chest Pain,Muscle Weakness,Fatigue,Joint Pain,Headache,Allergy
+Sweating,Muscle Weakness,Vomiting,Joint Pain,Cough,Food Poisoning
+Nausea,Abdominal Pain,Skin Rash,Fever,Diarrhea,Cold
+Chills,Dizziness,Loss of Appetite,Sore Throat,Chest Pain,Flu
+Sore Throat,Runny Nose,Cough,Shortness of Breath,Skin Rash,Pneumonia
+Swelling,Skin Rash,Vomiting,Sweating,Abdominal Pain,Chikungunya
+Chest Pain,Abdominal Pain,Fatigue,Sneezing,Swelling,Flu
+Diarrhea,Dizziness,Fever,Fatigue,Sneezing,Cold
+Headache,Loss of Appetite,Chest Pain,Body Pain,Skin Rash,COVID-19
+Sweating,Headache,Joint Pain,High Fever,Dizziness,Malaria
+High Fever,Vomiting,Sore Throat,Dizziness,Chest Pain,Malaria
+Loss of Appetite,Swelling,Abdominal Pain,Dizziness,Headache,Asthma
+High Fever,Joint Pain,Muscle Weakness,Cough,Skin Rash,Bronchitis
+Diarrhea,Swelling,High Fever,Sweating,Shortness of Breath,COVID-19
+Sweating,High Fever,Sore Throat,Chills,Muscle Weakness,Typhoid
+Shortness of Breath,Abdominal Pain,Fever,Sweating,Body Pain,Flu
+Swelling,Loss of Appetite,Sweating,Muscle Weakness,Abdominal Pain,Bronchitis
+Dizziness,Fever,Loss of Appetite,Abdominal Pain,Diarrhea,Typhoid
+Muscle Weakness,Runny Nose,Vomiting,Sore Throat,Nausea,Dengue
+Sweating,Cough,Fatigue,Headache,Diarrhea,Asthma
+Sore Throat,Muscle Weakness,Cough,Body Pain,Joint Pain,Food Poisoning
+Sneezing,Abdominal Pain,Swelling,Fever,Vomiting,Malaria
+Chills,Joint Pain,Fever,Loss of Appetite,Nausea,Typhoid
+Runny Nose,Fatigue,Headache,Loss of Appetite,High Fever,Dengue
+Sore Throat,Chills,Joint Pain,Muscle Weakness,Skin Rash,Dengue
+Fatigue,Chest Pain,Chills,Sneezing,Shortness of Breath,Asthma
+Joint Pain,Diarrhea,Muscle Weakness,Sore Throat,Cough,Pneumonia
+Diarrhea,Sweating,Cough,Sneezing,Chest Pain,Malaria
+Cough,Chills,Shortness of Breath,Body Pain,Sore Throat,Asthma
+Cough,Runny Nose,Fever,Abdominal Pain,Nausea,Pneumonia
+Muscle Weakness,Diarrhea,Shortness of Breath,Chills,Abdominal Pain,Cold
+Headache,Muscle Weakness,Fever,Sweating,Chills,Bronchitis
+Sneezing,Body Pain,High Fever,Joint Pain,Sore Throat,Malaria
+Fatigue,Abdominal Pain,High Fever,Vomiting,Sweating,Pneumonia
+Cough,Sore Throat,Skin Rash,Loss of Appetite,Fever,Chikungunya
+Chills,Diarrhea,Swelling,Sore Throat,Sweating,Malaria
+Abdominal Pain,Dizziness,Fever,Muscle Weakness,Joint Pain,Food Poisoning
+Dizziness,Sore Throat,Loss of Appetite,Headache,Shortness of Breath,Asthma
+Loss of Appetite,Chest Pain,Chills,Sweating,Dizziness,Flu
+Sweating,High Fever,Shortness of Breath,Dizziness,Vomiting,Food Poisoning
+Skin Rash,Fatigue,Shortness of Breath,Swelling,Dizziness,Bronchitis
+Swelling,Shortness of Breath,Nausea,Runny Nose,Abdominal Pain,Food Poisoning
+Headache,Chest Pain,High Fever,Chills,Loss of Appetite,Malaria
+Muscle Weakness,Sneezing,Headache,Cough,Chills,COVID-19
+Body Pain,Dizziness,Sweating,Chills,Skin Rash,Malaria
+High Fever,Chills,Body Pain,Abdominal Pain,Sneezing,Allergy
+Swelling,Muscle Weakness,Shortness of Breath,Chills,Sneezing,Malaria
+Shortness of Breath,Dizziness,Joint Pain,Chest Pain,Chills,Food Poisoning
+Joint Pain,Loss of Appetite,Muscle Weakness,Runny Nose,Body Pain,Cold
+Skin Rash,Chills,Swelling,Chest Pain,Vomiting,Food Poisoning
+Sweating,Abdominal Pain,Diarrhea,Cough,Sneezing,Food Poisoning
+Muscle Weakness,Runny Nose,Cough,Body Pain,Diarrhea,Flu
+Abdominal Pain,Fever,Dizziness,Sweating,Runny Nose,Allergy
+Abdominal Pain,Fatigue,Runny Nose,Shortness of Breath,Dizziness,Asthma
+Skin Rash,Swelling,Muscle Weakness,Sore Throat,Abdominal Pain,Food Poisoning
+Sore Throat,Headache,Shortness of Breath,High Fever,Vomiting,Dengue
+Muscle Weakness,Cough,Loss of Appetite,Fever,Headache,Asthma
+Dizziness,Shortness of Breath,Muscle Weakness,Loss of Appetite,Chest Pain,COVID-19
+Abdominal Pain,Sore Throat,Joint Pain,Fatigue,Loss of Appetite,Flu
+Nausea,Chills,Dizziness,Headache,Shortness of Breath,Dengue
+Loss of Appetite,Fever,Chest Pain,Shortness of Breath,Abdominal Pain,Pneumonia
+Fatigue,Sweating,Dizziness,Nausea,Headache,Allergy
+Diarrhea,High Fever,Fatigue,Fever,Sweating,Food Poisoning
+Loss of Appetite,Sore Throat,Joint Pain,Sneezing,Chest Pain,Asthma
+Muscle Weakness,Runny Nose,Chest Pain,Sweating,Sneezing,Typhoid
+Chest Pain,Diarrhea,Shortness of Breath,Chills,Fatigue,Dengue
+Chest Pain,Cough,Body Pain,Abdominal Pain,Sneezing,Dengue
+Fever,Runny Nose,Fatigue,Vomiting,Chest Pain,Dengue
+Nausea,Abdominal Pain,Chills,Muscle Weakness,Headache,Dengue
+Body Pain,Nausea,Sneezing,Joint Pain,Muscle Weakness,Allergy
+Sore Throat,Headache,Cough,Sweating,Diarrhea,Cold
+Sweating,Shortness of Breath,Abdominal Pain,Vomiting,High Fever,Chikungunya
+Sneezing,Diarrhea,Abdominal Pain,High Fever,Loss of Appetite,Chikungunya
+Muscle Weakness,High Fever,Shortness of Breath,Abdominal Pain,Joint Pain,Flu
+Fever,Diarrhea,Chest Pain,Runny Nose,Nausea,Bronchitis
+Nausea,Cough,Abdominal Pain,Body Pain,Dizziness,Asthma
+Diarrhea,Chills,Nausea,Runny Nose,Fever,Dengue
+Joint Pain,Fatigue,Abdominal Pain,Nausea,Vomiting,Flu
+Joint Pain,Dizziness,Abdominal Pain,Fever,Nausea,Allergy
+Chest Pain,Sore Throat,Abdominal Pain,Shortness of Breath,Fatigue,Dengue
+Skin Rash,High Fever,Dizziness,Diarrhea,Cough,COVID-19
+Fever,Chest Pain,Vomiting,Diarrhea,Sore Throat,Dengue
+Vomiting,Muscle Weakness,Chest Pain,Shortness of Breath,High Fever,COVID-19
+High Fever,Runny Nose,Chest Pain,Fever,Sneezing,Pneumonia
+Fever,Muscle Weakness,Dizziness,Diarrhea,Nausea,Allergy
+Body Pain,Chest Pain,Chills,Swelling,Sneezing,Chikungunya
+Vomiting,Cough,Loss of Appetite,Abdominal Pain,Shortness of Breath,Chikungunya
+High Fever,Muscle Weakness,Sweating,Chills,Headache,Cold
+Muscle Weakness,Runny Nose,Joint Pain,High Fever,Loss of Appetite,Pneumonia
+Runny Nose,Swelling,Skin Rash,Loss of Appetite,Chest Pain,Tuberculosis
+Muscle Weakness,Runny Nose,Skin Rash,Sore Throat,Swelling,Asthma
+Vomiting,Abdominal Pain,Headache,Diarrhea,Joint Pain,Flu
+Nausea,Sweating,Skin Rash,High Fever,Abdominal Pain,Dengue
+Headache,Shortness of Breath,Vomiting,Fever,Fatigue,Allergy
+Loss of Appetite,Joint Pain,Sneezing,Chest Pain,Shortness of Breath,Allergy
+Abdominal Pain,Sneezing,Chills,Joint Pain,Cough,Flu
+Chest Pain,Skin Rash,Runny Nose,Sore Throat,Nausea,Bronchitis
+Vomiting,Sweating,Sore Throat,Joint Pain,Sneezing,Bronchitis
+Cough,Nausea,Muscle Weakness,Chills,Loss of Appetite,Allergy
+Joint Pain,Dizziness,Swelling,Runny Nose,Nausea,Typhoid
+Sore Throat,Skin Rash,Headache,Swelling,Chest Pain,Cold
+Sweating,Sore Throat,Body Pain,Diarrhea,Headache,Dengue
+Loss of Appetite,Cough,Vomiting,Sore Throat,Swelling,Tuberculosis
+Chills,Chest Pain,Muscle Weakness,Joint Pain,Sweating,Flu
+Dizziness,Sore Throat,Runny Nose,Cough,Diarrhea,Allergy
+Skin Rash,High Fever,Diarrhea,Body Pain,Chest Pain,Tuberculosis
+Chills,Fatigue,High Fever,Shortness of Breath,Dizziness,Dengue
+Fever,Body Pain,Headache,Swelling,Abdominal Pain,Malaria
+Swelling,Muscle Weakness,Chest Pain,Dizziness,Skin Rash,Tuberculosis
+Cough,Skin Rash,Fever,Joint Pain,Abdominal Pain,Asthma
+Abdominal Pain,Joint Pain,Swelling,Muscle Weakness,Skin Rash,Malaria
+Nausea,Cough,Dizziness,Skin Rash,Joint Pain,Allergy
+Vomiting,Body Pain,Sweating,Dizziness,Loss of Appetite,Cold
+Cough,Sneezing,Vomiting,Skin Rash,Chest Pain,Malaria
+Sore Throat,Shortness of Breath,Fever,Dizziness,Diarrhea,Food Poisoning
+Joint Pain,Diarrhea,Headache,Fever,Muscle Weakness,Dengue
+Vomiting,Abdominal Pain,Sweating,High Fever,Loss of Appetite,Typhoid
+Swelling,Loss of Appetite,Joint Pain,Fever,Cough,Malaria
+Skin Rash,Muscle Weakness,Cough,Nausea,Fever,Tuberculosis
+Sore Throat,High Fever,Headache,Diarrhea,Dizziness,COVID-19
+High Fever,Chills,Muscle Weakness,Fatigue,Loss of Appetite,COVID-19
+Abdominal Pain,Headache,Swelling,Loss of Appetite,Chills,COVID-19
+Nausea,Body Pain,Chest Pain,Dizziness,Headache,Bronchitis
+Sore Throat,Chest Pain,Fever,Joint Pain,Loss of Appetite,Asthma
+High Fever,Chills,Body Pain,Fatigue,Sneezing,Flu
+Headache,Loss of Appetite,Fever,Muscle Weakness,Skin Rash,Typhoid
+Loss of Appetite,Fatigue,Diarrhea,Swelling,Chills,Pneumonia
+Headache,Dizziness,Skin Rash,Runny Nose,Chest Pain,Dengue
+Abdominal Pain,Sweating,Nausea,Sneezing,Runny Nose,Allergy
+Muscle Weakness,Chills,Sneezing,Sweating,Body Pain,Tuberculosis
+High Fever,Body Pain,Cough,Loss of Appetite,Runny Nose,Typhoid
+Nausea,Joint Pain,Dizziness,Chills,Shortness of Breath,Food Poisoning
+Vomiting,Nausea,Fever,Swelling,Sweating,Allergy
+Body Pain,Runny Nose,Muscle Weakness,Diarrhea,Abdominal Pain,Chikungunya
+Fatigue,Chills,Chest Pain,Sweating,Loss of Appetite,Allergy
+Shortness of Breath,Headache,Vomiting,Skin Rash,Dizziness,Bronchitis
+Swelling,Sweating,Fever,Runny Nose,Abdominal Pain,Food Poisoning
+Chills,Fatigue,Diarrhea,Sore Throat,Fever,Allergy
+Nausea,Runny Nose,Body Pain,Chest Pain,Sore Throat,Bronchitis
+Sneezing,Nausea,Cough,Loss of Appetite,Chills,Pneumonia
+Loss of Appetite,Runny Nose,Sore Throat,Cough,Joint Pain,COVID-19
+Fever,Muscle Weakness,Fatigue,Chills,Body Pain,Malaria
+Swelling,Sweating,Vomiting,Fatigue,Body Pain,Tuberculosis
+Runny Nose,Vomiting,Muscle Weakness,Sweating,Headache,Tuberculosis
+Sneezing,Cough,Dizziness,Fatigue,Fever,COVID-19
+Runny Nose,Swelling,Cough,Body Pain,High Fever,Flu
+Skin Rash,Muscle Weakness,Chills,Body Pain,Fatigue,Flu
+Abdominal Pain,Shortness of Breath,Body Pain,Nausea,Fatigue,Tuberculosis
+Fatigue,Nausea,Sneezing,Chills,Abdominal Pain,Malaria
+Runny Nose,Sneezing,Sweating,Body Pain,Joint Pain,Bronchitis
+Dizziness,Sneezing,Loss of Appetite,Vomiting,Body Pain,COVID-19
+Nausea,Runny Nose,Skin Rash,Swelling,Chest Pain,Flu
+Fever,Muscle Weakness,Vomiting,High Fever,Dizziness,Food Poisoning
+Shortness of Breath,Muscle Weakness,Fatigue,Loss of Appetite,High Fever,Tuberculosis
+Dizziness,Shortness of Breath,High Fever,Nausea,Swelling,Tuberculosis
+Sneezing,Headache,Chest Pain,Muscle Weakness,Swelling,Asthma
+Chest Pain,Fever,Runny Nose,Loss of Appetite,Diarrhea,Asthma
+Sore Throat,Chills,Abdominal Pain,Runny Nose,Vomiting,Bronchitis
+Fatigue,Abdominal Pain,Sneezing,Sweating,Skin Rash,Food Poisoning
+Runny Nose,Chills,Vomiting,Body Pain,Muscle Weakness,Tuberculosis
+Diarrhea,Nausea,Sneezing,Fatigue,Cough,Asthma
+Sweating,Sneezing,Body Pain,Fever,Loss of Appetite,COVID-19
+Sweating,Body Pain,Nausea,Shortness of Breath,Runny Nose,Malaria
+Loss of Appetite,Sweating,Chest Pain,Skin Rash,Nausea,Cold
+Swelling,Runny Nose,Loss of Appetite,Fever,Sneezing,Food Poisoning
+Nausea,Loss of Appetite,Abdominal Pain,Fever,Diarrhea,Tuberculosis
+Abdominal Pain,High Fever,Cough,Body Pain,Chest Pain,Typhoid
+Chest Pain,Shortness of Breath,Headache,Cough,Muscle Weakness,Food Poisoning
+Joint Pain,Headache,Vomiting,Skin Rash,Cough,Chikungunya
+Sore Throat,Body Pain,Skin Rash,Abdominal Pain,Dizziness,Pneumonia
+Sweating,High Fever,Cough,Muscle Weakness,Diarrhea,Food Poisoning
+Fatigue,Headache,Runny Nose,Skin Rash,Vomiting,Dengue
+Chills,Body Pain,Abdominal Pain,Swelling,Skin Rash,Food Poisoning
+Sneezing,Sore Throat,Fatigue,Runny Nose,Dizziness,Allergy
+Joint Pain,Diarrhea,Nausea,Body Pain,Abdominal Pain,Flu
+Loss of Appetite,Sneezing,Fatigue,Chest Pain,Body Pain,Pneumonia
+Dizziness,High Fever,Chest Pain,Loss of Appetite,Sore Throat,Bronchitis
+Chills,Loss of Appetite,Skin Rash,High Fever,Nausea,Asthma
+Sweating,Headache,Body Pain,Joint Pain,Sneezing,Allergy
+Shortness of Breath,Loss of Appetite,Headache,Vomiting,Sweating,Chikungunya
+Muscle Weakness,Joint Pain,Skin Rash,Nausea,Vomiting,Asthma
+Sneezing,Loss of Appetite,Fever,Shortness of Breath,Nausea,Pneumonia
+Nausea,Swelling,Sneezing,Sweating,Diarrhea,Chikungunya
+Sneezing,Headache,Body Pain,Sweating,Abdominal Pain,COVID-19
+Loss of Appetite,Sweating,Runny Nose,Muscle Weakness,Chest Pain,Malaria
+Chills,Joint Pain,Vomiting,Runny Nose,Chest Pain,Cold
+Abdominal Pain,Muscle Weakness,Loss of Appetite,Vomiting,Headache,Chikungunya
+Abdominal Pain,Body Pain,Nausea,Dizziness,Fever,COVID-19
+Diarrhea,Skin Rash,Sore Throat,Fatigue,Sneezing,Chikungunya
+Joint Pain,Sore Throat,Fever,Sneezing,Shortness of Breath,Tuberculosis
+Nausea,Shortness of Breath,Runny Nose,Sneezing,Vomiting,Allergy
+Chest Pain,Skin Rash,Swelling,Shortness of Breath,Fatigue,Cold
+Shortness of Breath,Sneezing,Joint Pain,Dizziness,Muscle Weakness,Malaria
+Shortness of Breath,Fever,Abdominal Pain,Skin Rash,High Fever,COVID-19
+Joint Pain,Diarrhea,High Fever,Sneezing,Chills,Allergy
+Chest Pain,Skin Rash,Loss of Appetite,Cough,Nausea,Flu
+Runny Nose,Skin Rash,High Fever,Dizziness,Muscle Weakness,Malaria
+Chest Pain,Vomiting,Shortness of Breath,Sore Throat,Muscle Weakness,Chikungunya
+Cough,Vomiting,Skin Rash,Swelling,Nausea,Typhoid
+Skin Rash,Body Pain,Swelling,Chills,Loss of Appetite,Allergy
+Sneezing,Diarrhea,Shortness of Breath,Runny Nose,High Fever,Cold
+Runny Nose,Headache,Fever,Diarrhea,Dizziness,Cold
+Sore Throat,Diarrhea,Sweating,High Fever,Runny Nose,Typhoid
+Skin Rash,Cough,Fatigue,Swelling,Chest Pain,Asthma
+Joint Pain,High Fever,Chills,Fever,Headache,Pneumonia
+Vomiting,Nausea,Loss of Appetite,Diarrhea,Muscle Weakness,Dengue
+Cough,Runny Nose,Swelling,Chills,Sore Throat,COVID-19
+Shortness of Breath,Skin Rash,Nausea,Chills,Abdominal Pain,Dengue
+Skin Rash,Abdominal Pain,Joint Pain,Nausea,Sneezing,Cold
+Abdominal Pain,Dizziness,Nausea,Sore Throat,Body Pain,Tuberculosis
+Dizziness,High Fever,Fever,Cough,Headache,Tuberculosis
+Swelling,Abdominal Pain,Dizziness,Loss of Appetite,Sneezing,COVID-19
+High Fever,Loss of Appetite,Chills,Cough,Sore Throat,Pneumonia
+Joint Pain,High Fever,Chills,Sneezing,Cough,Tuberculosis
+Headache,Shortness of Breath,Nausea,High Fever,Cough,Cold
+Sweating,Shortness of Breath,Nausea,Cough,Dizziness,Dengue
+Shortness of Breath,Loss of Appetite,Vomiting,Chest Pain,Skin Rash,COVID-19
+High Fever,Swelling,Dizziness,Headache,Skin Rash,COVID-19
+Sweating,Shortness of Breath,Sore Throat,Body Pain,Fatigue,Cold
+Skin Rash,Muscle Weakness,Shortness of Breath,Abdominal Pain,Sneezing,Asthma
+Nausea,Headache,Skin Rash,Chest Pain,Muscle Weakness,Asthma
+Abdominal Pain,Chills,Dizziness,Sweating,Sore Throat,Dengue
+Diarrhea,Vomiting,Loss of Appetite,Sore Throat,Joint Pain,Malaria
+Headache,Chest Pain,Sweating,Loss of Appetite,Cough,Tuberculosis
+Runny Nose,Sore Throat,Sneezing,Fever,Vomiting,Pneumonia
+Sweating,Skin Rash,Swelling,Sore Throat,Muscle Weakness,Pneumonia
+Nausea,Shortness of Breath,High Fever,Sneezing,Runny Nose,Tuberculosis
+Sore Throat,Shortness of Breath,Fever,Sweating,Dizziness,Food Poisoning
+Fever,Headache,Joint Pain,Diarrhea,Cough,Flu
+Loss of Appetite,Fatigue,Shortness of Breath,Sneezing,Muscle Weakness,Pneumonia
+Chills,Sneezing,Sore Throat,Skin Rash,Nausea,Bronchitis
+Joint Pain,Muscle Weakness,Headache,Cough,Chills,Tuberculosis
+Sweating,Fatigue,Body Pain,Headache,Runny Nose,Tuberculosis
+Joint Pain,Sore Throat,Cough,Shortness of Breath,Loss of Appetite,Cold
+Sore Throat,Dizziness,Body Pain,Nausea,Chest Pain,Allergy
+Nausea,Abdominal Pain,Loss of Appetite,Dizziness,Sweating,Flu
+Dizziness,Sneezing,Cough,Shortness of Breath,Sweating,Typhoid
+High Fever,Sweating,Loss of Appetite,Runny Nose,Chills,Flu
+Vomiting,Swelling,Skin Rash,Joint Pain,Muscle Weakness,Cold
+Skin Rash,Runny Nose,Sore Throat,Abdominal Pain,Nausea,Asthma
+Skin Rash,Sore Throat,Runny Nose,Sweating,Swelling,Malaria
+Sweating,Chills,Joint Pain,Nausea,Body Pain,Flu
+Fatigue,Shortness of Breath,Muscle Weakness,Body Pain,Diarrhea,Asthma
+Swelling,Loss of Appetite,Fatigue,Chills,Runny Nose,Flu
+Fatigue,Nausea,Muscle Weakness,Skin Rash,High Fever,Typhoid
+Sweating,Cough,Fatigue,Swelling,Fever,Bronchitis
+Chills,Loss of Appetite,Sore Throat,Headache,Sneezing,Pneumonia
+Muscle Weakness,Vomiting,Joint Pain,Body Pain,Runny Nose,Malaria
+Headache,Nausea,Abdominal Pain,Loss of Appetite,Diarrhea,Chikungunya
+Shortness of Breath,Body Pain,Fever,Sneezing,Chills,Chikungunya
+Chest Pain,Fever,Cough,Fatigue,Shortness of Breath,Pneumonia
+Cough,Sweating,Shortness of Breath,High Fever,Headache,Cold
+Shortness of Breath,Fatigue,Joint Pain,Sore Throat,Dizziness,Typhoid
+Loss of Appetite,Shortness of Breath,Vomiting,Body Pain,Runny Nose,Food Poisoning
+Sweating,Cough,Body Pain,Swelling,Chills,Typhoid
+Chest Pain,Headache,Abdominal Pain,Dizziness,Swelling,Typhoid
+Abdominal Pain,Body Pain,High Fever,Muscle Weakness,Sore Throat,Pneumonia
+High Fever,Nausea,Shortness of Breath,Sweating,Sneezing,Dengue
+Fever,Chills,Cough,Fatigue,Sore Throat,Pneumonia
+Vomiting,Sneezing,Fatigue,Shortness of Breath,Cough,Food Poisoning
+Shortness of Breath,Swelling,Fever,Fatigue,Skin Rash,Asthma
+Loss of Appetite,High Fever,Nausea,Fatigue,Body Pain,Flu
+Chest Pain,Dizziness,Chills,Vomiting,Fever,Chikungunya
+Fatigue,Chills,Abdominal Pain,Chest Pain,Sore Throat,Dengue
+Swelling,Runny Nose,Chest Pain,Sweating,Joint Pain,Bronchitis
+Swelling,Body Pain,Joint Pain,Cough,Sore Throat,Asthma
+High Fever,Abdominal Pain,Diarrhea,Body Pain,Shortness of Breath,Bronchitis
+Body Pain,Dizziness,Nausea,Skin Rash,Fatigue,Food Poisoning
+Headache,Swelling,Sore Throat,Chills,Muscle Weakness,Tuberculosis
+Fatigue,Diarrhea,Chills,Cough,High Fever,Chikungunya
+Sore Throat,Sweating,Nausea,Chest Pain,Swelling,COVID-19
+Headache,Swelling,Sneezing,Skin Rash,Loss of Appetite,Malaria
+Runny Nose,Sneezing,Sore Throat,Shortness of Breath,Loss of Appetite,Bronchitis
+Cough,Dizziness,Sweating,Nausea,Chest Pain,Typhoid
+Cough,Nausea,Muscle Weakness,Diarrhea,Headache,Asthma
+Cough,Diarrhea,Joint Pain,Loss of Appetite,Chills,Cold
+Body Pain,Loss of Appetite,Skin Rash,Swelling,Shortness of Breath,Allergy
+Fever,Fatigue,Loss of Appetite,Diarrhea,Runny Nose,COVID-19
+Nausea,Body Pain,Joint Pain,Diarrhea,Sore Throat,Pneumonia
+Runny Nose,Chills,Shortness of Breath,Abdominal Pain,Cough,Typhoid
+Body Pain,Vomiting,Headache,Sore Throat,Chest Pain,Typhoid
+Runny Nose,Sore Throat,Nausea,Joint Pain,Headache,Tuberculosis
+Skin Rash,Vomiting,Dizziness,Abdominal Pain,Shortness of Breath,Dengue
+Joint Pain,Sneezing,Diarrhea,Headache,Chest Pain,Asthma
+High Fever,Fever,Sore Throat,Sneezing,Muscle Weakness,Allergy
+High Fever,Cough,Runny Nose,Chest Pain,Body Pain,Dengue
+Body Pain,Runny Nose,Muscle Weakness,Abdominal Pain,Sweating,Dengue
+Diarrhea,High Fever,Abdominal Pain,Dizziness,Skin Rash,Cold
+Fever,Chest Pain,Skin Rash,Runny Nose,High Fever,Tuberculosis
+Skin Rash,Chest Pain,Runny Nose,Loss of Appetite,High Fever,Malaria
+Skin Rash,Cough,Chills,Sweating,Joint Pain,Cold
+Dizziness,Abdominal Pain,Chills,Cough,High Fever,Bronchitis
+Fatigue,Sneezing,Cough,Dizziness,Vomiting,COVID-19
+Runny Nose,Joint Pain,Headache,Sweating,Dizziness,COVID-19
+Vomiting,Shortness of Breath,Nausea,Headache,Chest Pain,Bronchitis
+Sore Throat,Sweating,Chills,Muscle Weakness,High Fever,Bronchitis
+Abdominal Pain,Diarrhea,Muscle Weakness,Dizziness,Sweating,Flu
+High Fever,Swelling,Muscle Weakness,Headache,Shortness of Breath,Bronchitis
+Shortness of Breath,Skin Rash,Body Pain,Joint Pain,Dizziness,Flu
+Dizziness,Runny Nose,Sore Throat,Loss of Appetite,Diarrhea,Pneumonia
+Chest Pain,Swelling,Fever,Body Pain,Muscle Weakness,Typhoid
+Nausea,Body Pain,Cough,Sneezing,Dizziness,Bronchitis
+Muscle Weakness,Abdominal Pain,Swelling,Chills,Fever,Allergy
+Headache,Fatigue,Sore Throat,Abdominal Pain,Skin Rash,Typhoid
+Sneezing,Chills,Fatigue,Shortness of Breath,Headache,Pneumonia
+Vomiting,Chills,Sweating,Sore Throat,Cough,Bronchitis
+Fever,Vomiting,Abdominal Pain,Swelling,Muscle Weakness,Dengue
+Headache,Fatigue,Sweating,Dizziness,Chills,Pneumonia
+Abdominal Pain,Swelling,Headache,Runny Nose,Nausea,Dengue
+Chest Pain,Muscle Weakness,Nausea,Sore Throat,Body Pain,Pneumonia
+High Fever,Sweating,Dizziness,Cough,Shortness of Breath,Malaria
+Chest Pain,Body Pain,Joint Pain,Muscle Weakness,Skin Rash,Asthma
+Shortness of Breath,Fever,Dizziness,Swelling,Body Pain,Chikungunya
+Vomiting,Sweating,Fever,Abdominal Pain,Muscle Weakness,Asthma
+Fatigue,Chest Pain,Cough,Runny Nose,Fever,Bronchitis
+Sore Throat,Vomiting,Chills,High Fever,Fever,Tuberculosis
+Fatigue,High Fever,Muscle Weakness,Runny Nose,Abdominal Pain,Dengue
+Sweating,Skin Rash,Joint Pain,Dizziness,Abdominal Pain,Flu
+Sweating,Chills,Dizziness,Loss of Appetite,Skin Rash,Dengue
+Headache,Diarrhea,Dizziness,Muscle Weakness,Chest Pain,Allergy
+Swelling,Cough,Dizziness,Skin Rash,Chest Pain,Chikungunya
+Runny Nose,Body Pain,Joint Pain,High Fever,Nausea,Cold
+Sneezing,Swelling,Muscle Weakness,Dizziness,Cough,COVID-19
+Chest Pain,Muscle Weakness,Fever,Cough,Fatigue,Pneumonia
+Joint Pain,Fatigue,Loss of Appetite,Nausea,Sneezing,Cold
+Sneezing,Abdominal Pain,Fever,Runny Nose,Sweating,COVID-19
+Headache,Fatigue,Nausea,Abdominal Pain,Chest Pain,Typhoid
+Skin Rash,Joint Pain,Sneezing,Abdominal Pain,Shortness of Breath,Tuberculosis
+Fever,Joint Pain,Shortness of Breath,Dizziness,Diarrhea,Allergy
+Chest Pain,Body Pain,Sneezing,Diarrhea,Sweating,Cold
+Runny Nose,Vomiting,Body Pain,Sweating,Loss of Appetite,Cold
+Chest Pain,Cough,Nausea,Runny Nose,High Fever,Asthma
+Chills,Sore Throat,Loss of Appetite,Muscle Weakness,Swelling,Allergy
+Sneezing,Swelling,Cough,Sweating,High Fever,Pneumonia
+Diarrhea,Muscle Weakness,High Fever,Vomiting,Sweating,Bronchitis
+Sneezing,Swelling,High Fever,Runny Nose,Dizziness,Bronchitis
+Runny Nose,Muscle Weakness,Abdominal Pain,Joint Pain,Chest Pain,Pneumonia
+Dizziness,Sneezing,Sweating,Sore Throat,Chest Pain,Dengue
+Sweating,Nausea,High Fever,Sore Throat,Headache,Chikungunya
+Dizziness,Fever,Nausea,Body Pain,Shortness of Breath,Typhoid
+Runny Nose,Fever,Chills,Sweating,Cough,Dengue
+Fever,Cough,Sweating,Sore Throat,Joint Pain,Chikungunya
+Loss of Appetite,Joint Pain,Muscle Weakness,Sore Throat,Chills,Food Poisoning
+Runny Nose,Loss of Appetite,Muscle Weakness,Body Pain,Swelling,Cold
+Skin Rash,Shortness of Breath,Abdominal Pain,Dizziness,Diarrhea,Pneumonia
+Chest Pain,Sore Throat,Muscle Weakness,Nausea,Fatigue,Flu
+Headache,Nausea,Muscle Weakness,Runny Nose,Shortness of Breath,Dengue
+Vomiting,Fever,Swelling,Runny Nose,Nausea,Pneumonia
+Loss of Appetite,Cough,Shortness of Breath,Nausea,Diarrhea,Bronchitis
+Joint Pain,Dizziness,Sneezing,Runny Nose,Chest Pain,Tuberculosis
+Shortness of Breath,Muscle Weakness,Body Pain,Loss of Appetite,Abdominal Pain,Asthma
+Vomiting,Muscle Weakness,Headache,Joint Pain,Cough,Allergy
+Loss of Appetite,Sweating,Sneezing,Vomiting,Sore Throat,Tuberculosis
+Diarrhea,Muscle Weakness,Sweating,Sore Throat,Chills,COVID-19
+Runny Nose,Dizziness,Headache,Shortness of Breath,Chest Pain,Pneumonia
+Joint Pain,Dizziness,Chills,Diarrhea,Swelling,Flu
+Sore Throat,Headache,Shortness of Breath,High Fever,Joint Pain,Cold
+Chest Pain,Loss of Appetite,Cough,Swelling,Fever,Chikungunya
+Chest Pain,Shortness of Breath,Cough,Sneezing,Loss of Appetite,Flu
+Diarrhea,Skin Rash,Sore Throat,Dizziness,Headache,Malaria
+Chills,Loss of Appetite,Skin Rash,Fatigue,Body Pain,COVID-19
+Chest Pain,Fatigue,Joint Pain,Shortness of Breath,Sneezing,Asthma
+Chest Pain,Sneezing,Shortness of Breath,Body Pain,Vomiting,Malaria
+Chest Pain,Diarrhea,Abdominal Pain,Headache,Cough,Pneumonia
+Chills,Headache,Sweating,High Fever,Body Pain,Dengue
+Swelling,Sore Throat,Fatigue,Nausea,Body Pain,Malaria
+Muscle Weakness,Nausea,Fever,Sneezing,Abdominal Pain,Typhoid
+Headache,Fatigue,Cough,Fever,Muscle Weakness,Chikungunya
+Runny Nose,Nausea,Skin Rash,Joint Pain,Chest Pain,Cold
+Swelling,Chills,Nausea,Body Pain,Skin Rash,Tuberculosis
+Joint Pain,Sweating,Fatigue,Nausea,Swelling,COVID-19
+Nausea,Chills,Diarrhea,Headache,Fatigue,Bronchitis
+Abdominal Pain,Vomiting,Sweating,Headache,Swelling,Allergy
+Abdominal Pain,Dizziness,Swelling,Skin Rash,Fatigue,Cold
+Nausea,Dizziness,Runny Nose,Sweating,Chest Pain,Allergy
+Headache,Runny Nose,Skin Rash,Vomiting,High Fever,Food Poisoning
+Chills,Cough,Muscle Weakness,Loss of Appetite,Chest Pain,Bronchitis
+Skin Rash,Sweating,Abdominal Pain,Runny Nose,High Fever,Allergy
+Runny Nose,Abdominal Pain,Headache,Skin Rash,High Fever,Bronchitis
+Runny Nose,Sneezing,Fever,Sore Throat,Headache,Tuberculosis
+Sneezing,Diarrhea,Fatigue,Shortness of Breath,Skin Rash,Flu
+Chest Pain,Diarrhea,Chills,Fever,Shortness of Breath,Asthma
+Fatigue,Cough,Skin Rash,Loss of Appetite,Nausea,Food Poisoning
+Fever,Fatigue,Sweating,Shortness of Breath,Joint Pain,Allergy
+Sore Throat,Sneezing,Skin Rash,Vomiting,Shortness of Breath,Malaria
+Vomiting,Sneezing,Dizziness,Joint Pain,Swelling,Food Poisoning
+Swelling,Nausea,Runny Nose,Skin Rash,Dizziness,Typhoid
+Sneezing,Joint Pain,Nausea,Sweating,Abdominal Pain,Flu
+Loss of Appetite,Sweating,Shortness of Breath,Headache,Muscle Weakness,Flu
+Chest Pain,Diarrhea,Dizziness,Shortness of Breath,Vomiting,Cold
+Abdominal Pain,Headache,Sweating,High Fever,Joint Pain,Malaria
+Sore Throat,Diarrhea,Loss of Appetite,Sneezing,Abdominal Pain,Dengue
+Dizziness,Fever,Shortness of Breath,Diarrhea,Headache,Dengue
+Chills,Sore Throat,Headache,Swelling,Muscle Weakness,COVID-19
+Sweating,Nausea,Body Pain,Fever,Skin Rash,Asthma
+High Fever,Fatigue,Fever,Body Pain,Swelling,Malaria
+Runny Nose,Body Pain,Vomiting,Headache,Sore Throat,Flu
+Chills,Dizziness,High Fever,Fever,Skin Rash,Typhoid
+Body Pain,Fatigue,Sore Throat,Fever,Loss of Appetite,Allergy
+Fever,Sneezing,Vomiting,Joint Pain,Muscle Weakness,Food Poisoning
+Shortness of Breath,Runny Nose,Dizziness,Cough,Fever,Pneumonia
+Skin Rash,Nausea,Muscle Weakness,Dizziness,Sweating,Typhoid
